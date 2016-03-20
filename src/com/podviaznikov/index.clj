@@ -13,19 +13,11 @@
       [:link {:rel "icon" :type "image/png" :href "/favicon-32x32.png" :sizes "32x32"}]
       [:link {:rel "icon" :type "image/png" :href "/favicon-96x96.png" :sizes "96x96"}]
       [:link {:rel "icon" :type "image/png" :href "/favicon-16x16.png" :sizes "16x16"}]
-      ;(include-css "/index.css")
-      [:link {:href "https://fonts.googleapis.com/css?family=Oswald" :rel "stylesheet" :type "text/css"}]
-      ;(include-css "https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.1.1/gh-fork-ribbon.min.css")
+      (include-css "/tufte.css")
       ]
     [:body
-      [:div.hero
-        ; [:h1 "Perun"]
-        [:img {:src "/images/logo_white.png" :height "40px"}]
-        [:p "Composable static site generator build with Clojure and Boot"]
-        [:nav#main-nav {:role "navigation"}
-          [:ul
-            [:li [:a {:href "#plugins"} "Plugins"]]
-            [:li [:a {:href "https://github.com/hashobject/perun"} "Code"]]]
-        ]]
+      [:div
+        [:h1 "Anton Podviaznikov"]
+        [:p "Software engineer"]]
 
       ]))
