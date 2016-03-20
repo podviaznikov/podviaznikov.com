@@ -18,22 +18,31 @@
         [:p "software engineer, traveller, citizen of the world"]]
       [:section
         [:h2 "Geography"]
-          [:ul
-            [:li "I was born in Germany"]
-            [:li "I grew up in post-Soviet Ukraine"]
-            [:li "I left Ukraine for Montenegro"]
-            [:li "I visited more than 20 countries"]
-            [:li "I live in San Francisco now"]]
-        ]
-        [:section
-          [:h2 "Work"]
-            [:ul
-              [:li "I worked in decently large outsourcing company in Ukraine"]
-              [:li "I worked in small product company in Montenegro"]
-              [:li "I was freelance developer for two periods"]
-              [:li "I was founding engineer at CircuitHub"]
-              [:li "I was first engineer at HumanAPI"]
-              [:li "Right now I work at Runnable"]]
-          ]
+        [:ul
+          [:li "born in East Germany"]
+          [:li "grew up in post-Soviet Ukraine"]
+          [:li "left Ukraine for Montenegro"]
+          [:li "visited more than 20 countries"]
+          [:li "live in San Francisco now"]]]
+      [:section
+        [:h2 "Work"]
+        [:ul
+          [:li "worked in moderatly large outsourcing company in Ukraine"]
+          [:li "worked in small product company in Montenegro"]
+          [:li "freelanced for two separate periods"]
+          [:li "I was founding engineer at CircuitHub"]
+          [:li "I was first engineer at HumanAPI"]
+          [:li "Right now I work at Runnable"]
+          [:li "I also run small studio called Hashobject"]]]
+      [:section
+        [:h2 "Links"]
+        [:ul
+          [:li "worked in moderatly large outsourcing company in Ukraine"]
+          [:li "worked in small product company in Montenegro"]
+          [:li "freelanced for two separate periods"]
+          [:li "I was founding engineer at CircuitHub"]
+          [:li "I was first engineer at HumanAPI"]
+          [:li "Right now I work at Runnable"]
+          [:li "I also run small studio called Hashobject"]]]
 
       ]))
