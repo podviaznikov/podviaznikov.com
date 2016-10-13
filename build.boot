@@ -68,7 +68,10 @@
           :renderer 'com.podviaznikov.essays/render
           :page "essays.html"
           :filterer (fn [file] (= "essay" (:type file))))
-        (collection :renderer 'com.podviaznikov.now/render :page "now.html")
+        (collection
+          :renderer 'com.podviaznikov.now/render
+          :page "now.html"
+          :filterer (fn [file] (= "now" (:type file))))
         (collection :renderer 'com.podviaznikov.books/render :page "books.html")
         (target)))
 
