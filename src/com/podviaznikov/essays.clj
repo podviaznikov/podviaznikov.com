@@ -4,9 +4,9 @@
   (:require [com.podviaznikov.common :as views]))
 
 (defn render-essay [essay]
-  [:li
+  [:li.mb3
     [:a.link.f6.b.mb1 {:href (str (:slug essay))} (:name essay)]
-    [:p.ml0.mb2 (:description essay)]])
+    [:p.ml0 (:description essay)]])
 
 (defn render [{global-meta :meta essays :entries}]
   (html5 {:lang "en"}
