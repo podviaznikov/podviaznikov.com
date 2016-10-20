@@ -17,7 +17,7 @@
     [:body
       (views/header)
       [:main.ph3.pb3.pt2.ph5-ns.pb5-ns.pt2-ns
-        [:h1.lh-title.f2.athelas (:title essay)]
+        [:h1.lh-title.f3.athelas (:title essay)]
         [:article.lh-copy.measure.f5
           (str (:content essay))]
         [:footer.mt4.cf.lh-copy.measure.f6
