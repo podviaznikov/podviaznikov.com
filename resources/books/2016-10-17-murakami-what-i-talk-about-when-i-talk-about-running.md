@@ -2,6 +2,7 @@
 title: What I Talk About When I Talk About Running
 author: Haruki Murakami
 location: San Francisco
+date-started: 2016-10-16
 date-read: 2016-10-17
 date-created: 2016-10-19
 date-published: 2016-10-17
@@ -86,3 +87,19 @@ Few interesting things that I noticed:
 &nbsp;
 
 > To be able to grasp something of value, sometimes you have to perform seemingly inefficient acts.
+
+&nbsp;
+
+> A lot of runners now use iPods, but I prefer the MD player I'm used to... At his point I don't want to mix music and computers. Just like it's not good to mix friends and work, and sex.
+
+&nbsp;
+
+> I'm the kind of person who likes to be by himself. To put a finer point on it, I'm the type of person who doesn't find it painful to be alone.
+
+&nbsp;
+
+> I run in order to acquire a void.
+
+&nbsp;
+
+> The happiest thing about becoming a professional writer was that I could go to bed early and get up early.
