@@ -7,6 +7,7 @@ date-read: 2016-10-17
 date-created: 2016-10-19
 date-published: 2016-10-17
 in-language: en
+rating: liked a lot
 keywords: reading, books, Haruki Murakami
 ISBN: 978-0-307-38983-1
 type: book
