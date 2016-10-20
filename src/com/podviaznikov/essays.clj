@@ -5,7 +5,7 @@
 
 (defn render-essay [essay]
   [:li.mb3
-    [:a.link.f6.b.mb1 {:href (str (:slug essay))} (:name essay)]
+    [:a.link.f6.b.mb1 {:href (str (:slug essay))} (:title essay)]
     [:p.ml0 (:description essay)]])
 
 (defn render [{global-meta :meta essays :entries}]

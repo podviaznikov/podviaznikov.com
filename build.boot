@@ -33,6 +33,7 @@
     (cue/replace "<strong>" "<strong class=\"b\">")
     (cue/replace "<em>" "<em class=\"i\">")
     (cue/replace "<a href" "<a class=\"link\" href")
+    (cue/replace "<blockquote>" "<blockquote class=\"athelas ml0 mt0 pl4 black-90 bl bw2 b--blue\">")
     ))
 
 (defn transform-file-content [file]
@@ -62,7 +63,12 @@
         (permalink)
         (canonical-url)
         (print-meta)
-        (render :renderer 'com.podviaznikov.essay/render)
+        (render
+          :renderer 'com.podviaznikov.essay/render
+          :filterer (fn [file] (= "essay" (:type file))))
+        (render
+          :renderer 'com.podviaznikov.book/render
+          :filterer (fn [file] (= "book" (:type file))))
         (collection :renderer 'com.podviaznikov.index/render :page "index.html")
         (collection
           :renderer 'com.podviaznikov.essays/render
@@ -72,7 +78,10 @@
           :renderer 'com.podviaznikov.now/render
           :page "now.html"
           :filterer (fn [file] (= "now" (:type file))))
-        (collection :renderer 'com.podviaznikov.books/render :page "books.html")
+        (collection
+          :renderer 'com.podviaznikov.books/render
+          :page "books.html"
+          :filterer (fn [file] (= "book" (:type file))))
         (target)))
 
 (deftask build

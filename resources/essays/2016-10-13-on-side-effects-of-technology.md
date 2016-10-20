@@ -1,5 +1,5 @@
 ---
-name: On side effects of technology
+title: On side effects of technology
 description: Evaluate new problems created by software technology
 location: San Francisco
 date-created: 2016-10-13
