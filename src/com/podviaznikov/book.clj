@@ -17,7 +17,7 @@
     [:body
       (views/header)
       [:main.ph3.pb3.pt2.ph5-ns.pb5-ns.pt2-ns
-        [:h1.lh-title.f2.athelas (:title book)]
+        [:h1.lh-title.f3.athelas (:title book)]
         [:h2.lh-title.f5.athelas (:author book)]
         [:span.i.f6 "ISBN: "]
         [:span.lh-title.f6 (:ISBN book)]
