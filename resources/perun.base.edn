@@ -2,4 +2,5 @@
   :base-url "http://podviaznikov.com/"
   :site-title "Anton Podviaznikov: personal site"
   :site-description "Sharing my thoughts"
+  :author "Anton Podviaznikov"
 }
