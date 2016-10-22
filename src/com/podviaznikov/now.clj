@@ -16,6 +16,6 @@
           [:footer.mt4.cf.lh-copy.measure.f6
             [:p.i.fr
               [:span.i "Last updated on "]
-              [:span.i (dates/reformat-date (:date-published (first pages)) "MMMM YYYY")]]]
+              [:span.i (dates/reformat-date (:date-modified (first pages)) "MMMM YYYY")]]]
           ]
       ]))

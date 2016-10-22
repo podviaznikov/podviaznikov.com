@@ -81,7 +81,7 @@
         (collection
           :renderer 'com.podviaznikov.books/render
           :page "books.html"
-          :filterer (fn [file] (= "book" (:type file))))
+          :filterer (fn [file] (= "book" (:type file))))  
         (target)))
 
 (deftask build
