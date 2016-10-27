@@ -183,4 +183,165 @@ I will use technology when I judge it to be in my favor to do so. I resist being
 
 &nbsp;
 
-> Newspapers purpose, in general, was to create a cosmopolitan citizenship, informed about he best ideas and most recent knowledge of the time. 
+> Newspapers purpose, in general, was to create a cosmopolitan citizenship, informed about he best ideas and most recent knowledge of the time.
+
+&nbsp;
+
+> Information was not thought of as a commodity to be sold. It had no separate existence, as it does in our age, specifically, it was not thought to be worthwhile unless it was embedded in a context, unless it gave shape, texture, or authority to a political, social, or scientific concept, which itself was required to fit into some world-view.
+
+&nbsp;
+
+> One did not give information to make another "informed". One gave information to make another do something or feel something, and the doing and feeling were themselves part of a larger idea. Information was rhetorical instrument, and this idea did not greatly change until the mid-nineteenth century.
+
+&nbsp;
+
+> The change in the meaning of information was largely generated  by invention of telegraphy and photography in the 1840s. Telegraphy, in particular, gave legitimacy to the idea of context-free information; that is, to the idea that the value of information need not be tied to any function it might server in social and political life. It may exist by itself, as a means of satisfying curiosity and offering novelty. The telegraph made information into a commodity, a "thing" desirable in itself, separate from its possible uses and meaning. In the process, telegraphy made public discourse essentially incoherent. It brought into being a world of broken time and broken attention, to use Mumford's phrase. The principal strength of the telegraph was its capacity to move information not collect it, explain it, or analyze it.
+
+&nbsp;
+
+> Like telegraphy, photography re-creates the world as a series of idiosyncratic events. There is no beginning, middle, or end in a world of photographs. as there is none implied by telegraphy. The world is atomized. There is only a present, and it need not be part of any story that can be told.
+
+&nbsp;
+
+> "Mythinfomration" is an almost religious conviction that at the root of our difficulties - social, political, ecological, psychological - it the fact that we do not have enough information. This, in spite of everyone's having access to books, newspapers, magazines, radios, television, movies, photographs, videos, CDs, billboards, telephones, junk mail, and, recently, the Internet.
+
+&nbsp;
+
+> If our schools are not working and democratic principles are losing their force, that has nothing to do with insufficient information.
+
+&nbsp;
+
+> Information consists of statements about the facts of the world. Facts cannot be wrong. They are what they are. Statements about facts - that is, information - can be wrong and often are.
+
+&nbsp;
+
+> The Internet is not a "truth" medium, it is an information medium.
+
+&nbsp;
+
+> Newspapers should get out of information business and into the knowledge business.
+
+&nbsp;
+
+> What do I mean by "knowledge"? I define knowledge as organized information - information that is embedded in some context; information that has a purpose, that leads one to seek further information in order to understand something about the world.
+
+&nbsp;
+
+> When one has knowledge, one knows how to relate information to one's life, and, especially knows when information is irrelevant.
+
+&nbsp;
+
+> The worst thing about television news or radio news is that there is no reason offered for why information is there; no background; no connectedness to anything else; no point of view; no sense of what the audience is supposed to do with the information.
+
+&nbsp;
+
+> We are presented with a world  of "and"s, not "because"s. This happened, *and* then this happened, *and* then something else happened.
+
+&nbsp;
+
+> I mean by wisdom the capacity to know what body of knowledge is relevant to the solution of significant problems. Knowledge is only organized information. It is self-contained, confined to a single system of information about the world. One can have a great deal of knowledge about the world but entirely lack wisdom. That is frequently the case with scientists, politicians, entrepreneurs, academics, even theologians.
+
+&nbsp;
+
+> Knowledge cannot judge itself. Knowledge must be judged by other knowledge, and therein lies the essence of wisdom.
+
+&nbsp;
+
+> Editorials merely tell us *what* to think. I am talking about telling us what we need to know in order to think. That is the difference between mere opinion and wisdom. It is also the difference between dogmatism and education. Any fool can have an opinion; to know what one needs to know to *have* an opinion is wisdom; which is another way of saying that wisdom means knowing what questions to ask about knowledge.
+
+&nbsp;
+
+> I rather like imagining a time when, in addition to op-ed pages, we will have "wisdom pages", filled with relevant questions about the stories that have been covered, questions directed at those who offer different bodies of knowledge from those which the stories themselves confront. I can even imagine a time when the news will be organized, not according to the standard format of local, regional, national, and world news, but according to some other organizing principle - for example, the seven deadly sins of greed, lust, envy, and so on.
+
+&nbsp;
+
+> We live now in a world to too much information, confusing specialized knowledge, and too little wisdom.
+
+&nbsp;
+
+> The problem to be solved in the twenty first century is not how to *move* information, not the engineering of information. We solved that problem long ago. The problem is how to transform information into knowledge, and how to transform knowledge into wisdom.
+
+**Narratives**
+
+&nbsp;
+
+> "Radical historicism" claims that there are no ultimate truths, especially moral truths: that there is no transcendent authority to which we may appeal for a final answer to a question, Is this right or wrong thing to do?
+
+&nbsp;
+
+> In the nineteenth century, Nietzsche put the matter in a brutal light by arguing that reason is a kind of linguistic illusion, that good and evil, are equally, illusionary, and there is nothing but one's will and power to realize one's will. In other words, there is no difference between the sentences "I want to do this" and  "I have a right to do this".
+
+&nbsp;
+
+> I mean by "narrative" as story. I refer to *big stories* - stories that are sufficiently profound and complex to offer explanations of the origins and future of people; stories that construct ideals, prescribe rules of conduct, specify sources of authority, and, in doing all this, provide a sense of continuity and purpose. Joseph Campbell and Rollo May, among others, called such stories "myths". Marx had such stories in mind referring to "ideologies". And Freud called them "illusions". No matter. What is important about narratives is that human being cannot live without them. We are burdened with a kind of consciousness that insists on our having a purpose.
+Purposefulness requires a moral context, and moral context is what I mean by a narrative.
+
+&nbsp;
+
+> We think of a philosophe as a person who is involved in a political and social affair, who is eager to change how things are, who is obsessed with the enlightenment of others.
+
+&nbsp;
+
+There are several names of the transcendent authority:
+- Natural Law
+- Practical Reason
+- First Principles
+- Traditional Morality
+
+&nbsp;
+
+> Mill said: "The essence of religion is the strong and earnest direction of the emotions and desires toward the ideal object, recognized as of highest excellence, and as rightfully paramount over all selfish objects of desire".
+
+&nbsp;
+
+> What we may learn from these two great philosophes, Eistein and Mill, is what they learned from their predecessors - that it is necessary to live *as if* there is transcendent authority. "One can have the clearest and most complete knowledge of what *is*", Eistnein wrote, "and yet not be able to deduce from that what *should* be the *goal* of our human aspirations. Objective knowledge provides us with powerful instruments for the achievement  of certain ends, but the ultimate goal itself and longing to reach it must come from another source". The other source is religion. Neither Mill nor Einstein believed in the stories that give form and inspiration to traditional religious systems, what Mill called the "supernatural religions". But both understood that we require a story that provides a basis for moral conduct and has a transcendent character. They found it in "natural law", and in the capacities of "human nature". In their stories, human beings have innate feelings for the general good and the unity of mankind. Mill called his story the Religion of Humanity. Einstein spoke of Cosmic Religious feeling. And they found the details of their moral code in sacred texts and history, as well as custom; that is to say, in our obligations to those whom we have judged to have acted in accord with the principles if human solidarity. Mill wrote:
+  "... the thought that our dead parents or friends would have approved our conduct is scarcely less powerful motive than the knowledge that our living ones do approve it; and the idea that Socrates, or Howard, or Washington, or Antonius or Christ would have sympathized with us, or that we are attempting to do our part in the spirit in which they did theirs, has operated on the very best minds as strong incentive to act up to their highest feelings and convictions"
+That there os a tendency *as part of our nature* toward our being "moral" - detesting wanton killing, honoring parents, caring for children, speaking truthfully, loving mercy, overcoming egotism, and all the other exhortations we find shared by sacred texts - is a legacy of Enlightenment. And that this tendency cannot be proven in a scientific manner but must be taken on faith is also a feature of that legacy. And that there can be no objection to one's believing in a divine source for one's moral grounding is yet another feature of the legacy, provided one does not claim absolute certainty for one's belief.
+
+&nbsp;
+
+>
+
+&nbsp;
+
+>
+
+&nbsp;
+
+>
+
+&nbsp;
+
+>
+
+&nbsp;
+
+>
+
+&nbsp;
+
+>
+
+&nbsp;
+
+>
+
+&nbsp;
+
+>
+
+&nbsp;
+
+>
+
+&nbsp;
+
+>
+
+&nbsp;
+
+>
+
+&nbsp;
+
+>
