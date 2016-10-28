@@ -13,6 +13,25 @@ keywords: reading, books, Neil Postman
 ISBN: 978-0-375-70127-6
 type: book
 ---
+## Review
+
+Manifest of humanity for humanity from Neil Postman. He shares his few big ideas us.
+
+The first one is the idea of introspection and reflection; that is the idea of being mindful when evaluating life, decisions, tools, words, behaviors of ours and others.   
+
+The second idea is the idea of finding the new narrative; that is a meta-purpose to our lives and the existence of humankind. He hints that idea of continuity of human race, which can be achieved through understanding of oneness between not only human beings but between humans and Nature, may be the answer. Idea of continuity should transcend one's life (everyone should become "smaller") and time (we should be fill continuity with the greats of the past and future).
+
+The third big idea is the idea of importance of history. Postman demonstrates by example how history might have not only origins for our problems but also ideas how to solve them. History is a tool that scales down time, that is making us smaller, and allows us to see bigger picture and have bigger ideas.
+
+The fourth big idea and hope from Postman is to show us that we can change things. He shows that ideas were created and implemented by real people. He suggest that we shouldn't blindly follow the flow of history, because there is no such flow. We should alter it (at the capacities available to humans) based on the values and idea we believe in.
+
+The final idea is the idea of choosing correct tools and frameworks. He suggest Scientific method to us. In his book he tries to provide us with good tools that help us evaluate everything else.
+
+
+Neil Postman's book is a work of ultimate importance in the post-modern world. The absence of the Narrative, forgetfulness of smaller good ideas and lost of ideals causing some lack of belief in the bright future. Postman, as a true philosophe, tries to use his intellect, following the tradition of Voltaire, Rousseau, Locke, Hume, Jefferson, and others, to give us practical examples how we can change things for the better.
+
+## Notes
+
 ### Introduction
 
 > Imagined futures are always more about where we have been than where we are going.

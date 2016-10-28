@@ -12,6 +12,7 @@ keywords: reading, books, Haruki Murakami
 ISBN: 978-0-307-38983-1
 type: book
 ---
+## Review
 
 Very personal memoir by Haruki Murakami that covers 30 something years of his life: after he became a writer and started to run.
 
@@ -22,6 +23,8 @@ Few interesting things that I noticed:
   - Murakami emphasizes how for him life is process of knowing himself better. Knowing what he likes, what is important for him. How he focuses on internal matters not external things. He decides to spent as much time with people he like and avoid people he dislikes. He is not competitive because for him competitiveness is about looking outwards not inward.
   - Another important lesson: everything worthy in life requires big effort. He shows how setting up routine and rules for himself is paramount.
 
+
+## Notes
 
 > Pain is inevitable. Suffering is optional
 

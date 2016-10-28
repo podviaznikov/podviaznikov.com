@@ -30,6 +30,7 @@
 (defn transform-html [html]
   (-> html
     (cue/replace "<h2>" "<h2 class=\"f5\">")
+    (cue/replace "<h3>" "<h3 class=\"f6\">")
     (cue/replace "<strong>" "<strong class=\"b\">")
     (cue/replace "<em>" "<em class=\"i\">")
     (cue/replace "<a href" "<a class=\"link\" href")
@@ -81,7 +82,7 @@
         (collection
           :renderer 'com.podviaznikov.books/render
           :page "books.html"
-          :filterer (fn [file] (= "book" (:type file))))  
+          :filterer (fn [file] (= "book" (:type file))))
         (target)))
 
 (deftask build

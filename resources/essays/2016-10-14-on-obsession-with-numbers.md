@@ -61,12 +61,13 @@ This sounds like a noble approach - help us to navigate through all this informa
 
 
 So, giving all the information above, what can we do now?
-There are few simple ideas I was thinking about:
-
- - remove Google Analytics and other similar tools (that is how I run this site)
- - decouple numbers from content. E.x. don't show how many views/or comments your blog has
- - maybe have browser extension that cleans up sites and removes comments, numbers of views, suggestions etc
- - explore new ways of consuming content. Maybe as consumers we need more control on the content representation? Maybe browsers itself should be unbundled into simpler tools?
+There are few simple ideas I was thinking about. Some include changes in your behavior:
  - just keep in mind that not everything should be made easier for us. Easy things make us lazy and laziness leads to degradation
  - be mindful of your personal goals and reflect if some site/app helps you to achieve them or just distracts you
  - to cope with the abundance of information and content there is a simple solution - just ignore it. Opt out. This idea was hinted by [Alain de Botton](http://alaindebotton.com/) when he said that the most important things happened not yesterday or today. In fact, they probably happened decades and centuries ago. Pay attention to timeless things
+
+Some are technological ideas:
+- remove Google Analytics and other similar tools (that is how I run this site)
+- decouple numbers from content. E.x. don't show how many views/or comments your blog has
+- maybe have browser extension that cleans up sites and removes comments, numbers of views, suggestions etc
+- explore new ways of consuming content. Maybe as consumers we need more control on the content representation? Maybe browsers itself should be unbundled into simpler tools?
