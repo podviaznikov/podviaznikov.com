@@ -6,21 +6,20 @@ location: San Francisco
 date-started: 2016-10-19
 date-read: 2016-10-24
 date-created: 2016-10-25
-date-published: 2016-10-25
+date-published: 2016-10-27
 in-language: en
 rating: one of the best
 keywords: reading, books, Neil Postman
 ISBN: 978-0-375-70127-6
 type: book
 ---
-
-**Introduction**
+### Introduction
 
 > Imagined futures are always more about where we have been than where we are going.
 
-**A Bridge to the 18th century**
-
 &nbsp;
+
+### A Bridge to the 18th century
 
 > To forget our mistakes is bad. But to forget our successes may be worth.
 
@@ -65,9 +64,9 @@ Where should we look for such a way? Well, of course, one turns first to the wis
 
 > Let us not turn to the eighteenth century in order to copy the institutions she fashioned for herself but in order that we may better understand what suits us. Let us look there for instructions rather than models. Let us adopt principles rather than details.
 
-**Progress**
-
 &nbsp;
+
+### Progress
 
 > Bacon is the first to claim that the principle end of scientific work was t advance the "happiness of mankind". He continually criticized his predecessors for failing to understand that the real, legitimate, and only goal of the sciences is the "endowment of human life with new inventions and riches"
 
@@ -89,10 +88,9 @@ Progress is the business of the heart , bit the intellect.
 
 > The idea of progress, then, is one of the great gifts of the Enlightenment. The eighteenth century invented it, elaborated it, and promoted it, and in doing so generated vast resources of vitality, confidence, and hope. But the eighteenth century also criticized and doubted it, initiating powerful arguments about its limitations and pitfalls.
 
-
-**Technology**
-
 &nbsp;
+
+### Technology
 
 > Balzac, Flaubert, and Zola, documented in their novels the spiritual emptiness that a culture obsessed with progress produces.
 
@@ -131,10 +129,15 @@ Progress is the business of the heart , bit the intellect.
 **Questions to be asked about any new technology**
 
 1) What is the problem to which this technology is the solution?
+
 2) Whose problem is it?
+
 2) What people and institutions might be most seriously harmed by a technological solution?
+
 4) What new problems might be created because we have solved this problem?
+
 5) What sort of people and institutions might acquire special economic and political power because of technological change?
+
 6) What changes in language are being enforced by new technologies, and what is being gained and lost by such changes?
 
 
@@ -173,15 +176,15 @@ As to "conversation", two (or more) people typing messages to each other are eng
 > I find it useful to ask of any technology that is marketed as indispensable, What problem does it solve for *me*? Will it advantages outweigh its disadvantages? Will it alter my habits and language, and if so, for better or worse? ...
 I will use technology when I judge it to be in my favor to do so. I resist being used *by* it. In some cases I may have moral objections. But in most instances, my objection is practical, and reason tells me to measure the results from that point of view.
 
-**Language**
-
 &nbsp;
+
+### Language
 
 > Rather than their reading Derrida, they ought to read Diderot, or Voltaire, Rousseau, Swifts, Madison, Condorcet, or many of the writers of the Enlightenment period who believed that, for all of the difficulties in mastering language, it is possible to say what you mean, to mean what you say, and to be silent when you have nothing to say.
 
-**Information**
-
 &nbsp;
+
+### Information
 
 > Newspapers purpose, in general, was to create a cosmopolitan citizenship, informed about he best ideas and most recent knowledge of the time.
 
@@ -203,7 +206,7 @@ I will use technology when I judge it to be in my favor to do so. I resist being
 
 &nbsp;
 
-> "Mythinfomration" is an almost religious conviction that at the root of our difficulties - social, political, ecological, psychological - it the fact that we do not have enough information. This, in spite of everyone's having access to books, newspapers, magazines, radios, television, movies, photographs, videos, CDs, billboards, telephones, junk mail, and, recently, the Internet.
+> "Mythinformation" is an almost religious conviction that at the root of our difficulties - social, political, ecological, psychological - it the fact that we do not have enough information. This, in spite of everyone's having access to books, newspapers, magazines, radios, television, movies, photographs, videos, CDs, billboards, telephones, junk mail, and, recently, the Internet.
 
 &nbsp;
 
@@ -261,9 +264,9 @@ I will use technology when I judge it to be in my favor to do so. I resist being
 
 > The problem to be solved in the twenty first century is not how to *move* information, not the engineering of information. We solved that problem long ago. The problem is how to transform information into knowledge, and how to transform knowledge into wisdom.
 
-**Narratives**
-
 &nbsp;
+
+### Narratives
 
 > "Radical historicism" claims that there are no ultimate truths, especially moral truths: that there is no transcendent authority to which we may appeal for a final answer to a question, Is this right or wrong thing to do?
 
@@ -283,9 +286,13 @@ Purposefulness requires a moral context, and moral context is what I mean by a n
 &nbsp;
 
 There are several names of the transcendent authority:
+
 - Natural Law
+
 - Practical Reason
+
 - First Principles
+
 - Traditional Morality
 
 &nbsp;
@@ -300,48 +307,147 @@ That there os a tendency *as part of our nature* toward our being "moral" - dete
 
 &nbsp;
 
->
+> As we proceed into a postmodern world, we are bereft of a narrative that can provide courage and optimism; we are facing what Václav Havel and others have called "a crisis in narrative". Old gods have fallen, either wounded or dead. New ones have been aborted. "We are looking", he said, "for the new scientific recipes, new ideologies, new control systems, new new institutions". In other words, we seeks new narratives to provide us with "an elementary sense of justice, the ability to see things as others do, a sense of transcendental responsibility, archetypal wisdom, good taste, courage, compassion, and faith".
 
 &nbsp;
 
->
+> Galileo said, "The intention of the Holy Spirit is to teach how one goes to heaven, not how heaves goes".
 
 &nbsp;
 
->
+> Pope John Paul II said, "Science can purify religion from error and superstition. Religion can purify science from idolatry and false absolutes".
 
 &nbsp;
 
->
+> Science and religion will be hopeful, useful, and life-giving only if we learn to read them with new humility - *as tales*, as limited human renderings of the Truth.
 
 &nbsp;
 
->
+> I believe we are living just now in a special moment in time, at one of those darkening moments when all around us is change and we cannot yet see which way to go. Our old ways of explaining ourselves  to ourselves are not large enough to accommodate a world made paradoxically small by our technologies, yet larger than we can grasp. We cannot go back to simpler times and simpler tales - tales made by clans and tribes and nations when the world was large enough for each to pursue its separate evolution. There are no island continents in the world of electronic technologies, no places left to hide or withdraw from the communities of women or men. We cannot make the world accept one tale - and tat one our own - by chanting it louder  than the rest or silencing those who are singing a different song. We must take to heart the sage remark of Niels Bohr, one of our century's greatest scientist. He said, "The opposite of a correct statement is an incorrect statement. The opposite of a profound truth is another profound truth." ... We can only make the human tale larger by making ourselves little smaller - by seeing that the vision each of us is granted is but a tiny fragment of a much greater Truth not given to mortals to know.
 
 &nbsp;
 
->
+### Children
+
+> (AP: Rousseau made two powerful contributions to the idea of Childhood). The first was in his insistence that the child is important in himself, and not merely a means to an end...
+Rousseau's second idea was that child's intellectual and emotional life is important , not because we must to know about it in order to teach and train our children, but because childhood is the stage of life when man most closely approximates the "state of nature".
 
 &nbsp;
 
->
+> Childhood was invented in the seventeenth century. In the eighteenth, it began to assume the form with which we are familiar. In the twentieth century, childhood began to unravel, and by the twenty first, may be lost altogether - unless there is some serious interest in retaining it.
 
 &nbsp;
 
->
+> There were two intellectual strains of which the idea (AP: of childhood) was composed. We might call them the Lockean, or the Protestant, conception of childhood, and the Rousseauian, or Romantic, conception. In the Protestant view, the child is an unformed person who, through literacy, education, reason, self-control and shame, may be made into a civilized adult. In the Romantic view, it is not the unformed child but the deformed adult who is the problem. The child possesses as his or her birthright capacities for candor, and understanding , curiosity, and spontaneity that are deadened by literacy, education, reason, self-control, and shame...
+To Rousseau, education was essentially a subtraction process; to Locke an addition process. But whatever the differences between these to metaphors, they do have in common a concern for the future. Locke wanted education to result in a rich, varied, and copious book; Rousseau wanted education to result in a healthy flower. This is important to keep in mind, for a concern for the future is increasingly missing from the metaphors of childhood in the present day. Neither Locke not Rousseau ever doubted that childhood requires future-oriented guidance of adults.
 
 &nbsp;
 
->
+> "Information revolution" ... has made it impossible to keep secrets from the young - sexual secrets, political secrets, social secrets, historical secrets, medical secrets; that is to say, the full content of adult life, which must be kept at least partially hidden from the young if there is to be a category of life known as childhood.
 
 &nbsp;
 
->
+> Children are neither black tablets nor budding plants. They are markets; that is to say, consumers whose needs for products roughly the same as the needs of adults... The point is that childhood, if it can be said to exist at all, is now an economic category. There is very little the culture wants to do for their children except to make them into consumers.
 
 &nbsp;
 
->
+> It is not inevitable that the computer will be used to promote sequential, logical, complex, and even philosophical thought among the mass of people. There are economic and political interest that would be better served by allowing the bulk of semiliterate population to entertain itself with the magic of visual computer games, to use and be used by computers without understanding.
 
 &nbsp;
 
->
+### Democracy
+
+> John Stuart Mill argued that the active participation of the governed in the process of government is an essential component of a democratic system. "The food of feeling", he wrote, "is action... Let a person have nothing to do for his country, and he will not care for it." That, I assume, is what John F. Kennedy meant in saying, "Ask not what your country can do for you, but what you can do for your country". Political indifference in the death of democracy.
+
+&nbsp;
+
+> Tocqueville wrote:
+"Here, then, is motley multitude with intellectual wants to be supplied. These new votaries of the pleasure of the mind have not all had the same education; they are not guided by the same lights, do not resemble their own fathers; and they themselves are changing every moment with changing place of residence, feelings, and fortune. So there are no traditions, or common habits, to forge links between their minds, and they have neither the power nor the wish nor the time to come to common understanding. But it is from this heterogeneous, stirring crowd that authors spring, and from it they must win profit and renown."
+
+&nbsp;
+
+> "In America", Tocqueville wrote, "parties do not write books to combat each other's opinions, but pamphlets, which are circulated for a day with incredible rapidity and then expire."
+
+&nbsp;
+
+> Democracy depends on public discourse, and therefor the kind of quality of the discourse is of singular importance. Simply to say that more information is received more quickly in diverse forms, with opportunities for fast feedback, is not to say that democratic processes are enriched.
+
+&nbsp;
+
+> In a culture dominated by print, public discourse tends to be characterized by a coherent, orderly arrangement of facts and ideas. The public for whom it is intended is generally competent to manage such discourse. In a print culture, writers make mistakes when they lie, contradict themselves, fail to support their generalizations, try to enforce illogical connections. In a print culture readers make mistakes when they don't notice, or even worse, don't care.
+
+&nbsp;
+
+> (AP: Marshall McLuhan) remarked in a letter to publisher that we must "approach the book as cultural therapy, as indispensable ingredient in communal diet, necessary for maintenance of civilized values as opposed to tribal values"
+
+&nbsp;
+
+Questions we should ask:
+
+1) Does any decline in the significance of the printed word make democracy less rational? Can a representative democracy, even participatory democracy, function well if its citizens minds are not disciplined by the printed word?
+
+2) To what extend do the new media promote egoism, and therefore undermine the sense of community without which democratic polity cannot function?
+
+3) What sort of time-machines are the newer media - television, computers, CDs, faxes? Even more important, what transformations in consciousness do they promote? Does anyone know? Is it a matter widely discussed?
+
+4) Do the new media if communication help or hinder in the development of shared dreams of democracy? Do our movies, TV shows, and songs bind us or loosen us?
+
+&nbsp;
+
+### Education
+
+> There are three clear legacies of the eighteenth century that bear on education; that is to say, on schooling. The first ... is the idea that schooling must be based on understanding the nature of childhood and, in particular, of the different stages through which the young travel on their journey to adulthood. The second ... is the idea that an educated populace is a national resources. And the third is the assumption than an educated mind is practiced in the uses of reason, which inevitably leads to a skeptical - one might event say scientific - outlook.
+
+&nbsp;
+
+> "Let the child be as free as possible", he (AP: Pestalozzi) wrote, "treasure every moment which may be conductive to freedom, peace, and equanimity. Do not teach by words anything which you can teach by actual experience of things as they are."
+
+&nbsp;
+
+> Skepticism is the principal legacy of the Enlightenment. There is nothing more profound to do than to carry that legacy forward by making and effort at conveying it to our young.
+
+&nbsp;
+
+5 suggestions on education:
+
+1) Teach children something about art and science of asking questions.
+
+> School is traditionally considered a place for students to learn answers, not the questions which evoke answers. What will happen if a student, being given a set of facts, asks, "What is a fact? How is it different from an opinion? And who is to judge?"
+
+2) Study The Trivium: logic, rhetoric, and grammar.
+
+> These subjects are about the relationship between language and reality; they are about differences between kind of statements, about the nature of propaganda, about the ways in which we search for truths, and just about everything else one needs to know in order to use language in a disciplined way and to know when others aren't.
+
+&nbsp;
+
+> Whatever else we bring into the new century, we will certainly feature the greatest array of propagandistic techniques in the history of humankind.
+
+&nbsp;
+
+> These ideas - that people create meanings by the names they use, and we are free to rejects the names that are given - are central to language education, and are one's principal source of defense against a culture in which propaganda is the largest industry.
+
+3) Teach scientific outlook.
+
+> The science curriculum is usually focused on communicating the known facts of each discipline without serious attention ... to the history of discipline, the mistakes scientist have made, the methods they use and have used, or the ways in which scientific claims are either refuted or confirmed.
+
+&nbsp;
+
+> Knowledge is the quest, not a commodity; what we thing we know comes out of what we ones thought we knew; what we will know in the future may make a hash of what we now believe.
+
+&nbsp;
+
+> Most students have no idea why Copernicus is to be preferred over Ptolemy. If they know of Ptolemy at all, they know that he was "wrong" and Copernicus was "right", but only because their teacher or textbook says so. This way of believing is what scientists regard as dogmatic and authoritarian. It is the exact opposite of scientific belief.
+
+4) Forth suggestion concerns "technology education".
+
+> Everyone will know how to use computers. But what they will *not* know, as none of us did about everything from automobiles to movies to television, is what are the psychological, social, and political effects of new technologies. And that is a subject that ought to be central in schools...
+If we are going to make technology education part of the curriculum, its goal must be to teach students to use technology rather than to be used by it. And that means that they must know how a technology's use affects the society in which they live, as well as their own personal lives. This is something we didn't do with television, and, I fear, we are now not doing with computer technology.
+
+5) Final suggestion concerns religion.
+
+> I ... propose that, beginning sometime in later elementary school and proceeding with focused detail in high school and beyond, we provide our young with opportunities to study comparative religion. Such studies would promote no particular religion but would aim at illuminating the metaphors, literature, art, and ritual of religious expression itself.
+
+
+&nbsp;
+
+> I regard history as the single most important idea for our youth to take with them into the future. I call it an idea rather than a subject because every subject has a history, and its history is an integral part of the subject. History, we might say, is meta-subject. No one can claim accurate knowledge of a subject unless one knows how such knowledge came to be. I would, of course, favor "history" courses, although I have always thought such courses out to be called "histories" so that our youth would understand that what once happened has been seen from different points of view, by different people, each with a different story to tell.
