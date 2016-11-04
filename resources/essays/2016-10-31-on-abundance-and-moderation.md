@@ -3,8 +3,8 @@ title: On abundance and moderation
 description: We live a world drive by numbers
 location: Hong Kong
 date-created: 2016-10-31
-date-modified: 2016-10-31
-date-published: 2016-10-31
+date-modified: 2016-11-04
+date-published: 2016-11-02
 in-language: en
 keywords: abundance, moderation, consumption, Neil Postman
 type: essay
@@ -37,4 +37,6 @@ Or maybe restriction allows us to have more unclaimed free time that we can spen
 
 No matter what was Goethe primary reason for writing the phrase mentioned above I think we should try to take his advice to heart. Let us see if we can limit ourselves in our world drive by consumption. Are we even able anymore to listen to one song per day, do one physical exercise, read one story/essay, eat one nutritional (and tasty) meal?
 
-How would it reshape our personalities and tastes? What skills would we acquire? Would we be less anxious or more? What would we do with our newly acquired free time? How would we spend it? Learn a new language, meet our friends, walk more and think more, do some community work, learn to play some instrument, invent a new game? I don't know, but it definitely puts you in control, it makes *you* to design your life and. Are we up to the challenge, are we capable of doing this?
+How would such change reshape our personalities and tastes? What skills would we acquire? Would we be less anxious or more? What would we do with our newly acquired free time? How would we spend it? Learn a new language, meet our friends, walk more and think more, do some community work, learn to play some instrument, invent a new game? I don't know, but it definitely puts you in control, it makes *you* to design your life and. Are we up to the challenge, are we capable of doing this?
+
+It's pretty clear nowadays that abundance of food leads to obesity, diabetes and other health issues. Those changes are physical and easy to see. But what about abundance of media, technology, entertainment? What impact huge quantities of those things have on us: on our bodies, minds, souls, consciousness, attention etc? Are we even aware of changes in those areas?
