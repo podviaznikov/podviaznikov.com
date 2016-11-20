@@ -1,5 +1,5 @@
 ---
-title: On implementation details
+title: Implementation details
 description: Working on the wrong level of abstraction
 location: San Francisco
 date-created: 2016-11-12
