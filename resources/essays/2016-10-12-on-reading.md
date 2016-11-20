@@ -1,5 +1,5 @@
 ---
-title: On Reading
+title: On reading
 description: My relationships with reading
 location: San Francisco
 date-created: 2016-10-12
