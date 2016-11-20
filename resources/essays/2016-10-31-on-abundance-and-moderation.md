@@ -1,6 +1,6 @@
 ---
 title: On abundance and moderation
-description: We live a world drive by numbers
+description: World of everything and nothing
 location: Hong Kong
 date-created: 2016-10-31
 date-modified: 2016-11-04
