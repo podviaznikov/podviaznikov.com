@@ -1,7 +1,7 @@
 ---
 title: Creative Schools
 subtitle: The Grassroots Revolution That's Transforming Education
-author: Ken Robinson
+author: Ken Robinson, Lou Aronica
 location: San Francisco
 date-started: 2016-11-17
 date-read: 2016-11-23
@@ -10,7 +10,7 @@ date-published: 2016-11-23
 in-language: en
 rating: liked a lot
 keywords: reading, books, Ken Robinson
-ISBN: 978-0-375-70127-6
+ISBN: 978-0-14-31080601
 type: book
 ---
 ## Review
