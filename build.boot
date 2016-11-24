@@ -22,8 +22,8 @@
        :version "0.2.0"}
   s3-sync {
     :bucket "podviaznikov.com"
-    :access-key "AKIAJJCBD4JOTABPRXJA"
-    :secret-key "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"
+    :access-key ""
+    :secret-key ""
     :source "public"
     :options {"Cache-Control" "max-age=315360000, no-transform, public"}})
 
