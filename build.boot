@@ -22,8 +22,8 @@
        :version "0.2.0"}
   s3-sync {
     :bucket "podviaznikov.com"
-    :access-key ""
-    :secret-key ""
+    :access-key (System/getenv "AWS_ACCESS_KEY")
+    :secret-key (System/getenv "AWS_SECRET_KEY")
     :source "public"
     :options {"Cache-Control" "max-age=315360000, no-transform, public"}})
 
@@ -70,7 +70,9 @@
         (render
           :renderer 'com.podviaznikov.book/render
           :filterer (fn [file] (= "book" (:type file))))
-        (collection :renderer 'com.podviaznikov.index/render :page "index.html")
+        (collection
+          :renderer 'com.podviaznikov.index/render
+           :page "index.html")
         (collection
           :renderer 'com.podviaznikov.essays/render
           :page "essays.html"
