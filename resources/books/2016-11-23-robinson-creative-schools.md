@@ -15,6 +15,11 @@ type: book
 ---
 ## Review
 
+Reading this book I deeply felt that it is not about the revolution in education. It's a book about any complex adaptive human system. It's a book about how to *change* such systems. We live in the age when it's easy to see that a lot of systems surrounding us are broken in some ways and often do more harm than good. We see that such systems need change.
+
+Broken systems vary depending on the country you live in but quite often they include not only education but health care, media, government, judiciary etc.
+
+It's a nice to have a framework how to think about systems and change. How to see problems with existing ones, how to came up (or find) with better ideas for the future and how to introduce changes in the different levels.
 
 ## Notes
 
