@@ -15,7 +15,15 @@ type: book
 ---
 ## Review
 
+Fascinating book because it's both autobiography, but also book on philosophy.
 
+Miłosz shares his story of life and formation of his personality and outlook. His account is extremely valuable since he was born in the Polish family in the Lithuanian part of the Russian empire, saw WWI, grew up during independent Poland, experienced WWII as a poet in Nazi-occupied Warsaw. He spent a lot of time in the West (eventually migrating to the US) and in the communist Poland.
+
+His life is a great example how a human being can live in different systems (imperialism, fascism, communism and capitalism) but still hold to the sacred values. In fact, he shows us that is possible to transcend horrors of our human-made systems.
+
+His story is both about losing and finding faith in humanity. His philosophy is about searching of new explanations for the world and good, seeking new narratives that would reconcile scientific outlook and world religions.
+
+Being Eastern European and living through different systems and cultures his shares his insights on Russia, America, and France. He gives glimpses of hope to other Eastern European and I believe any developing country. In his mind, historical tragedy and past events are not the final verdicts. Those are merely challenges that help us grow because it's only in the time of turbulence and change that you can really grow.
 
 ## Notes
 
@@ -315,4 +323,4 @@ type: book
 
 &nbsp;
 
-> Through defeats and disasters, humanity searches for the elixir of youth; that is, of life made into thought, the ardor that upholds belief in the wider usefulness of our individual effort, even if it apparently changes nothing in the iron working of the world... By choosing, we had to give up some values for the sake of others, which is the essence of tragedy. Yet only such an experience can whet our understanding, so that we see an old truth in a new light: when ambition counsels us to lift ourselves above simple moral rules guarded by the poor in spirit, rather than to choose them as our compass needle amid the uncertainties of change, we stifle the only thing that can redeem our follies and mistakes: love. 
+> Through defeats and disasters, humanity searches for the elixir of youth; that is, of life made into thought, the ardor that upholds belief in the wider usefulness of our individual effort, even if it apparently changes nothing in the iron working of the world... By choosing, we had to give up some values for the sake of others, which is the essence of tragedy. Yet only such an experience can whet our understanding, so that we see an old truth in a new light: when ambition counsels us to lift ourselves above simple moral rules guarded by the poor in spirit, rather than to choose them as our compass needle amid the uncertainties of change, we stifle the only thing that can redeem our follies and mistakes: love.
