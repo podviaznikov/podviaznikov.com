@@ -5,7 +5,7 @@
 
 (defn render-book [book]
   [:li.mb3
-    [:a.link.f6.b.mb1 {:href (str (:slug book))} (:title book)]
+    [:a.link.f6.b.mb0 {:href (str (:slug book))} (:title book)]
     [:p.ml0 (:author book)]])
 
 (defn render [{global-meta :meta books :entries}]
