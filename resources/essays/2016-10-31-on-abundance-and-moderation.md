@@ -35,7 +35,7 @@ Or maybe it will allow us to be more careful with our choices. If you can listen
 
 Or maybe restriction allows us to have more unclaimed free time that we can spend on our own, reflecting on who we really are and what is really important to us?
 
-No matter what was Goethe primary reason for writing the phrase mentioned above I think we should try to take his advice to heart. Let us see if we can limit ourselves in our world drive by consumption. Are we even able anymore to listen to one song per day, do one physical exercise, read one story/essay, eat one nutritional (and tasty) meal?
+No matter what was Goethe primary reason for writing the phrase mentioned above I think we should try to take his advice to heart. Let us see if we can limit ourselves in our world driven by consumption. Are we even able anymore to listen to one song per day, do one physical exercise, read one story/essay, eat one nutritional (and tasty) meal?
 
 How would such change reshape our personalities and tastes? What skills would we acquire? Would we be less anxious or more? What would we do with our newly acquired free time? How would we spend it? Learn a new language, meet our friends, walk more and think more, do some community work, learn to play some instrument, invent a new game? I don't know, but it definitely puts you in control, it makes *you* to design your life and. Are we up to the challenge, are we capable of doing this?
 
