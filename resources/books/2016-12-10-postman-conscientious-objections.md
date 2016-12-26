@@ -9,7 +9,7 @@ date-created: 2016-12-25
 date-published: 2016-12-25
 in-language: en
 rating: liked a lot
-keywords: reading, books, Russell Brand, autobiography
+keywords: reading, books, Neil Postman
 ISBN: 978-0-679-73421-5
 type: book
 ---
