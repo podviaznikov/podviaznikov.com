@@ -21,7 +21,7 @@ Why do we need to restrict ourselves? Why can't we have it all and at once?
 
 Maybe because we should be able to control our wishes and our vices, otherwise they will become our masters and drive our decisions, actions, thoughts and destiny at the end?
 
-Or maybe moderation allows us to enjoy something better? If we have unlimited access to some resources can we truly be able to fully appreciate it? Isn't abundance of something destroys its value? This sounds very similar to law of open markets. Can we still truly enjoy our ice-cream if we eat it every day? Or can we truly appreciate some sport game if we can see it every day instead of once per week as it was only few decades ago? Those examples are countless.
+Or maybe moderation allows us to enjoy something better? If we have unlimited access to some resource can we truly be able to fully appreciate it? Isn't abundance of something destroys its value? This sounds very similar to law of open markets. Can we still truly enjoy our ice-cream if we eat it every day? Or can we truly appreciate some sport game if we can see it every day instead of once per week as it was only few decades ago? Those examples are countless.
 
 Or maybe moderation provides us with variety? If we can't spent all our time on one thing we will try something else. And maybe this variety is a key to our development and health.
 

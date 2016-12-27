@@ -11,6 +11,7 @@
 
 (require '[io.perun :refer :all]
          '[io.perun.core :as perun]
+         '[io.perun.meta :as pm]
          '[boot.core :as boot]
          '[cuerdas.core :as cue]
          '[pandeiro.boot-http :refer [serve]]
@@ -46,10 +47,10 @@
   "Apply techyons classes to HTML content"
   []
   (boot/with-pre-wrap fileset
-    (let [files         (perun/get-meta fileset)
+    (let [files         (pm/get-meta fileset)
           updated-files (map transform-file-content files)]
       (perun/report-info "tachyonize" "removed draft files. Remaining %s files" (count updated-files))
-      (perun/set-meta fileset updated-files))))
+      (pm/set-meta fileset updated-files))))
 
 (deftask build-dev
   "Build dev version"
@@ -69,7 +70,10 @@
           :filterer (fn [file] (= "essay" (:type file))))
         (render
           :renderer 'com.podviaznikov.book/render
-          :filterer (fn [file] (= "book" (:type file))))
+          :filterer (fn [file]
+            (and
+              (not (true? (:draft file)))
+              (= "book" (:type file)))))
         (collection
           :renderer 'com.podviaznikov.index/render
            :page "index.html")
@@ -84,7 +88,10 @@
         (collection
           :renderer 'com.podviaznikov.books/render
           :page "books.html"
-          :filterer (fn [file] (= "book" (:type file))))
+          :filterer (fn [file]
+            (and
+              (not (true? (:draft file)))
+              (= "book" (:type file)))))
         (target)))
 
 (deftask build
