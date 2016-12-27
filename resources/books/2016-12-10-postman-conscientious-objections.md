@@ -182,7 +182,7 @@ Korzybski's recommendations for modification of patterns of speech:
 
 &nbsp;
 
-> The *idea* of children  implies a vision of the future. They are the living messages we send to a time we will not see. But television cannot communicate a sense of the future or, for that matter, a sense of the past. It is a present-centered medium, a speed-of-light medium. Everything we see on television is experienced as happening *now*. The gramma of television has no analogue to the past and future tenses in language. It amplifies the present out of all proportion and transforms the childish need for immediate gratification into a way of life. We end up with what Christopher Lasch calls "the culture of narcissism" - no future, no children, everyone fixed at an age somewhere twenty and thirty.
+> The *idea* of children  implies a vision of the future. They are the living messages we send to a time we will not see. But television cannot communicate a sense of the future or, for that matter, a sense of the past. It is a present-centered medium, a speed-of-light medium. Everything we see on television is experienced as happening *now*. The grammar of television has no analogue to the past and future tenses in language. It amplifies the present out of all proportion and transforms the childish need for immediate gratification into a way of life. We end up with what Christopher Lasch calls "the culture of narcissism" - no future, no children, everyone fixed at an age somewhere twenty and thirty.
 
 &nbsp;
 
