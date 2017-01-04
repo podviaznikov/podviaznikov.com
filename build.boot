@@ -59,6 +59,7 @@
         (global-metadata)
         (base)
         (markdown)
+        (draft)
         (tachyonize)
         (ttr)
         (slug)
@@ -71,9 +72,7 @@
         (render
           :renderer 'com.podviaznikov.book/render
           :filterer (fn [file]
-            (and
-              (not (true? (:draft file)))
-              (= "book" (:type file)))))
+            (= "book" (:type file))))
         (collection
           :renderer 'com.podviaznikov.index/render
            :page "index.html")
@@ -89,9 +88,7 @@
           :renderer 'com.podviaznikov.books/render
           :page "books.html"
           :filterer (fn [file]
-            (and
-              (not (true? (:draft file)))
-              (= "book" (:type file)))))
+            (= "book" (:type file))))
         (target)))
 
 (deftask build

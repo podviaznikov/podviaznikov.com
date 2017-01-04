@@ -52,7 +52,7 @@ draft: true
 
 &nbsp;
 
-> Consequently, in the dual unclear unit just named, there is to be recognized, not only a factor representative of the *unity* of our species, but also one of *differentiation*. Not only does all mankind face death, but the various people of the world face death in greatly different ways. 
+> Consequently, in the dual unclear unit just named, there is to be recognized, not only a factor representative of the *unity* of our species, but also one of *differentiation*. Not only does all mankind face death, but the various people of the world face death in greatly different ways.
 
 &nbsp;
 
