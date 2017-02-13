@@ -4,8 +4,8 @@ author: Haruki Murakami
 location: San Francisco
 date-started: 2016-10-16
 date-read: 2016-10-17
-date-created: 2016-10-19
-date-published: 2016-10-17
+date-created: 2016-10-17
+date-published: 2016-10-19
 in-language: en
 rating: liked a lot
 keywords: reading, books, Haruki Murakami
