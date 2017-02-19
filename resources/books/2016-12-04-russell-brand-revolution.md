@@ -59,7 +59,7 @@ What this book does is show us that better future is possible and that so many p
 
 &nbsp;
 
-> Science requires faith, the way religion does. Science requires acceptance of metaphor,, juts the way religion does.
+> Science requires faith, the way religion does. Science requires acceptance of metaphor, just the way religion does.
 
 &nbsp;
 
