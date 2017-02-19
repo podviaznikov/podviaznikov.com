@@ -1,6 +1,6 @@
 ---
 title: On obsession with numbers
-description: We live a world driven by numbers
+description: We live in a world driven by numbers
 location: San Francisco
 date-created: 2016-10-14
 date-modified: 2016-10-14
