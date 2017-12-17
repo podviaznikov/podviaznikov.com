@@ -7,7 +7,7 @@ menu: "writings"
 acknowledgement: "Neil Postman"
 tags: []
 people: ["Neil Postman"]
-places: []
+places: ["San Francisco"]
 locations: ["San Francisco"]
 ---
 
