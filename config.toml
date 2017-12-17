@@ -1,19 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://podviaznikov.com"
 languageCode = "en-us"
-title = "podviaznikov"
+title = "My site!!!"
 theme = "montaigne"
-[[menu.now]]
-    name = "now"
-    weight = -1
-    identifier = "now"
-    url = "/now/"
-[params]
-  author = "Anton Podviaznikov"
-  tagline = "programmer, observer, citizen of the world"
-  authorEmail = "anton@podviaznikov.com"
 
-[taxonomies]
-  tag = "tags"
-  place = "places"
-  person = "people"
-  location = "locations"
+[params]
+author = "Anton Podviaznikov"
+authorEmail = "anton@podviaznikov.com"
+tagline = "Hello222"
