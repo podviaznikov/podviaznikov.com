@@ -1,10 +1,14 @@
 baseURL = "https://podviaznikov.com"
 languageCode = "en-us"
-title = "My site!!!!"
+title = "My site"
 theme = "montaigne"
 
 [params]
 author = "Anton Podviaznikov"
 authorEmail = "anton@podviaznikov.com"
 tagline = "Hello222"
-[taxonomies]color = colorslicense = licenseslocation = locationsperson = peopletag = tags
+[taxonomies]color = "colors"
+license = "licenses"
+location = "locations"
+person = "people"
+tag = "tags"
