@@ -1,12 +1,12 @@
 ---
 title: "hello world"
 description: "New post description"
-date: 2016-6-4
+date: 2016-06-04
 draft: false
 menu: "writings"
 acknowledgement: "Neil Postman"
 tags: []
-people: []
+people: ["Neil Postman"]
 places: []
 locations: ["San Francisco"]
 ---
