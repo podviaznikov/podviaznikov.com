@@ -1,0 +1,23 @@
+---
+title: "hello world"
+description: 
+date: 2017-12-15T20:05:27-08:00
+draft: false
+menu: "writings"
+acknowledgement: 
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= hello world
+Anton Podviaznikov <anton@podviaznikov.com>
+:revnumber: 1.0
+:revdate: 2017-12-16
+:docdate: 2017-12-16
+:nofooter:
+:document_type: writing
+:tags: ""
+
+
