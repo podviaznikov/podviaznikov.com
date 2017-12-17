@@ -1,10 +1,10 @@
 ---
 title: "hello world"
 description: "New post description"
-date: ߡ--
+date: 2017-6-4
 draft: false
 menu: "writings"
-acknowledgement: 
+acknowledgement: "Neil Postman"
 tags: []
 people: []
 places: []
