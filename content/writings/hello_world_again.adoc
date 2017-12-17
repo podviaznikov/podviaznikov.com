@@ -1,0 +1,23 @@
+---
+title: "hello world again"
+description: 
+date: 0-00-00
+draft: false
+menu: "writings"
+acknowledgement: 
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= hello world again
+Anton Podviaznikov <anton@podviaznikov.com>
+:revnumber: 1.0
+:revdate: 2017-12-17
+:docdate: 2017-12-17
+:nofooter:
+:document_type: writing
+:tags: ""
+
+
