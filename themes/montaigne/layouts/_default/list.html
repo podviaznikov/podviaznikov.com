@@ -1,0 +1,13 @@
+{{ define "main" }}
+<main class="ph3 pb3 pt2 ph5-ns pb5-ns pt2-ns" itemprop="mainEntity">
+    <h1 class="lh-title f3 athelas">{{.Title}}</h1>
+    <ol class="ph0 pv4 mt0 list measure" itemprop="breadcrumb">
+      {{ range .Data.Pages }}
+        <li class="mb3">
+            <a class="link f6 b mb1" href="{{.Permalink}}">{{.Title}}</a>
+            <p class="ml0">{{.Description}}</p>
+        </li>
+      {{ end }}
+    </ol>
+</main>
+{{ end }}

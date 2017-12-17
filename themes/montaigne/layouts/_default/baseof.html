@@ -1,0 +1,29 @@
+<html lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+<head>
+   <meta charset="UTF-8">
+   <title>{{ .Title }}</title>
+   <meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <link rel="icon" role="shortcut icon" href="/favicon.png" type="image/png">
+   <link rel="manifest" href="/manifest.json">
+   <link rel="stylesheet" type="text/css" href="https://npmcdn.com/tachyons@4.7.3/css/tachyons.min.css">
+   <style>#instantclick-bar {
+      background: #e8fdf5;
+      }
+   </style>
+   <meta content="{{ .Site.Params.author }}" itemprop="author" name="author">
+   <link href="mailto:{{ .Site.Params.authorEmail }}" rel="me">
+</head>
+<body>
+   <header class="ph3 ph5-ns pt1 dt">
+      <div class="dtc v-mid pt1"><a class="baskerville link ba b--black dib pa3 br-100 f5 ttl lh-solid bg-washed-green b--washed-green dark-gray" href="/">AP</a></div>
+      {{if .IsHome}}
+      <div class="dtc v-mid ph3">
+         <h1 class="mt0 mb0 baskerville fw1 f4">{{ .Site.Params.author }}</h1>
+         <h2 class="gray mt1 mb0 fw4 f6">{{ .Site.Params.tagline }}</h2>
+      </div>
+      {{ end }}
+   </header>
+   {{ block "main" . }}{{ end }}
+</body>
+</html>

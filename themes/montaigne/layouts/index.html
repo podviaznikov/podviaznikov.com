@@ -1,0 +1,11 @@
+{{ define "main" }}
+<main class="ph3 pb3 pt2 ph5-ns pb5-ns pt2-ns" itemprop="mainEntity">
+  <ul class="lh-title ph0 pv4 mt0 list" itemprop="breadcrumb"></dl>
+  {{ range $menuname, $menu := .Site.Menus }}
+    <li class="ml0 mb3">
+      <a class="link" href="{{ "/" | relLangURL}}{{ $menuname | urlize }}">{{ $menuname }}</a>
+    </li>
+  {{ end }}
+  </ul>
+</main>
+{{ end }}
