@@ -1,0 +1,14 @@
+{{ define "main" }}
+<main class="ph3 pb3 pt2 ph5-ns pb5-ns pt2-ns" itemprop="mainEntity" itemscope itemtype="http://schema.org/BlogPosting">
+  <h1 class="lh-title f3 athelas" itemprop="name">{{.Title}}</h1>
+  <article class="lh-copy measure f5" itemprop="articleBody">
+    {{.Content}}
+  </article>
+  <footer class="mt4 cf lh-copy measure f6">
+    <p class="i fr"><span class="i">Hong Kong</span>
+      <span>,&nbsp;</span>
+      <span class="i">2016-11-02</span>
+    </p>
+  </footer>
+</main>
+{{ end }}
