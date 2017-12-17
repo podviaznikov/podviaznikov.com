@@ -1,6 +1,6 @@
 ---
 title: "hello world again"
-description: "Good post"
+description: "Good post!"
 date: 0-00-00
 draft: false
 menu: "writings"
