@@ -5,9 +5,13 @@
     {{.Content}}
   </article>
   <footer class="mt4 cf lh-copy measure f6">
-    <p class="i fr"><span class="i">Hong Kong</span>
+    {{ if .Params.Acknowledgement }}
+    <p class="i">{{ .Params.Acknowledgement }}</p>
+    {{ end }}
+    <p class="i fr">
+      <span class="i" itemProp="locationCreated">{{delimit .Params.Locations ", "}}</span>
       <span>,&nbsp;</span>
-      <span class="i">2016-11-02</span>
+      <time datetime="{{.Date}}" itemProp="datePublished" class="i">{{.Date.Format "2006-01-02"}}</time>
     </p>
   </footer>
 </main>
