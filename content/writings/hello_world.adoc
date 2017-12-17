@@ -1,7 +1,7 @@
 ---
 title: "hello world"
-description: 
-date: 2017-12-15T20:05:27-08:00
+description: "New post description"
+date: ߡ--
 draft: false
 menu: "writings"
 acknowledgement: 
