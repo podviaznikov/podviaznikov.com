@@ -6,7 +6,7 @@ theme = "montaigne"
 [params]
 author = "Anton Podviaznikov"
 authorEmail = "anton@podviaznikov.com"
-tagline = "Hello World1"
+tagline = "Hello World!"
 license = "Attribution, non-commercial"
 logo_text_color = ""
 logo_text_classname = ""
