@@ -4,7 +4,7 @@ description: "Good post!"
 date: 0-00-00
 draft: false
 menu: "writings"
-acknowledgement: 
+acknowledgement: "Neil Postman"
 tags: []
 people: []
 places: []
