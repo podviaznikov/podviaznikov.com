@@ -1,6 +1,6 @@
 baseURL = "https://podviaznikov.com"
 languageCode = "en-us"
-title = "My site"
+title = "My new site"
 theme = "montaigne"
 
 [params]
