@@ -1,6 +1,6 @@
 ---
 title: "brave new post"
-description: 
+description: "New post"
 date: 0-00-00
 draft: true
 menu: "writings"
