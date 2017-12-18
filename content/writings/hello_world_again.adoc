@@ -1,7 +1,7 @@
 ---
 title: "hello world again"
 description: "Good post!"
-date: 0-00-00
+date: 2015-05-04
 draft: false
 menu: "writings"
 acknowledgement: "Neil Postman"
