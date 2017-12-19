@@ -1,0 +1,34 @@
+version: 0.2
+
+#env:
+  #variables:
+     # key: "value"
+     # key: "value"
+  #parameter-store:
+     # key: "value"
+     # key: "value"
+
+phases:
+  install:
+    commands:
+       - gem install asciidoctor
+       - wget https://github.com/gohugoio/hugo/releases/download/v0.31.1/hugo_0.31.1_Linux-64bit.deb
+       - dpkg -i hugo*.deb
+  #pre_build:
+    #commands:
+      # - command
+      # - command
+  build:
+    commands:
+      - hugo
+      # - command
+  #post_build:
+    #commands:
+      # - command
+      # - command
+artifacts:
+  files:
+     - public/**/*
+    # - location
+  discard-paths: yes
+  #base-directory: location
