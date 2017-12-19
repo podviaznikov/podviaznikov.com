@@ -7,7 +7,7 @@
    <link rel="icon" role="shortcut icon" href="/favicon.png" type="image/png">
    <link rel="stylesheet" type="text/css" href="https://npmcdn.com/tachyons@4.9.0/css/tachyons.min.css">
    <style>#instantclick-bar {
-      background: {{ .Site.Params.logo_bg_color }}
+      background: {{ .Site.Params.logo_bg_color }};
    }
    </style>
    {{ if .Site.Params.author }}
@@ -28,7 +28,12 @@
 </head>
 <body>
    <header class="ph3 ph5-ns pt1 dt">
-      <div class="dtc v-mid pt1"><a class="baskerville link ba b--black dib pa3 br-100 f5 ttl lh-solid bg-washed-green b--washed-green dark-gray" href="/">AP</a></div>
+      <div class="dtc v-mid pt1">
+        <a class="link" href="/">
+          <img width="38px" height="38px" src="/img/logo.svg"/>
+        </a>
+      </div>
+
       {{if .IsHome}}
       <div class="dtc v-mid ph3">
          <h1 class="mt0 mb0 baskerville fw1 f4">{{ .Site.Params.author }}</h1>
