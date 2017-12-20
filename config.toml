@@ -1,4 +1,4 @@
-baseURL = "antonpodviaznikov.com"
+baseURL = "https://podviaznikov.com"
 languageCode = "en-us"
 title = "podviaznikov"
 theme = "montaigne"
