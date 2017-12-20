@@ -6,7 +6,7 @@ theme = "montaigne"
 [params]
 author = "Anton Podviaznikov"
 author_email = "podviaznikov@gmail.com"
-tagline = ""
+tagline = "Personal site"
 license = ""
 logo_text_color = ""
 logo_text_classname = ""
