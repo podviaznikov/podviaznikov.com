@@ -1,0 +1,23 @@
+---
+title: "new book"
+description: 
+date: 0-00-00
+draft: true
+menu: "writings"
+acknowledgement: 
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= new book
+Anton Podviaznikov <podviaznikov@gmail.com>
+:revnumber: 1.0
+:revdate: 2017-12-21
+:docdate: 2017-12-21
+:nofooter:
+:document_type: writing
+:tags: ""
+
+
