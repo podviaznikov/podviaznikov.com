@@ -1,11 +1,11 @@
 ---
 title: "new book"
 url: "new_book"
-description: "New book?"
+description: "New book?!"
 date: 0-00-00
 draft: false
 menu: "writings"
-acknowledgement: 
+acknowledgement: "Neil Postman"
 tags: []
 people: []
 places: []
