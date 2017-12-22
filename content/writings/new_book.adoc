@@ -2,7 +2,7 @@
 title: "new book"
 description: 
 date: 0-00-00
-draft: true
+draft: false
 menu: "writings"
 acknowledgement: 
 tags: []
