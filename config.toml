@@ -1,11 +1,11 @@
 baseURL = "demo037.montaigne.io"
 languageCode = "en-us"
-title = ""
+title = "Title"
 theme = "montaigne"
 
 [params]
 author = "Anton Podviaznikov"
-author_email = "podviaznikov@gmail.com"
+author_email = "anton@podviaznikov.com"
 tagline = ""
 license = ""
 logo_text_color = "#19a974"
