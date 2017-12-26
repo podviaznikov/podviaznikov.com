@@ -4,7 +4,7 @@ url: "hello_4"
 aliases: ["/old-one"]
 description: 
 date: 0-00-00
-draft: true
+draft: false
 menu: "writings"
 acknowledgement: 
 tags: []
