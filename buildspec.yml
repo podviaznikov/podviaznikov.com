@@ -1,12 +1,11 @@
 version: 0.2
 
-#env:
-  #variables:
-     # key: "value"
-     # key: "value"
-  #parameter-store:
-     # key: "value"
-     # key: "value"
+environment_variables:
+  plaintext:
+    BUCKET_NAME: "YOUR_AWS_REGION_CODE"
+    HUGO_VERSION: "0.17"
+    HUGO_SHA256: "f1467e204cc469b9ca6f17c0dc4da4a620643b6d9a50cb7dce2508aaf8fbc1ea"
+
 
 phases:
   install:
@@ -22,13 +21,6 @@ phases:
     commands:
       - hugo
       # - command
-  #post_build:
-    #commands:
-      # - command
-      # - command
-artifacts:
-  files:
-     - public/**/*
-    # - location
-  discard-paths: yes
-  #base-directory: location
+  post_build:
+    commands:
+      - aws s3 sync --delete public s3://${BUCKET_NAME} --cache-control max-age=3600
