@@ -14,7 +14,7 @@ logo_bg_color = "#e8fdf5"
 logo_bg_classname = "washed-green"
 
 [menu]
-[menu.main]
+[[menu.main]]
 name = "writings"
 identifier = "writings"
 url = "/writings"
