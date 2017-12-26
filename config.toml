@@ -1,6 +1,6 @@
-baseURL = "demo037.montaigne.io"
+baseURL = "http://demo037.montaigne.io"
 languageCode = "en-us"
-title = "podviaznikov personal site.."
+title = "podviaznikov personal site...."
 theme = "montaigne"
 
 [params]
@@ -12,6 +12,13 @@ logo_text_color = "#333"
 logo_text_classname = "dark-gray"
 logo_bg_color = "#e8fdf5"
 logo_bg_classname = "washed-green"
+
+[menu]
+[menu.main]
+name = "writings"
+identifier = "/writings"
+url = "/writings"
+
 [taxonomies]
 color = "colors"
 license = "licenses"
