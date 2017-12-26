@@ -15,4 +15,4 @@ phases:
       - hugo
   post_build:
     commands:
-      - aws s3 sync --delete --acl public-read s3://${BUCKET_NAME} --cache-control "max-age=3600, public"
+      - aws s3 sync s3://${BUCKET_NAME} --cache-control "max-age=3600, public" --acl "public-read" --delete 
