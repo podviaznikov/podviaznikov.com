@@ -1,0 +1,24 @@
+---
+title: "hello 4"
+url: "hello_4"
+aliases: []
+description: 
+date: 0-00-00
+draft: true
+menu: "writings"
+acknowledgement: 
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= hello 4
+Anton Podviaznikov <podviaznikov@gmail.com>
+:revdate: 2017-12-25
+:docdate: 2017-12-25
+:nofooter:
+:document_type: writing
+:tags: ""
+
+
