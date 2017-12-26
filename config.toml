@@ -1,6 +1,6 @@
-baseURL = "http://demo037.montaigne.io"
+baseURL = "demo037.montaigne.io"
 languageCode = "en-us"
-title = "Title"
+title = "podviaznikov personal site"
 theme = "montaigne"
 
 [params]
