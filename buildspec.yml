@@ -2,7 +2,7 @@ version: 0.2
 
 environment_variables:
   plaintext:
-    BUCKET_NAME: "YOUR_AWS_REGION_CODE"
+    BUCKET_NAME: ""
     HUGO_VERSION: "0.17"
     HUGO_SHA256: "f1467e204cc469b9ca6f17c0dc4da4a620643b6d9a50cb7dce2508aaf8fbc1ea"
 
