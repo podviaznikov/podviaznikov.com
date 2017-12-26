@@ -7,7 +7,7 @@ date: 2017-02-02
 draft: false
 menu: "writings"
 acknowledgement: 
-tags: []
+tags: ["first", "post"]
 people: []
 places: []
 locations: ["San Francisco"]
@@ -19,6 +19,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-26
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "first, post"
 
 
