@@ -2,7 +2,7 @@
 title: "hello everyone"
 url: "hello_everyone"
 aliases: []
-description: 
+description: "hello"
 date: 0-00-00
 draft: true
 menu: "writings"
