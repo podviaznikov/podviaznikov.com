@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 36 36">
   <g id="logo">
     <circle fill="#e8fdf5" style="stroke-width:0;stroke-miterlimit:10;" cx="18" cy="18" r="18"></circle>
-    <text x="50%" y="50%" fill="#333" text-anchor="middle" font-family="baskerville,serif" font-size="16px" stroke-width="0px" dy=".3em" style="text-transform:lowercase">AP</text>
+    <text x="50%" y="50%" fill="#333" text-anchor="middle" font-family="baskerville,serif" font-size="14px" stroke-width="0px" dy=".3em" style="text-transform:lowercase">AP</text>
   </g>
 </svg>
