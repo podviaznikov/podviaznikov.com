@@ -4,7 +4,7 @@ url: "/new_one"
 aliases: []
 description: 
 date: 2017-02-04
-draft: true
+draft: false
 acknowledgement: 
 tags: []
 people: []
