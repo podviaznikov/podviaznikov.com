@@ -1,0 +1,23 @@
+---
+title: "new one"
+url: "/new_one"
+aliases: []
+description: 
+date: 0-00-00
+draft: true
+acknowledgement: 
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= new one
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2017-12-27
+:docdate: 2017-12-27
+:nofooter:
+:document_type: writing
+:tags: ""
+
+
