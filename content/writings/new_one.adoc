@@ -3,7 +3,7 @@ title: "new one"
 url: "/new_one"
 aliases: []
 description: 
-date: 0-00-00
+date: 2017-02-04
 draft: true
 acknowledgement: 
 tags: []
