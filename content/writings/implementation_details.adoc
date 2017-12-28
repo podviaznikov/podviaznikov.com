@@ -40,7 +40,10 @@ and enquiring about values of people and systems we deal with.
 Before we even start discussing why some idea or policy (implementation detail) is good or bad, 
 we should clarify each others' values and rank them. We should try to find some consensus after such discussion.
 
-The next step would be to reflect what are some problems with our existing values and dream up of some possible future values we would like to have. I think that political parties, social movements, people organizations should work on this level. They used to work on ideas and ideologies in the XX century, and on specific practical policies in the past few decades.
+The next step would be to reflect what are some problems with our existing values and dream up of 
+some possible future values we would like to have. 
+I think that political parties, social movements, people organizations should work on this level. 
+They used to work on ideas and ideologies in the XX century, and on specific practical policies in the past few decades.
 
 We should approach thinking about future in the following way:
 
@@ -53,7 +56,8 @@ We should approach thinking about future in the following way:
 4) let's compile those values in a well-defined system and focus on talking about it
 
 The rest is implementation details. 
-Yes, it can be difficult to come up with the ideal solution in this extremely complex and interconnected world, but some progress and solutions with positive impact are always possible.
+Yes, it can be difficult to come up with the ideal solution in this extremely complex and interconnected world, 
+but some progress and solutions with positive impact are always possible.
 
 For my engineering friends, I have a following metaphor for the issue I'm discussing.
 
@@ -66,7 +70,10 @@ They should be implemented in the best rational way (given all the constraints) 
 E.x. the income tax is not a question of big importance in such approach. 
 You simply pick the one that helps system to conform to the defined interface (achieve desired declared values).
 
-Another great benefit of such clear separation is that it's easier to run the migration on a live system, that is, provide a real positive change. It's much easier to understand interfaces between system A and B and came up with appropriate plan than to understand messy coupled beasts we have now.
+Another great benefit of such clear separation is that it's easier to run the migration on a live system, that is, 
+provide a real positive change. 
+It's much easier to understand interfaces between system A and B and came up with an appropriate plan, 
+than to understand messy coupled beasts we have now.
 
 Our branches of life: economy, technology, philosophy, education, science etc should be values-driven. 
 They should act in order to achieve future societal values and not some very specific metrics they rely on now.
