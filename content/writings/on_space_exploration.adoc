@@ -9,7 +9,7 @@ acknowledgement:
 tags: ["space", "society", "myths", "narrative", "Mars"]
 people: []
 places: []
-locations: []
+locations: ["San Francisco"]
 ---
 
 = On space exploration
