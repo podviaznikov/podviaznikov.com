@@ -3,7 +3,7 @@ title: "Soviet Union 2.0"
 url: "/soviet_union_2_0"
 aliases: []
 description: 
-date: 0-00-00
+date: 2017-03-05
 draft: true
 acknowledgement: 
 tags: []
