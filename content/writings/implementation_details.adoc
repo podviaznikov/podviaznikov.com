@@ -6,7 +6,7 @@ description: "Working on the wrong level of abstraction"
 date: 2016-11-12
 draft: false
 acknowledgement: 
-tags: ["post-modern world", "future", "politics"]
+tags: ["post-modern world", "future", "politics", "capitalism"]
 people: []
 places: []
 locations: ["San Francisco"]
@@ -18,7 +18,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
-:tags: "post-modern world, future, politics"
+:tags: "post-modern world, future, politics, capitalism"
 
 We live in a post-modern world driven by the discussion of the wrong issues. 
 It's an obvious thing to say when the year 2016 comes to an end.
