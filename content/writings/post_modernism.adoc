@@ -6,7 +6,7 @@ description: "Thinking about defining features of the modern world"
 date: 2017-05-19
 draft: true
 acknowledgement: 
-tags: []
+tags: ["post-modern world"]
 people: []
 places: []
 locations: ["San Francisco"]
@@ -18,6 +18,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "post-modern world"
 
 
