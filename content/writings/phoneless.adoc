@@ -9,7 +9,7 @@ acknowledgement:
 tags: []
 people: []
 places: []
-locations: []
+locations: ["St. Louis, USA"]
 ---
 
 = Phoneless
