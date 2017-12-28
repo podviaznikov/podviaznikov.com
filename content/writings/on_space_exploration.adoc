@@ -3,7 +3,7 @@ title: "On space exploration"
 url: "/on_space_exploration"
 aliases: []
 description: 
-date: 0-00-00
+date: 2016-12-26
 draft: true
 acknowledgement: 
 tags: []
