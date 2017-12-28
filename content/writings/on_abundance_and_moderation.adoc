@@ -7,7 +7,7 @@ date: 2016-10-10
 draft: true
 acknowledgement: 
 tags: ["abundance", "moderation", "consumption", "consumerism"]
-people: []
+people: ["Goethe"]
 places: []
 locations: ["Hong Kong"]
 ---
