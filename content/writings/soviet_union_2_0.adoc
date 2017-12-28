@@ -2,7 +2,7 @@
 title: "Soviet Union 2.0"
 url: "/soviet_union_2_0"
 aliases: ["/soviet-union-20-012lo0g230n"]
-description: 
+description: "On similarities between modern world and Soviet Union 30-40 years ago"
 date: 2017-03-05
 draft: true
 acknowledgement: 
