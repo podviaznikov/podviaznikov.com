@@ -17,6 +17,11 @@
    {{ if .Site.Params.tagline }}
    <meta content="{{ .Site.Params.tagline }}" itemprop="description" name="description">
    {{ end }}
+
+   {{ if .Site.BaseURL }}
+   <link rel="canonical" href="{{.Site.BaseURL}}{{ .Page.URL }}">
+   {{ end }}
+
    {{ if .Site.Params.author_email }}
    <link href="mailto:{{ .Site.Params.author_email }}" rel="me">
    {{ end }}
