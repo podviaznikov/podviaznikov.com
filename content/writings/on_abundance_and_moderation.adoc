@@ -3,7 +3,7 @@ title: "On abundance and moderation"
 url: "/on_abundance_and_moderation"
 aliases: []
 description: 
-date: 0-00-00
+date: 2016-10-10
 draft: true
 acknowledgement: 
 tags: []
