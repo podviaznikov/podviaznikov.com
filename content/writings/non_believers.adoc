@@ -4,7 +4,7 @@ url: "/non_believers"
 aliases: ["/nonbelievers-gg1xm7woojo"]
 description: "Refusal to believe in the systems' stability in the modern world"
 date: 2016-11-24
-draft: true
+draft: false
 acknowledgement: 
 tags: ["liquid modernity", "Eastern Europe"]
 people: ["Zygmunt Bauman"]
