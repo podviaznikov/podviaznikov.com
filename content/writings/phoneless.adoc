@@ -6,7 +6,7 @@ description: "On living a life without a smart phone in the modern society"
 date: 2015-09-27
 draft: true
 acknowledgement: 
-tags: []
+tags: ["phones", "consumerism", "anxiety"]
 people: []
 places: []
 locations: ["St. Louis, USA"]
@@ -18,7 +18,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "phones, consumerism, anxiety"
 
 I often get asked why I don't have a smartphone. Interestingly, it's not that easy to answer this question in one sentence. There are multiple reasons and those reasons change over time. Actually they don't change, they grow over the time.
 
