@@ -20,4 +20,31 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :document_type: writing
 :tags: "side-effects, Brave New World, technology"
 
+Every technology, solution, and tool are about tradeoffs. I yet to come up with any example that brought only positive change to the world and our lives. Opposite examples are too easy: dynamite, cars, TV, Internet, phones etc.
 
+Let's consider a tool like Yelp and focus on problems such technological solution created. Yelp influenced how we pick a restaurant or cafe. Right now you go to yelp.com, enter your query and you have a new place to visit. Sounds incredible, isn't it? What can be wrong with that?!
+
+I'd argue that such flow creates a major problem influencing our lives and our happiness.
+
+If you've picked a restaurant through Yelp you would mostly know what to expect from it. You know its ratings, reviews, best dishes, you saw photos of the food, you know what to expect from service, how the place looks inside. You formed your expectations of a place. In some sense you already experienced a portion of your emotions, if your imagination is vivid enough you probably lived through part of your intended experience.
+
+I'd go further and suggest that after you actually visited restaurant you wouldn't be able to fully experience a place because:
+
+1) you've already spent part of your emotional budget selecting the place
+
+2) you've eliminated the factor of surprise. Because your expectations were set before, you have only a small margin for the surprise. If you don't have expectations possibilities are much higher because your satisfaction/happiness level depends on a baseline. If you use Yelp you basically anchored your emotion to a particular level.
+
+3) risk and reward. Using Yelp eliminates risk, however, it also eliminates reward. If you found few places wondering around some neighborhood you need to pick one and by picking one you are taking the risk. You might end up in a really terrible place, or amazing, or just "ok". Anyway, the potential emotional swing is much higher this way.
+
+Yes, you may end up in a disappointing place, but why are we so afraid of it? Aldous Huxley in a Brave New World describes the society that focuses only on "happiness" and avoids any deviations as a plague. Aren't both happy and unhappy moments are integral parts of our life? 
+Can one exist without another? Can you even experience happiness/satisfaction without occasionally feeling unhappy/unsatisfied? Why are we afraid negative emotions? Why we are not learning this skill? It's important to know how to handle bad situations, anxieties, worries, conflicts and not just avoid them.
+
+What I'm arguing here is that Yelp not just eliminates some inconveniences from our lives. But it also eliminates to some extent two very important notions: surprise and risk. Life without surprise seems not only boring but what is worse predetermined. Giving existing google and yelp data it would be possible to pre-calculate all your restaurants till the end of your life. In this case, it's just about the food, but this can be extended to other areas of life as well.
+
+I'm not arguing here that technological change is bad and we should stop it by all possible means. 
+At the end of the day the change, as http://kk.org/books/the-inevitable/[Kevin Kelly] put it, is inevitable. What I'm advocating here is awareness. 
+Awareness (of both positive and negative effects of the technology) creates freedom and possibility for every individual to independently evaluate technology based on its true merits. Awareness is knowledge and knowledge brings freedom. After all aren't we trying to build a society of free and knowledgeable individuals?
+
+P.S. Case for restaurant selection and using Yelp might sound too primitive. However exactly the same analysis can be applied to picking up travel destination, choosing a movie to see or a book to read or a person to go on a date with.
+
+P.P.S. Idea of surprise is not just some abstract concept. It is what worked for me personally. E.x. my favorite restaurants are the ones I found randomly passing by. The same works for travel. The best trips were the ones I didn't plan in advance.
