@@ -3,7 +3,7 @@ title: "Non-believers"
 url: "/non_believers"
 aliases: []
 description: 
-date: 0-00-00
+date: 2016-11-24
 draft: true
 acknowledgement: 
 tags: []
