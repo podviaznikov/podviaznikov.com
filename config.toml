@@ -1,17 +1,17 @@
-baseURL = "http://demo037.montaigne.io"
+baseURL = "http://demo063.montaigne.io"
 languageCode = "en-us"
-title = "podviaznikov personal site..."
+title = "My site"
 theme = "montaigne"
 
 [params]
 author = "Anton Podviaznikov"
 author_email = "anton@podviaznikov.com"
-tagline = "programmer, observer, citizen of the world"
-license = "Attribution, share alike"
-logo_text_color = "#333"
-logo_text_classname = "dark-gray"
-logo_bg_color = "#e8fdf5"
-logo_bg_classname = "washed-green"
+tagline = ""
+license = ""
+logo_text_color = "#fff"
+logo_text_classname = "white"
+logo_bg_color = "#000"
+logo_bg_classname = "black"
 
 [menu]
 [[menu.main]]
