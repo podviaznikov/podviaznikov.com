@@ -3,7 +3,7 @@ title: "On reading"
 url: "/on_reading"
 aliases: []
 description: 
-date: 0-00-00
+date: 2016-10-12
 draft: true
 acknowledgement: 
 tags: []
