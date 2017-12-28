@@ -10,8 +10,8 @@ tagline = "Personal site"
 license = "Attribution, non-commercial"
 logo_text_color = "#fff"
 logo_text_classname = "white"
-logo_bg_color = "#000"
-logo_bg_classname = "black"
+logo_bg_color = "#e8fdf5"
+logo_bg_classname = "washed-green"
 
 [menu]
 [[menu.main]]
