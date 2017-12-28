@@ -2,7 +2,7 @@
 title: "On space exploration"
 url: "/on_space_exploration"
 aliases: ["/on-space-exploration-yj74lwymmg9"]
-description: 
+description: "Exploring space exploration"
 date: 2016-12-26
 draft: true
 acknowledgement: 
