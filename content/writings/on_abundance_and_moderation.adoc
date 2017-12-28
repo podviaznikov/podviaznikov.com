@@ -4,7 +4,7 @@ url: "/on_abundance_and_moderation"
 aliases: ["/on-abundance-and-moderation-9793lx1rrkx"]
 description: "World of everything and nothing"
 date: 2016-10-10
-draft: true
+draft: false
 acknowledgement: 
 tags: ["abundance", "moderation", "consumption", "consumerism"]
 people: ["Goethe"]
