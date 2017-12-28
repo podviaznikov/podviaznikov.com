@@ -1,7 +1,7 @@
 ---
 title: "Post-modernism"
 url: "/post_modernism"
-aliases: []
+aliases: ["/postmodernism-9793lx1rnj8"]
 description: 
 date: 2017-05-19
 draft: true
