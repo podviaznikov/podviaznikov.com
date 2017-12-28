@@ -6,7 +6,7 @@ description: "Exploring space exploration"
 date: 2016-12-26
 draft: true
 acknowledgement: 
-tags: []
+tags: ["space", "society", "myths", "narrative", "Mars"]
 people: []
 places: []
 locations: []
@@ -18,6 +18,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "space, society, myths, narrative, Mars"
 
 
