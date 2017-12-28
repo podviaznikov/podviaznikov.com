@@ -4,7 +4,7 @@ url: "/soviet_union_2_0"
 aliases: ["/soviet-union-20-012lo0g230n"]
 description: "On similarities between modern world and Soviet Union 30-40 years ago"
 date: 2017-03-05
-draft: true
+draft: false
 acknowledgement: 
 tags: ["modernity"]
 people: []
