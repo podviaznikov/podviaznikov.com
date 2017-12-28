@@ -2,7 +2,7 @@
 title: "On reading"
 url: "/on_reading"
 aliases: ["/on-reading-q85yqjgrrrm"]
-description: 
+description: "My relationships with reading"
 date: 2016-10-12
 draft: true
 acknowledgement: 
