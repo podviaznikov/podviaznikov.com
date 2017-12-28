@@ -1,7 +1,7 @@
 ---
 title: "Implementation details"
 url: "/implementation_details"
-aliases: []
+aliases: ["/implementation-details-46jk9l8xx15"]
 description: "Working on the wrong level of abstraction"
 date: 2016-11-12
 draft: true
