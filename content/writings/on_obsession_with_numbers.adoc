@@ -1,7 +1,7 @@
 ---
 title: "On obsession with numbers"
 url: "/on_obsession_with_numbers"
-aliases: []
+aliases: ["/on-obsession-with-numbers-61o54k8lljm"]
 description: 
 date: 2016-10-14
 draft: true
