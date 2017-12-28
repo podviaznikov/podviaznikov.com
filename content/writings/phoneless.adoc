@@ -1,7 +1,7 @@
 ---
 title: "Phoneless"
 url: "/phoneless"
-aliases: []
+aliases: ["/phoneless-m48kmx3778k"]
 description: 
 date: 2015-09-27
 draft: true
