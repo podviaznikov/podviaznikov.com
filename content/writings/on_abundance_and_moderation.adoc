@@ -2,7 +2,7 @@
 title: "On abundance and moderation"
 url: "/on_abundance_and_moderation"
 aliases: ["/on-abundance-and-moderation-9793lx1rrkx"]
-description: 
+description: "World of everything and nothing"
 date: 2016-10-10
 draft: true
 acknowledgement: 
