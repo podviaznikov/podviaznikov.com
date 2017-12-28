@@ -4,7 +4,7 @@ url: "/on_obsession_with_numbers"
 aliases: ["/on-obsession-with-numbers-61o54k8lljm"]
 description: "We live in a world driven by numbers"
 date: 2016-10-14
-draft: true
+draft: false
 acknowledgement: 
 tags: ["technology", "numbers"]
 people: []
