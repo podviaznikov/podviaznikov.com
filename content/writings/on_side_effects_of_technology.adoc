@@ -2,7 +2,7 @@
 title: "On side effects of technology"
 url: "/on_side_effects_of_technology"
 aliases: []
-description: 
+description: "Evaluate new problems created by software technology"
 date: 2016-10-13
 draft: true
 acknowledgement: 
