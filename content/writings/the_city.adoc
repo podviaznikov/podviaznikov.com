@@ -2,7 +2,7 @@
 title: "The City"
 url: "/the_city"
 aliases: ["/the-city-46jk9l8jqmy"]
-description: 
+description: "The City of Anger and the City of Love"
 date: 2017-04-16
 draft: false
 acknowledgement: 
