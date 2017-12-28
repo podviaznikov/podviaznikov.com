@@ -1,0 +1,23 @@
+---
+title: "Issue with Tests"
+url: "/issue_with_tests"
+aliases: []
+description: 
+date: 0-00-00
+draft: true
+acknowledgement: 
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= Issue with Tests
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2017-12-28
+:docdate: 2017-12-28
+:nofooter:
+:document_type: writing
+:tags: ""
+
+
