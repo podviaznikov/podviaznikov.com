@@ -67,9 +67,9 @@ You are constantly bombarded by new emails, private message, public chat message
 I don't think most of us have even 30 straight quite minutes during our work days.
 
 I also think that having 24-hours access to the Internet raises our anxiety levels. 
-Our parents watch this depressing local and international news and worry a lot about things they have no influence on. 
+Our parents watch this depressing local and international news and worry a lot about things they cannot influence. 
 We however also worried about news. 
-But those are news about our Facebook friends, and some events that are happening now. 
+But those are news about our Facebook friends and some events that are happening now. 
 And we have strong fears and anxieties to miss these events. 
 The problem is that we not worried to miss something once per week or per day, but every 10 minutes. 
 We want to know about those events in the real-time. 
@@ -77,26 +77,26 @@ So basically every minute of our life we are anxious about some issues.
 Not a great place to be. I strongly recommend watching Alain de Bottom talks on news and anxiety.
 
 Personally, it was much harder for me to be at the moment when I had a smartphone. 
-It was extremely difficult to have a meaningful conversation, 
-it was hard to keep any conversation with someone at all because any second me or person 
+It was extremely difficult to have a meaningful conversation.
+It was hard to keep any conversation with someone at all because any second me or person 
 I was talking with would pull up a phone and check something.
 
 Camera in our mobile devices has another weird side-effect on our comprehension of the world. 
-If you have a camera always with you then you'll try to use it. Suddenly everyone became a photographer. 
-Instead of just enjoying the beauty of the nature or amazing energy of some music band people would make photos or videos. 
-Instead of looking on the world through the open eyes they start looking into it through the phone screen. 
-There are people who enjoy photography and I understand when they are taking photos, but not all of us are photographers, right?
+If you have a camera always with you, then you'll try to use it. Suddenly everyone became a photographer. 
+Instead of just enjoying the beauty of the nature or vivid energy of some music band people would take photos or videos. 
+Instead of looking at the world through the open eyes they start looking into it through the phone screen. 
+Some people enjoy photography and I understand when they are taking photos, but not all of us are photographers, right?
 
-I'm not against smartphones or other Internet-connected devices. They provide us with some very useful functionality. 
+I'm not against smartphones or other Internet-connected devices. They provide us with some useful functionality. 
 Everyone has their reasons for having a phone. My goal is to understand the trade-offs - 
-what I'm personally getting and losing owning a smartphone.
- And my only wish is that everyone was able to evaluate personal trade-offs themselves and made an educated decision.
+what I'm personally getting and losing owning a smartphone. 
+And my only wish is that everyone was able to evaluate personal trade-offs themselves and made an educated decision.
 
-For me the decision was down to evaluating whether constant interruptions and higher anxiety were worth the convenience of 
+For me, the decision was down to evaluating whether constant interruptions and higher anxiety were worth the convenience of 
 getting access to Maps and Wikipedia all the time.
 
 As a software engineer, I'm connected to the Internet probably 14 hours every day. 
-I consume huge amounts of information during those hours. 
+I consume large amounts of information during those hours. 
 Not having a smartphone gives me the ability to be offline for the short periods when I'm commuting, or doing shopping or walking, 
 or having a meal in the restaurant. I think we should strive for the balance and to have some time for ourselves. 
 It can be scary at the beginning and maybe even boring. 
