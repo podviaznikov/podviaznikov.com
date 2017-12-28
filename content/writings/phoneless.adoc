@@ -23,7 +23,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 I often get asked why I don't have a smartphone. 
 Interestingly, it's not that easy to answer this question in one sentence. 
 There are multiple reasons, and they change over time. 
-Actually they not simply change, they grow over the time.
 
 I got my first and only smartphone in January 2012 when I first came to the US. 
 I used it every day: checked the news, emails, Twitter and navigated using Google Maps. 
@@ -40,11 +39,11 @@ While listening to the person, I was thinking about something completely differe
 That was awkward and embarrassing.
 I wasn't able to follow up with questions to continue a conversation. 
 If you are not interested in what person is saying to you, I doubt she will be interested in listening to you. 
-That was new issue to me that appeared while I was using smartphone and was online all the time. 
+That was the new issue to me that appeared while I was using a smartphone and was online all the time. 
 I didn't like those changes to my mind and my personality.
 I do believe that technology should assist us in becoming better versions of ourselves, and opposite direction is not appropriate.
 
-The Internet is the big source of knowledge but also a huge source of distraction. 
+The Internet is the source of knowledge but also the source of distraction. 
 I do feel that our generation is probably the most consumerist of all of them. 
 It became too easy to consume news, shows, movies, music videos, stuck in different forums, chats, etc. 
 We often made fun of our parents who constantly consume TV with stupid shows and one-sided news. 
@@ -63,24 +62,24 @@ It's something almost mythical that you can achieve only rarely and something yo
 In my opinion, one of the preconditions for getting into the flow is getting long spans of time without interactions. 
 E.x. you can't be in the flow if someone would come to your table every 5 minutes while you working. 
 For doing creative work we want quite spaces. 
-But I don't think it's possible to avoid interruptions if you connected to your phone, your smart watch etc. 
-Your are constantly bombarded by new emails, private message, public chat messages, notifications from apps etc. 
+But I don't think it's possible to avoid interruptions if you connected to your phone, your smartwatch, etc. 
+You are constantly bombarded by new emails, private message, public chat messages, notifications from apps, etc. 
 I don't think most of us have even 30 straight quite minutes during our work days.
 
 I also think that having 24-hours access to the Internet raises our anxiety levels. 
 Our parents watch this depressing local and international news and worry a lot about things they have no influence on. 
 We however also worried about news. 
-But they are news about our Facebook friends, they are news about some events that are happening now. 
+But those are news about our Facebook friends, and some events that are happening now. 
 And we have strong fears and anxieties to miss these events. 
 The problem is that we not worried to miss something once per week or per day, but every 10 minutes. 
-We want to know about those events in the realtime. 
+We want to know about those events in the real-time. 
 So basically every minute of our life we are anxious about some issues. 
 Not a great place to be. I strongly recommend watching Alain de Bottom talks on news and anxiety.
 
 Personally, it was much harder for me to be at the moment when I had a smartphone. 
 It was extremely difficult to have a meaningful conversation, 
 it was hard to keep any conversation with someone at all because any second me or person 
-I was talking with would pull up phone and check something.
+I was talking with would pull up a phone and check something.
 
 Camera in our mobile devices has another weird side-effect on our comprehension of the world. 
 If you have a camera always with you then you'll try to use it. Suddenly everyone became a photographer. 
@@ -90,7 +89,7 @@ There are people who enjoy photography and I understand when they are taking pho
 
 I'm not against smartphones or other Internet-connected devices. They provide us with some very useful functionality. 
 Everyone has their reasons for having a phone. My goal is to understand the trade-offs - 
-what I'm personally getting and losing owning a smart phone.
+what I'm personally getting and losing owning a smartphone.
  And my only wish is that everyone was able to evaluate personal trade-offs themselves and made an educated decision.
 
 For me the decision was down to evaluating whether constant interruptions and higher anxiety were worth the convenience of 
