@@ -6,7 +6,7 @@ description: "Working on the wrong level of abstraction"
 date: 2016-11-12
 draft: true
 acknowledgement: 
-tags: []
+tags: ["post-modern world", "future", "politics"]
 people: []
 places: []
 locations: ["San Francisco"]
@@ -18,6 +18,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "post-modern world, future, politics"
 
 
