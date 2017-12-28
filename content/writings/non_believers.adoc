@@ -1,0 +1,23 @@
+---
+title: "Non-believers"
+url: "/non_believers"
+aliases: []
+description: 
+date: 0-00-00
+draft: true
+acknowledgement: 
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= Non-believers
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2017-12-28
+:docdate: 2017-12-28
+:nofooter:
+:document_type: writing
+:tags: ""
+
+
