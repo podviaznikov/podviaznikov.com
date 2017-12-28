@@ -4,7 +4,7 @@ url: "/implementation_details"
 aliases: ["/implementation-details-46jk9l8xx15"]
 description: "Working on the wrong level of abstraction"
 date: 2016-11-12
-draft: true
+draft: false
 acknowledgement: 
 tags: ["post-modern world", "future", "politics"]
 people: []
