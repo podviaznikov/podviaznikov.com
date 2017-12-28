@@ -4,7 +4,7 @@ url: "/on_space_exploration"
 aliases: ["/on-space-exploration-yj74lwymmg9"]
 description: "Exploring space exploration"
 date: 2016-12-26
-draft: true
+draft: false
 acknowledgement: 
 tags: ["space", "society", "myths", "narrative", "Mars"]
 people: []
