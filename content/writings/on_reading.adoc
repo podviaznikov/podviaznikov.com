@@ -22,7 +22,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 
 In this post I’ll present my own relationships with reading, how it evolved over years, current challenges I’m facing with it and will think about possible solutions. Here we go.
 
-## Reading: first years
+### Reading: first years
 
 Before school (up to 7 years) I was a very slow reader, I struggled a lot and my mom struggled to teach me. This problem continued well into the first half of the first year of school. My reading speed was one of the worst in the class. I vaguely remember what happened but I think during the winter break I picked up a popular Soviet children adventure book The Adventures of Dunno. I liked it a lot. I read it very slowly but after finishing I was hooked (and my reading speed improved dramatically) and continued with two other books from the series. Dunno/Neznaika, in my opinion, was like Harry Potter for Soviet and some post-Soviet kids like myself. I might have read at that time few more books in the same genre, like Gianni Rodari’s Chipolino and some others. The point is that by the end of my first school year I enjoyed reading a lot and my reading speed was one of the best in my class.
 
@@ -36,13 +36,13 @@ So during elementary school years, evenings without electricity, winters with sh
 
 Those were my first years reading. I think this stage was mostly about adventures (I read some others more serious books at the time, but I think they were rarer at this period). For me, it lasted from 1993 till 1997-98. I would call it “Harry Potter” stage. However, I have never read or watched Harry Potter because the first book was published in 1997 and it came few years later to Ukraine. By that time I was mostly done with this genre.
 
-## Middle school
+### Middle school
 
 During this stage, I read most of the things we were reading for the school program but sometimes on my own schedule. A lot of works I read before the program because again I had a lot of free time on my hands and some I discovered outside of school (e.x. at my parent's or grandparents' library). In this period I read mostly classics of French, Ukrainian, and Russian literature (XVIII and XIX centuries), I read also some science fiction for the first time and I read a decent amount of books about WWII, about partisans, about resistance. I read also other historian adventures about cossack, pirates etc. Occasionally I would pick up some random books like Viktor Suvorov's explanations of Soviet and world history of the XX century.
 
 The main theme during this stage was history (which I enjoyed a lot) and some adventures but by real people.
 
-## First transition
+### First transition
 
 During my high school years I moved to the big city, it was the beginning of 00’s years, the country was very different. We had a lot of TV channels, radio stations, cinemas. There were a lot of things one could do after school. The environment changed dramatically. I also lost some personal interest in books. I still read most of the works for the school program, but it was rare that I would find a book that I would read with the joy for few hours per day. Basically, my taste and interests changed but I wasn’t able to find a replacement yet. School program was of no help. We read usually something I wasn’t interested that much at the moment. Topics were unappealing to me.
 
@@ -52,13 +52,13 @@ The collapse of Soviet Union probably had a similar effect on its' former citize
 
 I’m not sure I realized these parallels reading Hemingway and Remarque back then, but it probably doesn’t matter. I was magnetized by these books anyway.
 
-## Second transition
+### Second transition
 
 Around 2010 several things happened. First, I've read enough of Hemingway and Remarque and I didn't know what to read next. Second, I left Ukraine and my access to physical books in Ukrainian and Russian languages was limited. At that time I was reading technical books in English but I have never read a full fiction book in my non-native language. Next few years were periods of struggle with both finding books I would want to read and starting reading books in English. Only around 2014, I was comfortable enough with reading books in English. And only in 2016 I discovered a lot of books that I was excited to read.
 
 In January 2016 I listened to 4 podcasts (2 with Naval Ravikant and 2 with Derek Sivers) (1, 2, 3, 4) on Tim Ferriss show that provided me with 1) some ideas how I can change my reading habits, 2) list of books that were interesting to me.
 
-## Ideas
+### Ideas
 
 Here is the list of tips from Naval that I tried and that worked for me:
 
@@ -70,7 +70,7 @@ Derek Sivers shared his great idea of keeping down notes of books he has read. I
 
 From my personal experience changing styles of books you are reading also helps. E.x. if you are reading 3 books in a row about spirituality that might become boring. Mix and match books, read a fiction book and then non-fiction, change topics etc. It happened to me at least once during the year one book reminded me so much of the previous one that I just stopped reading it (however I plan to come back to it later).
 
-## New problems
+### New problems
 
 This year is already one of the best in terms of reading for me personally. I don't think I've read that much since middle school. However 10 months after starting reading again I noticed several new problems.
 
@@ -80,7 +80,7 @@ I recently finished reading two books that go well together: Brave New World by 
 
 So what should I do?
 
-## New solutions
+### New solutions
 
 I started thinking in the last couple of days about the problem of forgetting. And I think there are at least several points to be made here.
 
