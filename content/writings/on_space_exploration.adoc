@@ -1,0 +1,23 @@
+---
+title: "On space exploration"
+url: "/on_space_exploration"
+aliases: []
+description: 
+date: 0-00-00
+draft: true
+acknowledgement: 
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= On space exploration
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2017-12-28
+:docdate: 2017-12-28
+:nofooter:
+:document_type: writing
+:tags: ""
+
+
