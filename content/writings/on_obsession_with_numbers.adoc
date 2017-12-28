@@ -3,7 +3,7 @@ title: "On obsession with numbers"
 url: "/on_obsession_with_numbers"
 aliases: []
 description: 
-date: 2015-10-14
+date: 2016-10-14
 draft: true
 acknowledgement: 
 tags: []
