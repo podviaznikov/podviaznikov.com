@@ -6,7 +6,7 @@ description:
 date: 2017-04-16
 draft: true
 acknowledgement: 
-tags: []
+tags: ["love", "anger", "poem"]
 people: []
 places: []
 locations: ["San Francisco"]
@@ -18,7 +18,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "love, anger, poem"
 
 In the City of Anger
 I'll build City of Love,
