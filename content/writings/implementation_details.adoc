@@ -64,7 +64,7 @@ For my engineering friends, I have a following metaphor for the issue I'm discus
 We have a complicated system because we coupled interfaces and implementation details. 
 Everything is so messy right now that it's hard to see what is where. In my opinion values are interfaces. 
 They are high-level things that should be clearly defined and exposed. 
-Interfaces are important because they allow communication between actors. 
+Interfaces are necessary because they allow communication between actors. 
 Policies, actions, decisions, processes are implementation details. 
 They should be implemented in the best rational way (given all the constraints) to comply with defined interfaces. 
 E.x. the income tax is not a question of big importance in such approach. 
@@ -75,8 +75,8 @@ provide a real positive change.
 It's much easier to understand interfaces between system A and B and came up with an appropriate plan, 
 than to understand messy coupled beasts we have now.
 
-Our branches of life: economy, technology, philosophy, education, science etc should be values-driven. 
-They should act in order to achieve future societal values and not some very specific metrics they rely on now.
+Our branches of life: economy, technology, philosophy, education, science should be values-driven. 
+They should be considered in the context of the future societal values and not some specific metrics they rely on now.
 
 To reiterate, I think that _implementation detail_ < _idea_ < _values_ < _desired values_. 
 Let's steer discussions and the whole discourse to the appropriate level of abstraction.
@@ -84,7 +84,7 @@ Let's steer discussions and the whole discourse to the appropriate level of abst
 Also working on the proper level of abstraction can eliminate whole classes of problems automatically. 
 E.x. if only we can rethink our values, a lot of issues we are discussing today would be eliminated: 
 terrorism, an immigration crisis, tax issues and global warming. 
-This sounds too idealistic and naive in the 2016 but I think humanity did it before and can switch to the new way of thinking again.
+This sounds too idealistic and naive in the 2016, but I think humanity did it before and can switch to the new way of thinking again.
 
 I don't want to discuss now what one should do next after agreeing on values, that is, 
 I don't want to discuss implementation details. 
