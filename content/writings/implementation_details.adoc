@@ -67,7 +67,7 @@ They are high-level things that should be clearly defined and exposed.
 Interfaces are necessary because they allow communication between actors. 
 Policies, actions, decisions, processes are implementation details. 
 They should be implemented in the best rational way (given all the constraints) to comply with defined interfaces. 
-E.x. the income tax is not a question of big importance in such approach. 
+E.x. the income tax is not a question of great importance in such approach. 
 Pick the one that helps system to conform to the defined interface (achieve desired declared values).
 
 Another great benefit of such clear separation is that it's easier to run the migration on a live system, that is, 
