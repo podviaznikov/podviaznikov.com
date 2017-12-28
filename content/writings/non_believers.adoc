@@ -2,7 +2,7 @@
 title: "Non-believers"
 url: "/non_believers"
 aliases: ["/nonbelievers-gg1xm7woojo"]
-description: 
+description: "Refusal to believe in the systems' stability in the modern world"
 date: 2016-11-24
 draft: true
 acknowledgement: 
