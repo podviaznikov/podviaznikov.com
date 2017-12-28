@@ -6,7 +6,7 @@ description: "Issues I have with personality tests"
 date: 2017-05-29
 draft: true
 acknowledgement: 
-tags: []
+tags: ["self-knowledge", "tests", "personality"]
 people: []
 places: []
 locations: ["San Francisco"]
@@ -18,6 +18,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "self-knowledge, tests, personality"
 
 
