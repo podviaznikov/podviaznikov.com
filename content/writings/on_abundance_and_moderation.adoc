@@ -1,7 +1,7 @@
 ---
 title: "On abundance and moderation"
 url: "/on_abundance_and_moderation"
-aliases: []
+aliases: ["/on-abundance-and-moderation-9793lx1rrkx"]
 description: 
 date: 2016-10-10
 draft: true
