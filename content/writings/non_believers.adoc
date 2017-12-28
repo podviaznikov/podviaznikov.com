@@ -7,7 +7,7 @@ date: 2016-11-24
 draft: true
 acknowledgement: 
 tags: []
-people: []
+people: ["Zygmunt Bauman"]
 places: []
 locations: ["San Francisco"]
 ---
