@@ -3,7 +3,7 @@ title: "On side effects of technology"
 url: "/on_side_effects_of_technology"
 aliases: []
 description: 
-date: 0-00-00
+date: 2016-10-13
 draft: true
 acknowledgement: 
 tags: []
