@@ -2,7 +2,7 @@
 title: "On obsession with numbers"
 url: "/on_obsession_with_numbers"
 aliases: ["/on-obsession-with-numbers-61o54k8lljm"]
-description: 
+description: "We live in a world driven by numbers"
 date: 2016-10-14
 draft: true
 acknowledgement: 
