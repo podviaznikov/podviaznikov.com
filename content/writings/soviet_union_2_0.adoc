@@ -1,7 +1,7 @@
 ---
 title: "Soviet Union 2.0"
 url: "/soviet_union_2_0"
-aliases: []
+aliases: ["/soviet-union-20-012lo0g230n"]
 description: 
 date: 2017-03-05
 draft: true
