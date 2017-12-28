@@ -4,7 +4,7 @@ url: "/post_modernism"
 aliases: ["/postmodernism-9793lx1rnj8"]
 description: "Thinking about defining features of the modern world"
 date: 2017-05-19
-draft: true
+draft: false
 acknowledgement: 
 tags: ["post-modern world"]
 people: []
