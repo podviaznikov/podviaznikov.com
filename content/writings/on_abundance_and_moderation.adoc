@@ -9,7 +9,7 @@ acknowledgement:
 tags: ["abundance", "moderation", "consumption", "consumerism"]
 people: []
 places: []
-locations: []
+locations: ["Hong Kong"]
 ---
 
 = On abundance and moderation
