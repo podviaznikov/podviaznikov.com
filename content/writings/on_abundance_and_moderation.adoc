@@ -6,7 +6,7 @@ description:
 date: 2016-10-10
 draft: true
 acknowledgement: 
-tags: []
+tags: ["abundance", "moderation", "consumption", "consumerism"]
 people: []
 places: []
 locations: []
@@ -18,6 +18,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "abundance, moderation, consumption, consumerism"
 
 
