@@ -3,7 +3,7 @@ title: "Implementation details"
 url: "/implementation_details"
 aliases: []
 description: 
-date: 0-00-00
+date: 2016-11-12
 draft: true
 acknowledgement: 
 tags: []
