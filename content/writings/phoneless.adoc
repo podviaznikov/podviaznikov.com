@@ -2,7 +2,7 @@
 title: "Phoneless"
 url: "/phoneless"
 aliases: ["/phoneless-m48kmx3778k"]
-description: 
+description: "On living a life without a smart phone in the modern society"
 date: 2015-09-27
 draft: true
 acknowledgement: 
