@@ -4,7 +4,7 @@ url: "/on_reading"
 aliases: ["/on-reading-q85yqjgrrrm"]
 description: "My relationships with reading"
 date: 2016-10-12
-draft: true
+draft: false
 acknowledgement: 
 tags: ["books", "reading"]
 people: []
