@@ -4,7 +4,7 @@ url: "/phoneless"
 aliases: ["/phoneless-m48kmx3778k"]
 description: "On living a life without a smart phone in the modern society"
 date: 2015-09-27
-draft: true
+draft: false
 acknowledgement: 
 tags: ["phones", "consumerism", "anxiety"]
 people: []
