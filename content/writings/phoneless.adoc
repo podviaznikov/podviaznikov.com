@@ -7,7 +7,7 @@ date: 2015-09-27
 draft: false
 acknowledgement: 
 tags: ["phones", "consumerism", "anxiety"]
-people: []
+people: ["Alain de Bottom"]
 places: []
 locations: ["St. Louis, USA"]
 ---
