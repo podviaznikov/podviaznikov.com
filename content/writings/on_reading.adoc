@@ -1,7 +1,7 @@
 ---
 title: "On reading"
 url: "/on_reading"
-aliases: []
+aliases: ["/on-reading-q85yqjgrrrm"]
 description: 
 date: 2016-10-12
 draft: true
