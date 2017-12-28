@@ -9,7 +9,7 @@ acknowledgement:
 tags: []
 people: []
 places: []
-locations: []
+locations: ["San Francisco"]
 ---
 
 = Soviet Union 2.0
