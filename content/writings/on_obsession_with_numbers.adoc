@@ -6,7 +6,7 @@ description: "We live in a world driven by numbers"
 date: 2016-10-14
 draft: true
 acknowledgement: 
-tags: []
+tags: ["technology", "numbers"]
 people: []
 places: []
 locations: ["San Francisco"]
@@ -18,6 +18,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "technology, numbers"
 
 
