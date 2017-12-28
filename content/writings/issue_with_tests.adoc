@@ -2,7 +2,7 @@
 title: "Issue with Tests"
 url: "/issue_with_tests"
 aliases: ["/issue-with-tests-j6q20n8qmpq"]
-description: 
+description: "Issues I have with personality tests"
 date: 2017-05-29
 draft: true
 acknowledgement: 
