@@ -6,7 +6,7 @@ description:
 date: 2017-03-05
 draft: true
 acknowledgement: 
-tags: []
+tags: ["modernity"]
 people: []
 places: []
 locations: ["San Francisco"]
@@ -18,6 +18,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "modernity"
 
 
