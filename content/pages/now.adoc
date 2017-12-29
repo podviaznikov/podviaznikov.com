@@ -1,0 +1,20 @@
+---
+title: "Now"
+url: "/now"
+description: 
+date: 0-00-00
+draft: true
+categories: ["Pages"]
+tags: []
+locations: []
+---
+
+= Now
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2017-12-29
+:docdate: 2017-12-29
+:nofooter:
+:document_type: page
+:tags: ""
+
+
