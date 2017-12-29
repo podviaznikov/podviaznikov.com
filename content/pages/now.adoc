@@ -6,7 +6,7 @@ date: 2017-12-28
 draft: true
 categories: ["Pages"]
 tags: []
-locations: []
+locations: ["San Francisco"]
 ---
 
 = Now
