@@ -2,7 +2,7 @@
 title: "Now"
 url: "/now"
 description: "What am I doing now"
-date: 0-00-00
+date: 2017-12-28
 draft: true
 categories: ["Pages"]
 tags: []
