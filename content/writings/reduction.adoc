@@ -10,7 +10,7 @@ categories: ["Writings"]
 tags: ["reduction", "happiness", "emotions", "support"]
 people: []
 places: []
-locations: []
+locations: ["San Francisco"]
 ---
 
 = Reduction
