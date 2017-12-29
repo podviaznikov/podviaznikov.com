@@ -1,0 +1,24 @@
+---
+title: "Reduction"
+url: "/reduction"
+aliases: []
+description: 
+date: 0-00-00
+draft: true
+acknowledgement: 
+categories: ["Writings"]
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= Reduction
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2017-12-29
+:docdate: 2017-12-29
+:nofooter:
+:document_type: writing
+:tags: ""
+
+
