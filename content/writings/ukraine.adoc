@@ -7,7 +7,7 @@ date: 2015-07-31
 draft: true
 acknowledgement: 
 categories: ["Writings"]
-tags: []
+tags: ["Ukraine"]
 people: []
 places: []
 locations: ["San Francisco"]
@@ -19,7 +19,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-29
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "Ukraine"
 
 ### Intro
 
