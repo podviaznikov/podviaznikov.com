@@ -1,6 +1,6 @@
 baseURL = "http://anton.montaigne.io"
 languageCode = "en-us"
-title = "Anton Podviaznikov"
+title = "Anton Podviaznikov: personal site"
 theme = "montaigne"
 
 [params]
@@ -14,6 +14,10 @@ logo_bg_color = "#e8fdf5"
 logo_bg_classname = "washed-green"
 
 [menu]
+[[menu.main]]
+name = "pages"
+identifier = "pages"
+url = "/pages"
 [[menu.main]]
 name = "writings"
 identifier = "writings"
