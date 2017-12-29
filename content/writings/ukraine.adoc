@@ -4,7 +4,7 @@ url: "/ukraine"
 aliases: []
 description: "My take on changes in Ukraine in the last 5 years (2010-2015) and it's future"
 date: 2015-07-31
-draft: true
+draft: false
 acknowledgement: 
 categories: ["Writings"]
 tags: ["Ukraine"]
