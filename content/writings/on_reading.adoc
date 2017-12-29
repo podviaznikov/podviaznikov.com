@@ -6,6 +6,7 @@ description: "My relationships with reading"
 date: 2016-10-12
 draft: false
 acknowledgement: 
+categories: ["Writings"]
 tags: ["books", "reading"]
 people: []
 places: []
@@ -14,8 +15,8 @@ locations: ["San Francisco"]
 
 = On reading
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2017-12-28
-:docdate: 2017-12-28
+:revdate: 2017-12-29
+:docdate: 2017-12-29
 :nofooter:
 :document_type: writing
 :tags: "books, reading"
@@ -24,9 +25,24 @@ In this post I’ll present my own relationships with reading, how it evolved ov
 
 ### Reading: first years
 
-Before school (up to 7 years) I was a very slow reader, I struggled a lot and my mom struggled to teach me. This problem continued well into the first half of the first year of school. My reading speed was one of the worst in the class. I vaguely remember what happened but I think during the winter break I picked up a popular Soviet children adventure book The Adventures of Dunno. I liked it a lot. I read it very slowly but after finishing I was hooked (and my reading speed improved dramatically) and continued with two other books from the series. Dunno/Neznaika, in my opinion, was like Harry Potter for Soviet and some post-Soviet kids like myself. I might have read at that time few more books in the same genre, like Gianni Rodari’s Chipolino and some others. The point is that by the end of my first school year I enjoyed reading a lot and my reading speed was one of the best in my class.
+Before school (up to 7 years) I was a very slow reader, I struggled a lot and my mom struggled to teach me. 
+This problem continued well into the first half of the first year of school. 
+My reading speed was one of the worst in the class. 
+I vaguely remember what happened but I think during the winter break I picked up a popular Soviet children adventure book The Adventures of Dunno. 
+I liked it a lot. 
+I read it very slowly but after finishing I was hooked (and my reading speed improved dramatically) and continued with two other books from the series. Dunno/Neznaika, in my opinion, was like Harry Potter for Soviet and some post-Soviet kids like myself. I might have read at that time few more books in the same genre, like Gianni Rodari’s Chipolino and some others. 
+The point is that by the end of my first school year I enjoyed reading a lot and my reading speed was one of the best in my class.
 
-I think it is important to give a context to these first years. I grew up in a small western town in post-Soviet Ukraine. What was good about that world is that we didn’t have much of now traditional media entertainment. We had only few TV channels (3 to 4 depending on a weather), they didn’t work during the day (so when I was back from school, there were not only no cartoons to watch but also no TV). Every weekday evening we didn’t have electricity for 2 hours. So basically your TV entertainment was reduced to a tiny fraction of the time: we might watch either news or one TV show or one movie. We didn’t have many cartoons either, it was usually 5–10 minutes cartoon during the evening program for the kids and 1 hour of some Disney cartoons on Saturday mornings. That was it.
+I think it is important to give a context to these first years. 
+I grew up in a small western town in post-Soviet Ukraine. 
+What was good about that world is that we didn’t have much of now traditional media entertainment. 
+We had only few TV channels (3 to 4 depending on a weather), 
+they didn’t work during the day (so when I was back from school, 
+there were not only no cartoons to watch but also no TV). 
+Every weekday evening we didn’t have electricity for 2 hours. 
+So basically your TV entertainment was reduced to a tiny fraction of the time: 
+we might watch either news or one TV show or one movie. 
+We didn’t have many cartoons either, it was usually 5–10 minutes cartoon during the evening program for the kids and 1 hour of some Disney cartoons on Saturday mornings. That was it.
 
 Now imagine Ukrainian winter in the 90s. You can’t go much outside (because of the weather) and the days are extremely short (it's getting dark around 4PM). So you are spending a lot of time inventing your own entertainment. Reading was usually the top choice. I also had few old video games on the Nintendo-like console. But to be honest I don’t have memories playing video games every day and for long periods of time.
 
@@ -117,7 +133,8 @@ Personally I plan to alter my approach to reading in the following way:
  - pick up some question and write an essay about the book (not a short review)
  - find a book club where you can discuss your book and discuss it with people. Giving 1 min summary of a book for people who never read it might be very useful for you
 
-Theoretically, there can be also the technological solution for this problem. It might be something like an online non-traditional book club that would be similar to a school classroom I described above. You will become part of the classroom with other people who are reading the same book right now and willing to join. The classroom would include several discussion sessions and writing essays and tests.
+Theoretically, there can be also the technological solution for this problem. 
+It might be something like an online non-traditional book club that would be similar to a school classroom I described above. You will become part of the classroom with other people who are reading the same book right now and willing to join. The classroom would include several discussion sessions and writing essays and tests.
 
 However, I'm not super optimistic about such technological solution at this point of time. There are a lot of open questions. E.x. Is learning more social or individual activity (does the answer depend on a type of personality)? Is it better to have a solution that satisfies fewer requirements but offline (think book club) or online one that is theoretically more feature-complete?
 
