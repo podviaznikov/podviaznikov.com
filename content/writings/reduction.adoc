@@ -4,7 +4,7 @@ url: "/reduction"
 aliases: []
 description: "Reducing ourselves"
 date: 2017-12-29
-draft: true
+draft: false
 acknowledgement: 
 categories: ["Writings"]
 tags: ["reduction", "happiness", "emotions", "support"]
