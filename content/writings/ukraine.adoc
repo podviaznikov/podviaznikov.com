@@ -10,7 +10,7 @@ categories: ["Writings"]
 tags: []
 people: []
 places: []
-locations: []
+locations: ["San Francisco"]
 ---
 
 = Ukraine
