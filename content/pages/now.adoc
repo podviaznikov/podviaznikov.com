@@ -1,7 +1,7 @@
 ---
 title: "Now"
 url: "/now"
-description: 
+description: "What am I doing now"
 date: 0-00-00
 draft: true
 categories: ["Pages"]
