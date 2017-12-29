@@ -7,7 +7,7 @@ date: 2017-12-29
 draft: true
 acknowledgement: 
 categories: ["Writings"]
-tags: []
+tags: ["reduction", "happiness", "emotions", "support"]
 people: []
 places: []
 locations: []
@@ -19,7 +19,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-29
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "reduction, happiness, emotions, support"
 
 We reduce people around us.
 How often do we forget _all_ the good things about someone and focus on their "faults" at worst or few "positive" things at best?
