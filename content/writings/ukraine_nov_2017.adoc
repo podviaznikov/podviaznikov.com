@@ -2,7 +2,7 @@
 title: "Ukraine: Nov 2017"
 url: "/ukraine_nov_2017"
 aliases: []
-description: "Look with the fresh eyes"
+description: "Looking through the new eyes"
 date: 2017-12-29
 draft: false
 acknowledgement: 
