@@ -9,7 +9,7 @@ acknowledgement:
 categories: ["Writings"]
 tags: ["Ukraine", "travelling", "technology"]
 people: []
-places: []
+places: ["Kyiv", "Ukraine", "Kharkiv"]
 locations: ["San Francisco"]
 ---
 
