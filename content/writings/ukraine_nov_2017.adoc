@@ -4,7 +4,7 @@ url: "/ukraine_nov_2017"
 aliases: []
 description: "Look with the fresh eyes"
 date: 2017-12-29
-draft: true
+draft: false
 acknowledgement: 
 categories: ["Writings"]
 tags: ["Ukraine"]
