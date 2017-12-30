@@ -9,14 +9,14 @@ acknowledgement:
 categories: ["Writings"]
 tags: ["Ukraine"]
 people: []
-places: []
+places: ["Ukraine"]
 locations: ["San Francisco"]
 ---
 
 = Ukraine
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2017-12-29
-:docdate: 2017-12-29
+:revdate: 2017-12-30
+:docdate: 2017-12-30
 :nofooter:
 :document_type: writing
 :tags: "Ukraine"
