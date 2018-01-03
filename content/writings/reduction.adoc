@@ -15,8 +15,8 @@ locations: ["San Francisco"]
 
 = Reduction
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2017-12-30
-:docdate: 2017-12-30
+:revdate: 2018-01-03
+:docdate: 2018-01-03
 :nofooter:
 :document_type: writing
 :tags: "reduction, happiness, emotions, support"
@@ -27,13 +27,17 @@ When we forget to acknowledge good things about other people we create problems 
 
 What kind of problems, you ask?
 
-When you tell someone (your child, your friend, your partner) that they are good at this _one_ thing they might start to 
-doubt their wholeness - they might doubt that they have other "good" traits or even doubt that they are able to 
+When you tell someone for long period of time (your child, your friend, your partner) 
+that they are good at this _one_ thing they might start to doubt their wholeness 
+- they might doubt that they have other "good" traits or even doubt that they are able to 
 have them in the future.
+
+When parents tell to their kid that she is good at e.g. "math" it will be engraved in the child's mind. 
+The kid might never have courage or desire to approach art, or literature, or sport.
 
 So such reduction, affects _your_ perception of another person, 
 it might affect _self-perception_ of that person, and it will damage your relationships too. 
-In theory we are all independant adult creatures, in practice it is not like that at all.
+In theory, we are all independant adult creatures, in practice, it is not like that at all.
 
 Let's be careful with each other. Let's try to not project our insecurities on other people. 
 Let's be explicit about all (even tiny) things we appreciate in each other. 
@@ -43,4 +47,6 @@ Maybe our kind words can change someone's life.
 Maybe we will bring a smile on someone face, or a tear of sadness followed by a tear of relief and happiness. 
 Perhaps we will lift someone out of depression or difficult stage of life.
 
-Let's not do assumptions about other people. Let's be kind and gentle with each other.
+Let's not make assumptions about other people. Let's not think that our compliment will have no 
+negative side-effects because maybe we said it with good intentions.
+Let's be kind and gentle with each other. And let's be attentive.
