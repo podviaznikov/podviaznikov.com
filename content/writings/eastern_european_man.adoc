@@ -4,7 +4,7 @@ url: "/eastern_european_man"
 aliases: []
 description: "The Man from the Eastern Europe"
 date: 2017-00-00
-draft: true
+draft: false
 acknowledgement: 
 categories: ["Writings"]
 tags: ["Eastern Europe", "ego", "profanity", "emotions"]
