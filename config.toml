@@ -1,4 +1,4 @@
-baseURL = "http://anton.montaigne.io"
+baseURL = "https://podviaznikov.com"
 languageCode = "en-us"
 title = "Anton Podviaznikov: personal site"
 theme = "montaigne"
