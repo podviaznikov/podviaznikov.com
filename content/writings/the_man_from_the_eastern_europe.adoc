@@ -1,0 +1,24 @@
+---
+title: "The Man from the Eastern Europe"
+url: "/the_man_from_the_eastern_europe"
+aliases: []
+description: 
+date: 0-00-00
+draft: true
+acknowledgement: 
+categories: ["Writings"]
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= The Man from the Eastern Europe
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2018-01-03
+:docdate: 2018-01-03
+:nofooter:
+:document_type: writing
+:tags: ""
+
+
