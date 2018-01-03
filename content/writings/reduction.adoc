@@ -5,7 +5,7 @@ aliases: []
 description: "Reducing ourselves"
 date: 2017-12-29
 draft: false
-acknowledgement: "Thanks Natalya Stepanova for helping me discover this lesson"
+acknowledgement: "Thanks to Natalya Stepanova for helping me discover this lesson"
 categories: ["Writings"]
 tags: ["reduction", "happiness", "emotions", "support"]
 people: []
