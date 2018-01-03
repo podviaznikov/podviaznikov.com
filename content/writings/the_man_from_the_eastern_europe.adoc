@@ -2,7 +2,7 @@
 title: "The Man from the Eastern Europe"
 url: "/the_man_from_the_eastern_europe"
 aliases: []
-description: 
+description: "The Man from the Eastern Europe"
 date: 0-00-00
 draft: true
 acknowledgement: 
