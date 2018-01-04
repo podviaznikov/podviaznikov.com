@@ -10,7 +10,7 @@ categories: ["Writings"]
 tags: []
 people: []
 places: []
-locations: []
+locations: ["San Francisco"]
 ---
 
 = People I am Afraid Of
