@@ -3,7 +3,7 @@ title: "Eastern European Man"
 url: "/eastern_european_man"
 aliases: []
 description: "The Man from the Eastern Europe"
-date: 2018-02-02
+date: 2017-12-30
 draft: false
 acknowledgement: 
 categories: ["Writings"]
