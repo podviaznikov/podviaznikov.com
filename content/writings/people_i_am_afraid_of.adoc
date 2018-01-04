@@ -1,0 +1,24 @@
+---
+title: "People I am Afraid Of"
+url: "/people_i_am_afraid_of"
+aliases: []
+description: 
+date: 0-00-00
+draft: true
+acknowledgement: 
+categories: ["Writings"]
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= People I am Afraid Of
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2018-01-04
+:docdate: 2018-01-04
+:nofooter:
+:document_type: writing
+:tags: ""
+
+
