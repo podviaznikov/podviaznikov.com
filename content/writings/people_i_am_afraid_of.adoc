@@ -4,7 +4,7 @@ url: "/people_i_am_afraid_of"
 aliases: []
 description: "On people that on my opinion are the most dangerous for the society"
 date: 2016-02-24
-draft: true
+draft: false
 acknowledgement: 
 categories: ["Writings"]
 tags: []
