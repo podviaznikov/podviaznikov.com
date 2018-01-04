@@ -1,0 +1,24 @@
+---
+title: "5 years"
+url: "/5_years"
+aliases: []
+description: 
+date: 0-00-00
+draft: true
+acknowledgement: 
+categories: ["Writings"]
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= 5 years
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2018-01-04
+:docdate: 2018-01-04
+:nofooter:
+:document_type: writing
+:tags: ""
+
+
