@@ -1,0 +1,24 @@
+---
+title: "Is History Harmful?"
+url: "/is_history_harmful"
+aliases: []
+description: 
+date: 0-00-00
+draft: true
+acknowledgement: 
+categories: ["Writings"]
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= Is History Harmful?
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2018-01-04
+:docdate: 2018-01-04
+:nofooter:
+:document_type: writing
+:tags: ""
+
+
