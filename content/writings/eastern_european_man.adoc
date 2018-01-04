@@ -7,7 +7,7 @@ date: 2018-02-02
 draft: false
 acknowledgement: 
 categories: ["Writings"]
-tags: ["Eastern Europe", "ego", "profanity", "emotions"]
+tags: ["Eastern Europe", "ego", "profanity", "emotions", "Ukraine"]
 people: []
 places: []
 locations: ["San Francisco"]
@@ -15,11 +15,11 @@ locations: ["San Francisco"]
 
 = Eastern European Man
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-03
-:docdate: 2018-01-03
+:revdate: 2018-01-04
+:docdate: 2018-01-04
 :nofooter:
 :document_type: writing
-:tags: "Eastern Europe, ego, profanity, emotions"
+:tags: "Eastern Europe, ego, profanity, emotions, Ukraine"
 
 Warning, unfair generalization and reversed sexism ahead.
 This is just an exercise to describe one of the archetypes, don’t take it too seriously.
