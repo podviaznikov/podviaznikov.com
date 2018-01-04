@@ -3,7 +3,7 @@ title: "People I am Afraid Of"
 url: "/people_i_am_afraid_of"
 aliases: []
 description: 
-date: 0-00-00
+date: 2016-02-24
 draft: true
 acknowledgement: 
 categories: ["Writings"]
