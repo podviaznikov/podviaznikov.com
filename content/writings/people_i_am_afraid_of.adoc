@@ -7,7 +7,7 @@ date: 2016-02-24
 draft: false
 acknowledgement: 
 categories: ["Writings"]
-tags: []
+tags: ["society", "modernity"]
 people: []
 places: []
 locations: ["San Francisco"]
@@ -19,7 +19,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-04
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "society, modernity"
 
 There are two types of people that I am afraid of: 
 
