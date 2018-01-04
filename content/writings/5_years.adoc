@@ -4,7 +4,7 @@ url: "/5_years"
 aliases: []
 description: "5 years. Self-reflections and planning the future"
 date: 2015-08-27
-draft: true
+draft: false
 acknowledgement: 
 categories: ["Writings"]
 tags: ["life", "travelling"]
