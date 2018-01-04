@@ -7,7 +7,7 @@ date: 0-00-00
 draft: true
 acknowledgement: 
 categories: ["Writings"]
-tags: []
+tags: ["life", "travelling"]
 people: ["Alain de Bottom"]
 places: []
 locations: []
@@ -19,7 +19,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-04
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "life, travelling"
 
 I often thought what would happen in my life in the next 5 years. 
 Previously I wanted to have a possibility to predict my future and plan for it accordingly. 
