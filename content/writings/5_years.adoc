@@ -10,7 +10,7 @@ categories: ["Writings"]
 tags: ["life", "travelling"]
 people: ["Alain de Bottom"]
 places: []
-locations: []
+locations: ["Istanbul"]
 ---
 
 = 5 years
