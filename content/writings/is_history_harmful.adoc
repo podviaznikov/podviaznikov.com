@@ -2,7 +2,7 @@
 title: "Is History Harmful?"
 url: "/is_history_harmful"
 aliases: []
-description: 
+description: "Is history harmful and teaching it causes some serious problems in the long run?"
 date: 2014-05-11
 draft: true
 acknowledgement: 
