@@ -15,8 +15,8 @@ locations: ["San Francisco"]
 
 = Reduction
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-03
-:docdate: 2018-01-03
+:revdate: 2018-01-07
+:docdate: 2018-01-07
 :nofooter:
 :document_type: writing
 :tags: "reduction, happiness, emotions, support"
@@ -39,8 +39,10 @@ If you tell someone they are "this", that also might mean to them that they are 
 
 So such reduction, affects _your_ perception of another person, 
 it might affect _self-perception_ of that person, and it will damage your relationships too. 
-In theory, we are all independant adult creatures, in practice, it is not like that at all.
+If you tell another person that she is "serious," you deny the existence of "funny" side. 
+In such case, that person might never be "funny" with _you_.
 
+In theory, we are all independant adult creatures, in practice, it is not like that at all.
 Let's be careful with each other. Let's try to not project our insecurities on other people. 
 Let's be explicit about all (even tiny) things we appreciate in each other. 
 And also let's be conscious and mindful of those good things.
