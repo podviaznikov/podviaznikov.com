@@ -8,7 +8,7 @@ draft: false
 acknowledgement: 
 categories: ["Writings"]
 tags: ["abundance", "moderation", "consumption", "consumerism"]
-people: ["Goethe"]
+people: ["Goethe", "Neil Postman"]
 places: []
 locations: ["Hong Kong"]
 ---
