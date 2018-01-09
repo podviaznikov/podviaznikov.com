@@ -9,7 +9,7 @@ acknowledgement:
 categories: ["Writings"]
 tags: ["Ukraine", "politics", "ideas"]
 people: []
-places: []
+places: ["Ukraine"]
 locations: ["San Francisco"]
 ---
 
