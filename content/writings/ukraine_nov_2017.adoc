@@ -15,8 +15,8 @@ locations: ["San Francisco"]
 
 = Ukraine: Nov 2017
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2017-12-30
-:docdate: 2017-12-30
+:revdate: 2018-01-09
+:docdate: 2018-01-09
 :nofooter:
 :document_type: writing
 :tags: "Ukraine, travelling, technology"
@@ -73,9 +73,13 @@ I’ve met British girl in Kyiv who lived there for 9 months, and she was compla
 I’d take it as a good sign at this point in time.
 
 _Following the leaders_. What I also noticed that people started looking abroad for ideas. 
-Coffee shops with Western design are good examples of this point. There is no need to reinvent everything. Take what is working somewhere and use it. I saw the same in conversation with software engineers. They told me how their companies tried to improve themselves by studying books on hiring and managing at Google and other big US companies.
+Coffee shops with Western design are good examples of this point. There is no need to reinvent everything. 
+Take what is working somewhere and use it. 
+I saw the same in conversation with software engineers. 
+They told me how their companies tried to improve themselves by studying books on hiring and managing at Google and other big US companies.
 
-I also noticed how deep _technology penetrated_ into society. Middle-aged Ukrainians are using Uber, asking about Bitcoin, buying drones, shopping online and using same-day delivery services.
+I also noticed how deep _technology penetrated_ into society. 
+Middle-aged Ukrainians are using Uber, asking about Bitcoin, buying drones, shopping online and using same-day delivery services.
 
 For me, I practically saw no difference between creative class in San Francisco, Hong Kong, London, and Kyiv.
 Forgetting about globalization issue, in general, I consider it a good thing for Ukraine at this particular moment in time.
