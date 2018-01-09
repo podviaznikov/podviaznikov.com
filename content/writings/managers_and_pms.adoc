@@ -3,7 +3,7 @@ title: "Managers and PMs"
 url: "/managers_and_pms"
 aliases: []
 description: "PMs are just managers"
-date: 0-00-00
+date: 2018-01-08
 draft: true
 acknowledgement: 
 categories: ["Writings"]
