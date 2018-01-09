@@ -1,5 +1,5 @@
 ---
-title: "People I am Afraid Of"
+title: "People I am Afraid of"
 url: "/people_i_am_afraid_of"
 aliases: []
 description: "On people that on my opinion are the most dangerous for the society"
@@ -13,10 +13,10 @@ places: []
 locations: ["San Francisco"]
 ---
 
-= People I am Afraid Of
+= People I am Afraid of
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-04
-:docdate: 2018-01-04
+:revdate: 2018-01-09
+:docdate: 2018-01-09
 :nofooter:
 :document_type: writing
 :tags: "society, modernity"
