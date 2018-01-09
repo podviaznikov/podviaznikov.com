@@ -7,7 +7,7 @@ date: 2018-01-08
 draft: true
 acknowledgement: 
 categories: ["Writings"]
-tags: []
+tags: ["Ukraine", "politics", "ideas"]
 people: []
 places: []
 locations: ["San Francisco"]
@@ -19,7 +19,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-09
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "Ukraine, politics, ideas"
 
 In 2013 - before the revolution in Ukraine - I had this idea, that Prime Ministers and CEOs of large multinational corporation share mostly the same skills.
 
