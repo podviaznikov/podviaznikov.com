@@ -2,7 +2,7 @@
 title: "Managers and PMs"
 url: "/managers_and_pms"
 aliases: []
-description: "PMs are just managers"
+description: "Ministers are managers"
 date: 2018-01-08
 draft: false
 acknowledgement: 
@@ -15,8 +15,8 @@ locations: ["San Francisco"]
 
 = Managers and PMs
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-09
-:docdate: 2018-01-09
+:revdate: 2018-01-12
+:docdate: 2018-01-12
 :nofooter:
 :document_type: writing
 :tags: "Ukraine, politics, ideas"
