@@ -3,7 +3,7 @@ title: "Dance as a metaphor of life"
 url: "/dance_as_a_metaphor_of_life"
 aliases: []
 description: 
-date: 0-00-00
+date: 2018-01-13
 draft: true
 acknowledgement: 
 categories: ["Writings"]
