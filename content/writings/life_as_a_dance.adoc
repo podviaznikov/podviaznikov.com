@@ -21,7 +21,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :document_type: writing
 :tags: "dance, life, metaphor"
 
-Remember when you were a kid you could dance and enjoy it enormously even if you _didn't know how_ to dance?
+Remember, when you were a kid, you could dance and enjoy it enormously even if you _didn't know how_ to dance?
 
 After you grow out of childhood, you lose that bliss. 
 You're starting to learn how to dance in the school. 
