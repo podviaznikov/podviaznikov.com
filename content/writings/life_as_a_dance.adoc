@@ -4,7 +4,7 @@ url: "/life_as_a_dance"
 aliases: []
 description: "Dance as a metaphor of life"
 date: 2018-01-13
-draft: true
+draft: false
 acknowledgement: 
 categories: ["Writings"]
 tags: ["dance", "life", "metaphor"]
