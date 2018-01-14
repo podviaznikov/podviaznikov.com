@@ -1,0 +1,42 @@
+---
+title: "Life as a Dance"
+url: "/life_as_a_dance"
+aliases: []
+description: 
+date: 2018-01-13
+draft: true
+acknowledgement: 
+categories: ["Writings"]
+tags: []
+people: []
+places: []
+locations: ["San Francisco"]
+---
+
+= Life as a Dance
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2018-01-14
+:docdate: 2018-01-14
+:nofooter:
+:document_type: writing
+:tags: ""
+
+Remember when you were a kid you could dance and enjoy it enormously even if you _didn't know how_ to dance?
+
+After you grow out of childhood, you lose that bliss. 
+You're starting to learn how to dance in the school. 
+It's painful, and it takes time, and it might be not fun. 
+And those years are filled with effort, tears, setbacks, lost hope, varying levels of motivation, ups and downs, defeats and victories.
+
+And then, maybe, if you're persistent and lucky, you might rediscover the joy from your childhood again. 
+And that is the point where you know how to dance as professional, and you feel it and enjoy it as a kid. 
+That is the integration point: your inner child integrated with an adult to form a mature creature. 
+
+For me, that is the metaphor of life. 
+You go from childhood - which most people enjoy, to sometimes painful period of adulthood where you to learn how to live and how to bring that joy back, 
+and when you're done - you are a mature person. 
+The one, who has a deep understanding of life and know how to enjoy it and appreciate it. 
+It is not about just rediscovering what was lost during adulthood. 
+It's about bringing together all sides: mind and body and soul. 
+It's this three-dimensionality that gives new depth to the joy. 
+That is the whole point of growing up - to lose joy so you can find it again in a new broader sense and with new intensity.
