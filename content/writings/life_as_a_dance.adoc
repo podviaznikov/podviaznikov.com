@@ -7,7 +7,7 @@ date: 2018-01-13
 draft: true
 acknowledgement: 
 categories: ["Writings"]
-tags: []
+tags: ["dance", "life", "metaphor"]
 people: []
 places: []
 locations: ["San Francisco"]
@@ -19,7 +19,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-14
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "dance, life, metaphor"
 
 Remember when you were a kid you could dance and enjoy it enormously even if you _didn't know how_ to dance?
 
