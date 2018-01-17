@@ -15,13 +15,13 @@ locations: ["San Francisco"]
 
 = Ukraine
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2017-12-30
-:docdate: 2017-12-30
+:revdate: 2018-01-17
+:docdate: 2018-01-17
 :nofooter:
 :document_type: writing
 :tags: "Ukraine"
 
-### Intro
+## Intro
 
 5 years ago I left Ukraine. 
 What is interesting that after 5 years outside of my home country I can't answer a question "So how is life in Ukraine?" anymore. 
@@ -39,7 +39,7 @@ If I come to Ukraine now, I wouldn't exactly know what to expect.
 I have some ideas though about my expectations, and you can read them below.
 
 
-### Events
+## Events
 
 A lot of things happened in Ukraine in the past 5 years. First we had Victor Yanukovych regime, 
 then we had the Revolution of Dignity connected with tragedy but huge hopes. 
@@ -48,7 +48,8 @@ My country has a lot of problems now: war, corruption, slow speed of reforms, ec
 
 But I see 2 signs of future success of Ukraine. I have a good feeling about my home country. Bear with me to know why.
 
-### Music & art
+
+## Music & art
 
 When I was younger, we had a handful of the good Ukrainian music bands. 
 To become successful, they needed some money/connections to appear on popular radio stations and TV-channel rotations. 
@@ -90,7 +91,7 @@ It also shows that artists are not afraid to try anymore.
 An artist in some way also sends a right message to the rest of the society: 
 if I am not afraid to try and do what we love - you can and should too.
 
-### New class
+## New class
 
 In the 90s, most of the population in Ukraine became suddenly extremely poor after the collapse of Soviet Union. 
 Early days of capitalism in my country were pretty wild. Some people became rich quickly. 
@@ -115,7 +116,7 @@ Also, some good role models (for future generations) are emerging.
 We started to have good, socially active artists, we started to value intellectuals, 
 it's becoming fashionable again to be smart and kind.
 
-### Conclusion
+## Conclusion
 
 You can be pessimistic or optimistic about Ukrainian future. It's hard to predict what would happen next. 
 There are great potential and a lot of opportunities, some are described in https://www.youtube.com/watch?v=jdSQuanI8Z8[Ukraine is open for U video].
