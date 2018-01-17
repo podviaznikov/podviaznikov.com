@@ -11,8 +11,8 @@ locations: ["San Francisco"]
 
 = Now
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2017-12-29
-:docdate: 2017-12-29
+:revdate: 2018-01-17
+:docdate: 2018-01-17
 :nofooter:
 :document_type: page
 :tags: ""
@@ -22,7 +22,7 @@ It's the longest stretch of time I've spent in a single city outside of my home 
 
 I'm here by myself for the first time in my adult life.
 
-I do have more free time than usual which I'm spending on reading, programming, trying find new hobbies.
+I do have more free time than usual which I'm spending on thinking, reading, programming, trying find new hobbies.
 
 The most important part is that I'm trying to reflect on my readings, experiences, and ideas. 
 The best day for me is the one when I have a buzz of various ideas and thoughts in my head.
