@@ -2,7 +2,7 @@
 title: "Overcoming my prejudices"
 url: "/overcoming_my_prejudices"
 aliases: []
-description: "Learning my lessons"
+description: "Learning my lessons. One lesson at a time"
 date: 2018-01-17
 draft: false
 acknowledgement: 
