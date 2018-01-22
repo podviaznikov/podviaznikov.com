@@ -5,7 +5,7 @@ aliases: []
 description: "Effects of the comedy shows"
 date: 2018-01-21
 draft: false
-acknowledgement: "Neil Postman for his ideas on connection between media and discourse"
+acknowledgement: "Thanks to Neil Postman for his ideas on connection between media and discourse"
 categories: ["Writings"]
 tags: ["comedy", "politics", "discourse", "daily shows", "modernity"]
 people: ["Stephen Colbert", "John Oliver", "Jon Steward", "Donald Trump", "George W. Bush", "Neil Postman"]
