@@ -2,7 +2,7 @@
 title: "Joke on Us"
 url: "/joke_on_us"
 aliases: []
-description: 
+description: "Effects of the comedy shows"
 date: 2018-01-21
 draft: true
 acknowledgement: "Neil Postman for his ideas on connection between media and discourse"
