@@ -1,0 +1,24 @@
+---
+title: "Joke on Us"
+url: "/joke_on_us"
+aliases: []
+description: 
+date: 0-00-00
+draft: true
+acknowledgement: 
+categories: ["Writings"]
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= Joke on Us
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2018-01-22
+:docdate: 2018-01-22
+:nofooter:
+:document_type: writing
+:tags: ""
+
+
