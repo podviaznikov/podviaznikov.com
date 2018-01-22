@@ -22,7 +22,9 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :tags: "comedy, politics, discourse, daily shows, modernity"
 
 Imagine two people. They are friends or colleagues or neighbors.
-One person starts telling jokes about another one. All the time. 
+One person starts telling jokes about another, only criticizes her. 
+All the time. 
+Sometimes the jokes are offensive.
 He says how stupid that person, how unreasonable all her thoughts are, 
 how limited and second-class she is.
 
