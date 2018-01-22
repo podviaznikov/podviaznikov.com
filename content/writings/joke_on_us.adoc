@@ -4,7 +4,7 @@ url: "/joke_on_us"
 aliases: []
 description: "Effects of the comedy shows"
 date: 2018-01-21
-draft: true
+draft: false
 acknowledgement: "Neil Postman for his ideas on connection between media and discourse"
 categories: ["Writings"]
 tags: ["comedy", "politics", "discourse", "daily shows", "modernity"]
