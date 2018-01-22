@@ -3,7 +3,7 @@ title: "Joke on Us"
 url: "/joke_on_us"
 aliases: []
 description: 
-date: 0-00-00
+date: 2018-01-21
 draft: true
 acknowledgement: 
 categories: ["Writings"]
