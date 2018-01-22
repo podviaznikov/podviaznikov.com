@@ -9,7 +9,7 @@ acknowledgement:
 categories: ["Writings"]
 tags: ["comedy", "politics", "discourse", "daily shows", "modernity"]
 people: ["Stephen Colbert", "John Oliver", "Jon Steward", "Donald Trump", "George W. Bush"]
-places: []
+places: ["USA"]
 locations: ["San Francisco"]
 ---
 
