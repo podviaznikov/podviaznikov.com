@@ -7,7 +7,7 @@ date: 2018-01-21
 draft: true
 acknowledgement: 
 categories: ["Writings"]
-tags: []
+tags: ["comedy", "politics", "discourse", "daily shows", "modernity"]
 people: ["Stephen Colbert", "John Oliver", "Jon Steward", "Donald Trump", "George W. Bush"]
 places: []
 locations: ["San Francisco"]
@@ -19,7 +19,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-22
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "comedy, politics, discourse, daily shows, modernity"
 
 Imagine two people. They are friends or colleagues or neighbors.
 One person starts telling jokes about another one. All the time. 
