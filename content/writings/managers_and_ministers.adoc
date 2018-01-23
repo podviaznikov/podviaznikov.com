@@ -15,8 +15,8 @@ locations: ["San Francisco"]
 
 = Managers and Ministers
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-17
-:docdate: 2018-01-17
+:revdate: 2018-01-23
+:docdate: 2018-01-23
 :nofooter:
 :document_type: writing
 :tags: "Ukraine, politics, ideas"
@@ -91,13 +91,8 @@ I think PM should be a successful international top manager. The same goes for M
 I think they should come from highly developed countries of Western Europe, Asia, etc. 
 They should have the very best education in the world top schools.
 
-And you know what? I bet some of these successful managers would love to come to Ukraine. 
+I bet some of these successful managers would love to come to Ukraine. 
 Because it will be a challenge for them - to modernize a country with 40M people. 
 We talked about salaries a lot, but the challenge and the prospect of the big impact are what really drives these people. 
-Salary is just a way of showing that you are serious about the project and believe in fairness.
-
-
-
-
-
+Salary is just a way of showing that you are serious about the project and believe in fair compensation.
 
