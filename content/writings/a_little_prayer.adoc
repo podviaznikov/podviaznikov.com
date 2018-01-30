@@ -2,7 +2,7 @@
 title: "A Little Prayer"
 url: "/a_little_prayer"
 aliases: []
-description: 
+description: "A modern prayer"
 date: 0-00-00
 draft: true
 acknowledgement: 
