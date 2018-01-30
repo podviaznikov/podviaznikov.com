@@ -1,0 +1,24 @@
+---
+title: "A Little Prayer"
+url: "/a_little_prayer"
+aliases: []
+description: 
+date: 0-00-00
+draft: true
+acknowledgement: 
+categories: ["Writings"]
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= A Little Prayer
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2018-01-30
+:docdate: 2018-01-30
+:nofooter:
+:document_type: writing
+:tags: ""
+
+
