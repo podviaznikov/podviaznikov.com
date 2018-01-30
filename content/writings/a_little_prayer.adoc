@@ -7,7 +7,7 @@ date: 2018-01-29
 draft: true
 acknowledgement: 
 categories: ["Writings"]
-tags: []
+tags: ["poem"]
 people: []
 places: []
 locations: ["San Francisco"]
@@ -19,7 +19,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-30
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "poem"
 
 In the senseless world +
 of bigotry and desire +
