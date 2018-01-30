@@ -3,7 +3,7 @@ title: "A Little Prayer"
 url: "/a_little_prayer"
 aliases: []
 description: "A modern prayer"
-date: 0-00-00
+date: 2018-01-29
 draft: true
 acknowledgement: 
 categories: ["Writings"]
