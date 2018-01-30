@@ -4,7 +4,7 @@ url: "/a_little_prayer"
 aliases: []
 description: "A modern prayer"
 date: 2018-01-29
-draft: true
+draft: false
 acknowledgement: 
 categories: ["Writings"]
 tags: ["poem"]
