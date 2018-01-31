@@ -1,0 +1,24 @@
+---
+title: "The Little Prince"
+url: "/the_little_prince"
+subtitle: 
+date: Unknown type
+lastmod: 2018-01-31
+draft: true
+acknowledgement: Unknown type
+categories: ["Writings"]
+tags: []
+people: []
+places: []
+locations: []
+---
+
+= The Little Prince
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2018-01-31
+:docdate: 2018-01-31
+:nofooter:
+:document_type: reading
+:tags: ""
+
+
