@@ -15,8 +15,8 @@ locations: ["San Francisco"]
 
 = Life as a Dance
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-30
-:docdate: 2018-01-30
+:revdate: 2018-01-31
+:docdate: 2018-01-31
 :nofooter:
 :document_type: writing
 :tags: "dance, life, metaphor, childhood"
@@ -33,7 +33,7 @@ And that is the point where you know how to dance as professional, and you feel 
 That is the integration point: your inner child integrated with an adult to form a mature creature. 
 
 For me, that is the metaphor of life. 
-You go from childhood - which most people enjoy, to sometimes painful period of adulthood where you need to learn how to live and how to bring that joy back, 
+You go from childhood - which most people enjoy - to sometimes painful period of adulthood where you need to learn how to live and how to bring that joy back, 
 and when you're done - you are a mature person. 
 The one, who has a deep understanding of life and know how to enjoy it and appreciate it. 
 
