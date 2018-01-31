@@ -15,8 +15,8 @@ locations: ["San Francisco"]
 
 = Joke is on Us
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-22
-:docdate: 2018-01-22
+:revdate: 2018-01-31
+:docdate: 2018-01-31
 :nofooter:
 :document_type: writing
 :tags: "comedy, politics, discourse, daily shows, modernity"
@@ -65,10 +65,10 @@ But in the "new" world of comedy, it's precisely him, who _should be_ a Presiden
 Nowadays comedians also bring a lot of pure anger into the world. 
 Please watch "Stephen Colbert at the 2006 White House Correspondents' Dinner" video and his commentary on it. 
 He went there to make fun of President Bush, and he made him extremely angry by the end of the evening.
-In what moral framework it is acceptable to _consciously_ make other people angry? 
+In what moral framework is it acceptable to _consciously_ make other people angry? 
 He had no intentions for President to change his positions, opinions or actions.
-Because if he did, he would approach the problem differently. 
-All he cared about was his fame. 
+Because if he had, he would approach the problem differently. 
+I think all he cared about was his fame. 
 He prioritized his ego and made the President of the United States angry.
 When someone is angry, it's quite difficult to act and reason appropriately. 
 You become less rational, more aggressive and bitter.
@@ -82,4 +82,4 @@ _At least half_ of the responsibility lies on liberals.
 The only constructive way is to withdraw blame and hatred,
 analyze own mistakes and follow up with some conclusions and lessons learned about own behavior.
 
-Change yourself first.
+We need to change yourself first.
