@@ -10,7 +10,7 @@ acknowledgement:
 categories: ["Writings"]
 tags: []
 people: []
-places: []
+places: ["São Paulo"]
 locations: ["San Diego"]
 ---
 
