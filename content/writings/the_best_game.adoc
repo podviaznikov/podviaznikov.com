@@ -8,7 +8,7 @@ lastmod: 2018-02-10
 draft: true
 acknowledgement: 
 categories: ["Writings"]
-tags: ["games", "football"]
+tags: ["games", "football", "competition", "collaboration"]
 people: []
 places: ["São Paulo"]
 locations: ["San Diego"]
@@ -20,7 +20,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-02-10
 :nofooter:
 :document_type: writing
-:tags: "games, football"
+:tags: "games, football, competition, collaboration"
 
 In January 2013 I was staying for a month in São Paulo, Brazil.
 It was during my "digital nomad" stage of life where I traveled slowly and lightly.
