@@ -11,7 +11,7 @@ categories: ["Writings"]
 tags: []
 people: []
 places: []
-locations: []
+locations: ["San Diego"]
 ---
 
 = The Best Game
