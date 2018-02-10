@@ -3,7 +3,7 @@ title: "The Best Game"
 url: "/the_best_game"
 aliases: []
 description: "Thinking about best games"
-date: 0-00-00
+date: 2018-02-09
 lastmod: 2018-02-10
 draft: true
 acknowledgement: 
