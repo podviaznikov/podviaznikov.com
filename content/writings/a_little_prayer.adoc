@@ -4,6 +4,7 @@ url: "/a_little_prayer"
 aliases: []
 description: "A modern prayer"
 date: 2018-01-29
+lastmod: 2018-02-23
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -15,8 +16,8 @@ locations: ["San Francisco"]
 
 = A Little Prayer
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-30
-:docdate: 2018-01-30
+:revdate: 2018-02-23
+:docdate: 2018-02-23
 :nofooter:
 :document_type: writing
 :tags: "poem, prayer"
@@ -43,7 +44,7 @@ you'll be happier a bit.
 
 Please do avoid distractions + 
 and all angry news + 
-do not you live in abstraction + 
+do not you live in abstractions + 
 and your anxiety will be reduced.
 
 Do not try to impress others + 
