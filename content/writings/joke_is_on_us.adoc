@@ -4,6 +4,7 @@ url: "/joke_is_on_us"
 aliases: []
 description: "Effects of the comedy shows"
 date: 2018-01-21
+lastmod: 2018-02-23
 draft: false
 acknowledgement: "Thanks to Neil Postman for his ideas on connection between media and discourse"
 categories: ["Writings"]
@@ -15,8 +16,8 @@ locations: ["San Francisco"]
 
 = Joke is on Us
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-31
-:docdate: 2018-01-31
+:revdate: 2018-02-23
+:docdate: 2018-02-23
 :nofooter:
 :document_type: writing
 :tags: "comedy, politics, discourse, daily shows, modernity"
@@ -82,4 +83,4 @@ _At least half_ of the responsibility lies on liberals.
 The only constructive way is to withdraw blame and hatred,
 analyze own mistakes and follow up with some conclusions and lessons learned about own behavior.
 
-We need to change yourself first.
+We need to change ourselves first.
