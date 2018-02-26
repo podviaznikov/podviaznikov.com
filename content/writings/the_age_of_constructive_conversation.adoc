@@ -9,7 +9,7 @@ draft: true
 acknowledgement: 
 categories: ["Writings"]
 tags: []
-people: []
+people: ["Kahil Gibran", "Woody Allen", "Aziz Ansari"]
 places: []
 locations: ["San Francisco"]
 ---
