@@ -2,7 +2,7 @@
 title: "The Age of Constructive Conversation"
 url: "/the_age_of_constructive_conversation"
 aliases: []
-description: 
+description: "On the style of communication that is yet to come"
 date: 0-00-00
 lastmod: 2018-02-26
 draft: true
