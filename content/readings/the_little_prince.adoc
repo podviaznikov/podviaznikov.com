@@ -2,10 +2,10 @@
 title: "The Little Prince"
 url: "/the_little_prince"
 subtitle: 
-date: Unknown type
+date: 2018-01-31
 lastmod: 2018-01-31
 draft: false
-acknowledgement: Unknown type
+acknowledgement: 
 categories: ["Writings"]
 tags: []
 people: []

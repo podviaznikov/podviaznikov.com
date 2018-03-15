@@ -1,0 +1,68 @@
+{{ define "main" }}
+<main class="ph3 pb3 pt2 ph5-ns pb5-ns pt2-ns" itemprop="mainEntity" itemscope itemtype="http://schema.org/BlogPosting">
+  <meta itemprop="keywords" content='{{ delimit .Params.Tags ", "}}'>
+  <h1 class="lh-title f3 athelas" itemprop="name">{{.Title}}</h1>
+  <header>
+    <div class="pv2">
+      {{ if .Params.who }}
+      <dl class="f6 lh-title mv2">
+        <dt class="dib gray">Who:</dt>
+        <dd class="dib ml0">{{ .Params.who }}</dd>
+      </dl>
+      {{ end }}
+      {{ if .Params.age }}
+      <dl class="f6 lh-title mv2">
+        <dt class="dib gray">Age:</dt>
+        <dd class="dib ml0">{{ .Params.age }}</dd>
+      </dl>
+      {{ end }}
+      {{ if .Params.occupation }}
+      <dl class="f6 lh-title mv2">
+        <dt class="dib gray">Occupation:</dt>
+        <dd class="dib ml0">{{ .Params.occupation }}</dd>
+      </dl>
+      {{ end }}
+      {{ if .Params.originally_from }}
+      <dl class="f6 lh-title mv2">
+        <dt class="dib gray">Originally from:</dt>
+        <dd class="dib ml0">{{ .Params.originally_from }}</dd>
+      </dl>
+      {{ end }}
+      {{ if .Params.book_title }}
+      <dl class="f6 lh-title mv2">
+        <dt class="dib gray">Book:</dt>
+        <dd class="dib ml0">{{ .Params.book_title }} by {{delimit .Params.book_authors ", "}}</dd>
+      </dl>
+      {{ end }}
+      {{ if .Params.book_genre }}
+      <dl class="f6 lh-title mv2">
+        <dt class="dib gray">Genre:</dt>
+        <dd class="dib ml0">{{ .Params.book_genre }}</dd>
+      </dl>
+      {{ end }}
+      {{ if .Params.book_type }}
+      <dl class="f6 lh-title mv2">
+        <dt class="dib gray">Type of book:</dt>
+        <dd class="dib ml0">{{ .Params.book_type }}</dd>
+      </dl>
+      {{ end }}
+      {{ if .Params.duration }}
+      <dl class="f6 lh-title mv2">
+        <dt class="dib gray">Duration:</dt>
+        <dd class="dib ml0">{{ .Params.duration }}</dd>
+      </dl>
+      {{ end }}
+    </div>
+  </header>
+  <article class="lh-copy measure f5" itemprop="articleBody">
+    {{.Content}}
+  </article>
+  <footer class="mt4 cf lh-copy measure f6 btc">
+    <p class="i fr">
+      <span class="i" itemProp="locationCreated">{{.Params.Place }}, {{.Params.Address }}, {{.Params.Location }}</span>
+      <span>&nbsp;&nbsp;</span>
+      <time datetime="{{.Date}}" itemProp="datePublished" class="i">{{.Date.Format "2006-01-02"}}</time>
+    </p>
+  </footer>
+</main>
+{{ end }}

@@ -8,7 +8,7 @@ lastmod: 2018-02-26
 draft: false
 acknowledgement: 
 categories: ["Writings"]
-tags: []
+tags: ["post-mortems", "reflections", "failures", "action items"]
 people: ["Kahil Gibran", "Woody Allen", "Aziz Ansari"]
 places: []
 locations: ["San Francisco"]
@@ -20,7 +20,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-02-26
 :nofooter:
 :document_type: writing
-:tags: ""
+:tags: "post-mortems, reflections, failures, action items"
 
 A couple of weeks ago I was ill at home. 
 As I had some spare time, I spent some of it reading Twitter. 
@@ -83,6 +83,19 @@ And when you realize, that the problem is systematic and that you are part of th
 And empathy is positive energy. 
 The same goes for the producing list of ideas. You've created something new here. 
 Congratulation, you switched from the negative hatred to productive and positive creation.
+
+I worked at the company called Runnable for almost three years.
+Sometimes we had some significant incidents with our software when our customers wouldn't be able to use our service.
+In this case, we had following procedures in place. 
+First, fix immediate problem and unblock customers.
+Only after that call a post-mortem meeting where you try to analyze what happened on a broader level.
+That meeting was never about who's personal mistake caused the outage. 
+We had blame-free culture, where we did recognize that outage is never the fault of one individual.
+Someone might indeed push the wrong code. But that code was also reviewed by some else, and tested by tests (that were also reviewed) and several people. So in some sense, the fault was usually in the process we had.
+And we tried to identify as a team what went wrong and came up with several action items that we could fix immediately.
+
+I wish, we used similar procedures discussing our larger societal problems.
+Acknowledge the problem, identify several root causes, create action items to fix them.
 
 
 

@@ -22,6 +22,10 @@ url = "/pages"
 name = "writings"
 identifier = "writings"
 url = "/writings"
+[[menu.main]]
+name = "dialogues"
+identifier = "dialogues"
+url = "/dialogues"
 
 [taxonomies]
 color = "colors"
