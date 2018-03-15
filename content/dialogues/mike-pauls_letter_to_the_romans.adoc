@@ -173,7 +173,9 @@ people: ["St. Paul", "Goethe"]
 *M*: My favorite book in college was _Faust_ by Goethe. That is a book I would recommend to anyone who is young.
 I never read a _Walden_, but I gave it to my son. For his 18th birthday, I gave him a _Book of Virtues_. It's famous. By William Bennett.
 
-#### Notes
+'''
+
+## Notes
 
 It was very interesting conversation for me. I had a chance to learn a but more about Western branch of Christianity.
 We talked a bit about connection of science and religion, Einstein and Bing Bang.
