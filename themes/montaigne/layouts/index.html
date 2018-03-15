@@ -3,7 +3,8 @@
   <ul class="lh-title ph0 pv4 mt0 list" itemprop="breadcrumb"></dl>
   {{ range .Site.Menus.main }}
     <li class="ml0 mb3">
-      <a class="link" href="{{ .URL }}">{{ .Name }}</a>
+      <a class="link" href="{{ .URL }}">{{ .Identifier }}</a>
+      <p class="pa0 ma0">{{.Name}}</p>
     </li>
   {{ end }}
   </ul>
