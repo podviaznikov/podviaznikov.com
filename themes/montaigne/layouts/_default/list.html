@@ -3,10 +3,7 @@
     <h1 class="lh-title f3 athelas">{{.Title}}</h1>
     <ol class="ph0 pv4 mt0 list measure" itemprop="breadcrumb">
       {{ range .Data.Pages }}
-        <li class="mb3">
-            <a class="link f6 b mb1" href="{{.URL}}">{{.Title}}</a>
-            <p class="ml0">{{.Description}}</p>
-        </li>
+        {{ .Render "li"}}
       {{ end }}
     </ol>
 </main>

@@ -21,42 +21,51 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :document_type: writing
 :tags: "books, reading"
 
-In this post I’ll present my own relationships with reading, how it evolved over years, current challenges I’m facing with it and will think about possible solutions. Here we go.
+In this post I’ll present my own relationships with reading, how it evolved over years, current challenges I’m facing with it and will think about possible solutions. 
+Here we go.
 
 ## Reading: first years
 
 Before school (up to 7 years) I was a very slow reader, I struggled a lot and my mom struggled to teach me. 
 This problem continued well into the first half of the first year of school. 
 My reading speed was one of the worst in the class. 
-I vaguely remember what happened but I think during the winter break I picked up a popular Soviet children adventure book The Adventures of Dunno. 
+I vaguely remember what happened but I think during the winter break I picked up a popular Soviet children adventure book _The Adventures of Dunno_. 
 I liked it a lot. 
-I read it very slowly but after finishing I was hooked (and my reading speed improved dramatically) and continued with two other books from the series. Dunno/Neznaika, in my opinion, was like Harry Potter for Soviet and some post-Soviet kids like myself. I might have read at that time few more books in the same genre, like Gianni Rodari’s Chipolino and some others. 
+I read it very slowly but after finishing I was hooked (and my reading speed improved dramatically) and continued with two other books from the series. Dunno/Neznaika, in my opinion, was like Harry Potter for Soviet and some post-Soviet kids like myself. 
+I might have read at that time few more books in the same genre, like Gianni Rodari’s _Chipolino_ and some others. 
 The point is that by the end of my first school year I enjoyed reading a lot and my reading speed was one of the best in my class.
 
 I think it is important to give a context to these first years. 
 I grew up in a small western town in post-Soviet Ukraine. 
 What was good about that world is that we didn’t have much of now traditional media entertainment. 
-We had only few TV channels (3 to 4 depending on a weather), 
+We had only three TV channels, 
 they didn’t work during the day (so when I was back from school, there were not only no cartoons to watch but also no TV). 
-Every weekday evening we didn’t have electricity for 2 hours. 
-So basically your TV entertainment was reduced to a tiny fraction of the time: 
-we might watch either news or one TV show or one movie. 
+Every weekday evening we didn’t have electricity for two hours. 
+So basically your TV entertainment was reduced to a tiny fraction of the time: we might watch either news or one TV show or one movie. 
 We didn’t have many cartoons either, 
 it was usually 5–10 minutes cartoon during the evening program for the kids 
-and 1 hour of some Disney cartoons on Saturday mornings. That was it.
+and one hour of some Disney cartoons on Saturday mornings. That was it.
 
-Now imagine Ukrainian winter in the 90s. You can’t go much outside (because of the weather) and the days are extremely short (it's getting dark around 4PM). So you are spending a lot of time inventing your own entertainment. Reading was usually the top choice. I also had few old video games on the Nintendo-like console. But to be honest I don’t have memories playing video games every day and for long periods of time.
+Now imagine Ukrainian winter in the 90s. 
+You can’t go much outside (because of the weather) and the days are extremely short (it's getting dark around 4PM). 
+So you are spending a lot of time inventing your own entertainment. 
+Reading was usually the top choice. I also had few old video games on the Nintendo-like console.
 
 I would spend summers in a village with my grandparents. 
-My usual schedule was following: help grandma to look after chickens before the lunch (it is very boring activity so a book is a savior in that situation) and then play soccer in the evening when it’s not that hot anymore. That is it. The rest of the time you have nothing to do. Once again you need to find your own entertainment, for me, it was cycling and reading. Reading was my favorite activity.
+My usual schedule was following: help grandma to look after chickens before the lunch (it is very boring activity so a book is a savior in that situation) 
+and then play soccer in the evening when it’s not that hot anymore. 
+That is it. 
+The rest of the time you have nothing to do. Once again you need to find your own entertainment, for me, it was cycling and reading. 
+Reading was my favorite activity.
 
 So during elementary school years, evenings without electricity, winters with short days and summers I read a lot. 
 If was mostly adventure books. I didn’t have any reading plan yet. I would pick up some books from local library. 
-During this time I read about adventures of Hercules, The Wonderfull Wizard of Oz, The Wonderful Adventures of Nils, Mark Twain's Adventures of Tom Sawyer and Huckleberry Finn, Timur and His Squad, I’ve read also some fantasy back then (don’t remember titles anymore) and I’ve read more children adventurous literature of the Soviet era.
+During this time I read about adventures of Hercules, _The Wonderfull Wizard of Oz_, _The Wonderful Adventures of Nils_, _Adventures of Tom Sawyer and Huckleberry Finn_, 
+_Timur and His Squad_, I’ve read also some fantasy back then and I’ve read more children adventurous literature of the Soviet era.
 
 Those were my first years reading. I think this stage was mostly about adventures 
 (I read some others more serious books at the time, but I think they were rarer at this period). 
-For me, it lasted from 1993 till 1997-98. I would call it “Harry Potter” stage. 
+For me, it lasted from 1993 till 1997-98. I would call it a "Harry Potter" stage. 
 However, I have never read or watched Harry Potter because the first book was published in 1997 and it came few years later to Ukraine. 
 By that time I was mostly done with this genre.
 
@@ -91,12 +100,16 @@ I’m not sure I realized these parallels reading Hemingway and Remarque back th
 
 ## Second transition
 
-Around 2010 several things happened. First, I've read enough of Hemingway and Remarque and I didn't know what to read next. Second, I left Ukraine and my access to physical books in Ukrainian and Russian languages was limited. At that time I was reading technical books in English but I have never read a full fiction book in my non-native language. 
+Around 2010 several things happened. 
+First, I've read enough of Hemingway and Remarque and I didn't know what to read next. 
+Second, I left Ukraine and my access to physical books in Ukrainian and Russian languages was limited. 
+At that time I was reading technical books in English but I have never read a full fiction book in my non-native language. 
 Next few years were periods of struggle with both finding books I would want to read and starting reading books in English. 
 Only around 2014, I was comfortable enough with reading books in English. 
 And only in 2016 I discovered a lot of books that I was excited to read.
 
-In January 2016 I listened to 4 podcasts (2 with Naval Ravikant and 2 with Derek Sivers) on Tim Ferriss show that provided me with 1) some ideas how I can change my reading habits, 2) list of books that were interesting to me.
+In January 2016 I listened to 4 podcasts (2 with Naval Ravikant and 2 with Derek Sivers) on Tim Ferriss show that provided me with 
+1) some ideas how I can change my reading habits, 2) list of books that were interesting to me.
 
 ## Ideas
 
@@ -118,12 +131,15 @@ It happened to me at least once during the year one book reminded me so much of 
 This year is already one of the best in terms of reading for me personally. I don't think I've read that much since middle school. However 10 months after starting reading again I noticed several new problems.
 
 I've read several books that I was super excited after finishing. 
-Books like Sapiens, Bruce Lee Striking Thoughts, Bertrand Russell's Best, Ill Fares the Land and few others impressed me a lot, they presented some new ideas I didn't know, some wisdom, approaches etc. They triggered a lot of thought. I was very enthusiastic after each of them but the problem is few month later I couldn't remember a single idea of any of those books. 
-I don't know what I liked about "Sapiens" book, I don't remember what Bruce Lee's insight I liked. 
+Books like _Sapiens_, _Bruce Lee Striking Thoughts_, Bertrand Russell's Best, _Ill Fares the Land_ and few others impressed me a lot, they presented some new ideas I didn't know, some wisdom, approaches etc. They triggered a lot of thought. I was very enthusiastic after each of them but the problem is few month later I couldn't remember a single idea of any of those books. 
+I don't know what I liked about _Sapiens_, I don't remember what Bruce Lee's insight I liked. 
 The only thing I remember is whether I liked the book or not. 
 I remember my feelings about the book, not the ideas presented in it.
 
-I recently finished reading two books that go well together: Brave New World by Aldous Huxley and Amusing Ourselves to Death by Neil Postman. This is truly the most powerful pair of books I've read in years. After finishing those two books I've got scared that in 3 months I would forget what I liked about them and what were the ideas of those books. And I don't want to forget. 
+I recently finished reading two books that go well together: _Brave New World_ by Aldous Huxley and _Amusing Ourselves to Death_ by Neil Postman. 
+This is truly the most powerful pair of books I've read in years. 
+After finishing those two books I've got scared that in 3 months I would forget what I liked about them and what were the ideas of those books. 
+And I don't want to forget. 
 Those books contain ideas of high importance. The same is true about books I enumerated above.
 
 So what should I do?
@@ -158,13 +174,13 @@ Non-fiction sounds a little bit like programming.
 The code is an abstract expression of author ideas about the world. 
 Your goal is to grasp it now and make it possible to recall in the future.
 
-Thinking of this difference between fiction and non-fiction I realized that Alain de Botton's The Course of Love written in a most brilliant way. It's written like a novel (fiction) but it has quotes of his main ideas in each chapter (non-fictional ideas in a non-fictional style). Those quotes are important there because sometimes it's not always easy for you to formulate idea nicely even after reading the story. 
+Thinking of this difference between fiction and non-fiction I realized that Alain de Botton's _The Course of Love_ written in a most brilliant way. It's written like a novel (fiction) but it has quotes of his main ideas in each chapter (non-fictional ideas in a non-fictional style). Those quotes are important there because sometimes it's not always easy for you to formulate idea nicely even after reading the story. 
 I wonder if there are other books like that? 
 That is an interesting approach for modern journalists, philosophers to take: pick your serious topic and present it in a fictional way but express and highlight your main ideas directly.
 
-Another good idea is to read books in pairs. I mentioned before Brave New World and Amusing Ourselves to Death. 
+Another good idea is to read books in pairs. I mentioned before _Brave New World_ and _Amusing Ourselves to Death_. 
 These two books work great together. 
-It's much more difficult to extract true value of Brave New World by yourself. 
+It's much more difficult to extract true value of _Brave New World_ by yourself. 
 E.x. for me world described by Huxley was scaring but I couldn't formulate all the reasons why it was that way. 
 Postman gives you good explanations why. 
 He gives also real examples from moderns times that you can grasp more easily.
