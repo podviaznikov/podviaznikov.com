@@ -1,0 +1,50 @@
+---
+title: "To the Castle and Back"
+url: "/to_the_castle_and_back"
+book_authors: ["Václav Havel"]
+book_isbn: 978-0-307-38845-2
+book_started_date: 2017-02-25
+book_finished_date: 2017-03-09
+book_rating: 5
+book_year: 2006
+book_pages: 383
+subtitle: 
+date: 2017-05-28
+lastmod: 2018-03-16
+draft: false
+acknowledgement: 
+categories: ["Readings"]
+type: reading
+tags: ["Eastern Europe", "politics"]
+people: []
+places: []
+locations: ["San Francisco"]
+---
+
+= The Little Prince
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2018-03-16
+:docdate: 2017-05-28
+:nofooter:
+:document_type: reading
+:tags: ""
+
+Havel is role model for public figure, politician and citizen. 
+He is deinitely not afraid to think deeper and to express himself. 
+He is not afraid of expressing not popular opinions. 
+He tries to understand pluses and minuses of each system. 
+E.x. he is for continious political integration, but he thinks globalization is a problem. 
+He recognized the pitfalls of both Soviet regime and consumerism society that both causes normalization and standartization of people.
+
+It was interesting for me tead his book for several reasons: to learn his story; 
+to learn about his thoughts; to take a look at his diary. 
+The diary of the President was an interesting read on itself. 
+It contained his agenda for a lot of days and it showed him as a real simple very likable human, 
+which is quite oppsite of the politicians of the day.
+
+Havel wanted to be a role model. 
+He wanted to remind his fellow citizens of better and bigger ideals, 
+he wanted to inspire them to improve. 
+Politicians of today mostly move in opposite direction. 
+They just represent the worst parts of our society and our people. If society is corrupt, politicians are corrupt. 
+If society is uneducated, politians are profane.

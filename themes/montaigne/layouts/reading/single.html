@@ -1,0 +1,61 @@
+{{ define "main" }}
+<main class="ph3 pb3 pt2 ph5-ns pb5-ns pt2-ns" itemprop="mainEntity" itemscope itemtype="http://schema.org/Book">
+  <meta itemprop="keywords" content='{{ delimit .Params.Tags ", "}}'>
+  <h1 class="lh-title f3 athelas" itemprop="name">{{.Title}}</h1>
+  <header>
+    <div class="pv2">
+      {{ if .Params.book_authors }}
+      <dl class="f6 lh-title mv2">
+        <dt class="dib gray">Authors:</dt>
+        <dd class="dib ml0">{{delimit .Params.book_authors ", "}}</dd>
+      </dl>
+      {{ end }}
+      {{ if .Params.book_isbn }}
+      <dl class="f6 lh-title mv2">
+        <dt class="dib gray">ISBN:</dt>
+        <dd class="dib ml0">{{ .Params.book_isbn }}</dd>
+      </dl>
+      {{ end }}
+      {{ if .Params.book_started_date }}
+      <dl class="f6 lh-title mv2">
+        <dt class="dib gray">Dates:</dt>
+        <dd class="dib ml0">from {{ .Params.book_started_date }} to {{ .Params.book_finished_date }}</dd>
+      </dl>
+      {{ end }}
+      {{ if .Params.book_rating }}
+      <dl class="f6 lh-title mv2">
+        <dt class="dib gray">Rating:</dt>
+        <dd class="dib ml0">{{ .Params.book_rating }}/5</dd>
+      </dl>
+      {{ end }}
+      {{ if .Params.book_pages }}
+      <dl class="f6 lh-title mv2">
+        <dt class="dib gray">Pages:</dt>
+        <dd class="dib ml0">{{ .Params.book_pages }}</dd>
+      </dl>
+      {{ end }}
+      {{ if .Params.book_year }}
+      <dl class="f6 lh-title mv2">
+        <dt class="dib gray">Year:</dt>
+        <dd class="dib ml0">{{ .Params.book_year }}</dd>
+      </dl>
+      {{ end }}
+    </div>
+  </header>
+  <section itemscope itemprop="review" itemtype="http://schema.org/Review">
+    {{ if .Params.book_rating }}
+    <meta content="{{ .Params.book_rating }}" itemscope="reviewRating" itemprop="ratingValue" itemtype="http://schema.org/Review">
+    {{ end }}
+    <article class="lh-copy measure f5" itemprop="articleBody">
+        {{.Content}}
+    </article>
+ </section>
+ <footer class="mt4 cf lh-copy measure f6">
+    <p class="i fr">
+      <span class="i" itemProp="locationCreated">{{delimit .Params.Locations ", "}}</span>
+      <span>&nbsp;&nbsp;</span>
+      <time datetime="{{.Date}}" itemProp="datePublished" class="i">{{.Date.Format "2006-01-02"}}</time>
+    </p>
+  </footer>
+</main>
+{{ end }}
