@@ -3,8 +3,8 @@ title: "Людино, вір"
 url: "/liudyno-vir"
 aliases: []
 description: "Про віру"
-date: 2018-02-21
-lastmod: 2018-03-14
+date: 2018-03-26
+lastmod: 2018-04-23
 draft: false
 acknowledgement: 
 categories: ["Розмови"]
@@ -20,7 +20,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-03-26
 :nofooter:
 :document_type: rozmovy
-:tags: "farewell, поезія, людино, розмови"
+:tags: "поезія, людино, розмови"
 
 Людино, вір. +
 	Щастя в тобі +
