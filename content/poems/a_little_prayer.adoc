@@ -1,0 +1,73 @@
+---
+title: "A Little Prayer"
+url: "/a_little_prayer"
+aliases: []
+description: "A modern prayer"
+date: 2018-01-29
+lastmod: 2018-02-23
+draft: false
+acknowledgement:
+categories: ["Poems"]
+tags: ["poem", "poetry", "prayer"]
+people: []
+places: []
+locations: ["San Francisco"]
+---
+
+= A Little Prayer
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2018-02-23
+:docdate: 2018-02-23
+:nofooter:
+:document_type: poem
+:tags: "poem, prayer"
+
+In the senseless world +
+of bigotry and desire +
+we follow leaders +
+we do not admire.
+
+We follow people +
+we didn't elect +
+they abuse our brothers +
+that we cannot protect.
+
+We do not pray +
+since there is no one to pray to +
+we do not obey +
+since there are no rules too.
+
+But please, do say a little prayer +
+make a small did +
+shed a little tear +
+you'll be happier a bit.
+
+Please do avoid distractions +
+and all angry news +
+do not you live in abstractions +
+and your anxiety will be reduced.
+
+Do not try to impress others +
+you'll only lose yourself +
+and if you do not do that dear +
+there would be no one left.
+
+Please always seek the Truth +
+be the best person you can +
+and after each mistake +
+stand up and be a Man.
+
+Do not follow trends +
+they will come and go +
+try to make new friends +
+with them, you'll grow.
+
+When using your mind +
+don't forget about heart +
+try being kind +
+and not hit people hard.
+
+Pray, pray, pray dear +
+pray for yourself +
+it all depends on your dear +
+ability to discover sense.
