@@ -34,6 +34,11 @@ name = "Experiments with poetry"
 identifier = "dialogues"
 url = "/dialogues"
 name = "Dialogues with people about books and not only"
+[[menu.main]]
+identifier = "розмови"
+url = "/rozmovy"
+name = "Розмови з людиною"
+
 
 [taxonomies]
 color = "colors"
