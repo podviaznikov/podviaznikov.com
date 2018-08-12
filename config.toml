@@ -21,7 +21,7 @@ name = "Some information about me"
 [[menu.main]]
 identifier = "writings"
 url = "/writings"
-name = "My essays and some poetry"
+name = "My essays"
 [[menu.main]]
 identifier = "readings"
 url = "/readings"
