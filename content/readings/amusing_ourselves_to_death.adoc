@@ -1,0 +1,36 @@
+---
+title: "Amusing Ourselves to Death"
+url: "/amusing_ourselves_to_death"
+book_authors: ["Neil Postman"]
+book_isbn: 9780143036531
+book_started_date: 2016-10-03
+book_finished_date: 2016-10-11
+book_rating: 5
+book_year: 1985
+book_pages: 208
+subtitle: Public Discourse in the Age of Show Business
+date: 2017-03-05
+lastmod: 2018-09-29
+draft: false
+acknowledgement: 
+categories: ["Readings"]
+type: reading
+tags: ["media", "entertainment"]
+people: []
+places: []
+locations: ["San Francisco"]
+---
+
+= Amusing Ourselves to Death
+Anton Podviaznikov <anton@podviaznikov.com>
+:revdate: 2018-09-29
+:docdate: 2017-03-05
+:nofooter:
+:document_type: reading
+:tags: ""
+
+Outstanding analysis of American culture of 1980s dominated by entertainment.
+
+Makes a lot of sense to me since I witnessed myself similar changes to the culture growing up in Ukraine during 1990s and 2000s.
+
+This book is even more actual now in the age of Internet, mobile phones, social networks, instant deliveries etc.
