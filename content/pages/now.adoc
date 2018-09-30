@@ -2,7 +2,7 @@
 title: "Now"
 url: "/now"
 description: "What am I doing now"
-date: 2018-03-14
+date: 2018-09-29
 draft: false
 categories: ["Pages"]
 tags: []
@@ -11,13 +11,13 @@ locations: ["San Francisco"]
 
 = Now
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-03-14
-:docdate: 2018-03-14
+:revdate: 2018-09-29
+:docdate: 2018-09-29
 :nofooter:
 :document_type: page
 :tags: ""
 
-It has been almost 4 years since I moved to San Francisco. 
+It has been over 4 years since I moved to San Francisco. 
 It's the longest stretch of time I've spent in a single city outside of my home country.
 
 I'm here by myself for the first time in my adult life.
