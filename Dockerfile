@@ -1,4 +1,7 @@
-FROM ubuntu as build
+FROM ruby:2.2 as build
+
+RUN apt-get update
+RUN apt-get install -y curl
 
 ENV HUGO_VERSION 0.49
 ENV HUGO_DL https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
