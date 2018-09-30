@@ -10,7 +10,7 @@ book_pages:
 book_year: 1943
 subtitle: 
 date: 2017-05-28
-lastmod: 2018-03-16
+lastmod: 2018-09-29
 draft: false
 acknowledgement: 
 categories: ["Readings"]
@@ -23,19 +23,19 @@ locations: ["San Francisco"]
 
 = The Little Prince
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-03-16
-:docdate: 2018-03-16
+:revdate: 2018-09-29
+:docdate: 2017-05-28
 :nofooter:
 :document_type: reading
 :tags: ""
 
 One of the most beautiful and simple books about life, love, death; 
-about being a child and being an adult; about frienship, people and happiness.
+about being a child and being an adult; about friendship, people and happiness.
 
 When I was in 10th grade at school I remember literature teacher was very enthusiastic about this book. 
 She was telling us about it all the time. 
 I didn't find it interesting back then. 
 I didn't understand the story about little prince, talking foxes, flowers and snakes. 
 Form didn't appeal to me and I probably had nothing to learn from it at that time. 
-This time is different, I would recommend this book to everyone. 
-It's a pure beauty. Just in few pages it shows us our life, shows what is important and what is not.
+This time was different. I would recommend this book to everyone. 
+It's a pure beauty. Just in few pages it shows what is important in life and what is not.
