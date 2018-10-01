@@ -14,7 +14,7 @@ locations: ["San Francisco"]
 
 = On obsession with numbers
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2017-12-28
+:revdate: 2018-10-01
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
