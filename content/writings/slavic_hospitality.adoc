@@ -9,7 +9,7 @@ acknowledgement:
 categories: ["Writings"]
 tags: ["generalization", "Slavic", "hospitality"]
 people: []
-places: ["Kyiv", "Ukraine"]
+places: ["Kyiv", "Ukraine", "New York City"]
 locations: ["Kyiv"]
 ---
 
@@ -26,7 +26,7 @@ serves Balkan food and is called _Kafana_.
 
 I've spent 1.5 years living and working in Montenegro, traveled to most of the countries 
 in the region multiple times. That region is my second home.
-That is why _Kafana_ is must attend place for me when I visit NYC.
+That is why _Kafana_ is a place I always try to attend while in NYC.
 
 I like reading their menu, I love hearing Serbian or Croatian language at that place.
 
