@@ -16,7 +16,7 @@ locations: ["San Francisco"]
 
 = Managers and Ministers
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-31
+:revdate: 2018-10-01
 :docdate: 2018-01-31
 :nofooter:
 :document_type: writing
@@ -83,7 +83,7 @@ Fabio Capello, while coaching Russian National Team earned ~11M USD per year.
 Think about those numbers, and compare them to the salary of the President. 
 Why did Capello receive salary well above the average? 
 Because he is top manager coming into the average team and trying to make the difference.
-Football coaches manager just 20-30 people, yet they receive salaries that are 20-100 times higher than for the people who manage the whole state. 
+Football coaches manage just 20-30 people, yet they receive salaries that are 20-100 times higher than people who manage the whole states. 
 I'm not arguing that they salaries should be reduced, I'm arguing that even higher salaries should be paid for PMs of the countries which are serious about making the leap.
 
 If you think about those numbers with a clear head, you will realize that proper professional government can deliver value much higher than the salaries they receive.
