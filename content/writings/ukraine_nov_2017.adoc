@@ -15,7 +15,7 @@ locations: ["San Francisco"]
 
 = Ukraine: Nov 2017
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-09
+:revdate: 2018-10-01
 :docdate: 2018-01-09
 :nofooter:
 :document_type: writing
@@ -78,7 +78,7 @@ Take what is working somewhere and use it.
 I saw the same in conversation with software engineers. 
 They told me how their companies tried to improve themselves by studying books on hiring and managing at Google and other big US companies.
 
-I also noticed how deep _technology penetrated_ into society. 
+I also noticed how deeply _technology penetrated_ into society. 
 Middle-aged Ukrainians are using Uber, asking about Bitcoin, buying drones, shopping online and using same-day delivery services.
 
 For me, I practically saw no difference between creative class in San Francisco, Hong Kong, London, and Kyiv.
