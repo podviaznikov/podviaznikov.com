@@ -14,7 +14,7 @@ locations: ["St. Louis, USA"]
 
 = Phoneless
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2017-12-28
+:revdate: 2018-10-01
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
@@ -47,9 +47,10 @@ The Internet is the source of knowledge but also the source of distraction.
 I do feel that our generation is probably the most consumerist of all of them. 
 It became too easy to consume news, shows, movies, music videos, stuck in different forums, chats, etc. 
 We often made fun of our parents who constantly consume TV with stupid shows and one-sided news. 
-But I think newer generations are worst in this respect. Everyone is connected to the Internet 24 hours every day. 
+But I think newer generations are worst in this respect. 
+Everyone is connected to the Internet 24 hours every day. 
 Nowadays consumption happens not only during newspapers reads and evening news shows, 
-but it also happens every 10 minutes when we refresh our Facebook/Twitter feeds, check our instagrams and snapchats. 
+but it also happens every 10 minutes when we refresh our facebook/twitter feeds, check our instagrams and snapchats. 
 I think that consumption is the biggest enemy of production and creativity. 
 It's like a path of the least resistance. 
 It's very tempting to consume something, and it's much harder to create. 
@@ -68,7 +69,7 @@ I don't think most of us have even 30 straight quite minutes during our work day
 
 I also think that having 24-hours access to the Internet raises our anxiety levels. 
 Our parents watch this depressing local and international news and worry a lot about things they cannot influence. 
-We however also worried about news. 
+We however are also worried about news. 
 But those are news about our Facebook friends and some events that are happening now. 
 And we have strong fears and anxieties to miss these events. 
 The problem is that we not worried to miss something once per week or per day, but every 10 minutes. 
@@ -97,8 +98,8 @@ getting access to Maps and Wikipedia all the time.
 
 As a software engineer, I'm connected to the Internet probably 14 hours every day. 
 I consume large amounts of information during those hours. 
-Not having a smartphone gives me the ability to be offline for the short periods when I'm commuting, or doing shopping or walking, 
-or having a meal in the restaurant. I think we should strive for the balance and to have some time for ourselves. 
+Not having a smartphone gives me the ability to be offline for the short periods when I'm commuting, or doing shopping or walking, or having a meal in the restaurant. 
+I think we should strive for the balance and to have some time for ourselves. 
 It can be scary at the beginning and maybe even boring. 
 But that is the only way to know who you are and who you want to be. 
 Permanent consumption prevents us not only from creating products but from knowing and improving ourselves.
