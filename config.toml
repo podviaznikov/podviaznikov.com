@@ -25,11 +25,15 @@ name = "My essays"
 [[menu.main]]
 identifier = "readings"
 url = "/readings"
-name = "Books I have read in the last couple of years"
+name = "Books I've read in the last couple of years"
 [[menu.main]]
 identifier = "poems"
 url = "/poems"
 name = "Experiments with poetry"
+[[menu.main]]
+identifier = "haikus"
+url = "/haikus"
+name = "Writing haiku"
 [[menu.main]]
 identifier = "dialogues"
 url = "/dialogues"

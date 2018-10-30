@@ -1,0 +1,20 @@
+---
+title: "Skype"
+url: "/skype"
+aliases: []
+date: 2018-04-30
+lastmod: 2018-04-30
+draft: false
+acknowledgement:
+categories: ["Haikus"]
+tags: ["poem", "poetry", "technology", "haiku"]
+people: []
+places: []
+locations: ["Berlin"]
+---
+
+= Skype
+
+Skype. +
+Mom and dad. +
+Complaints.

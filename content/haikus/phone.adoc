@@ -1,0 +1,20 @@
+---
+title: "Phone"
+url: "/phone"
+aliases: []
+date: 2018-05-01
+lastmod: 2018-05-01
+draft: false
+acknowledgement:
+categories: ["Haikus"]
+tags: ["poem", "poetry", "technology", "haiku"]
+people: []
+places: []
+locations: ["Frankfurt"]
+---
+
+= Phone
+
+Phone. +
+News. +
+Anxsious and foolish.
