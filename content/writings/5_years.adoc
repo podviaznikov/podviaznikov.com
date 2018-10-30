@@ -15,7 +15,7 @@ locations: ["Istanbul"]
 
 = 5 years
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-17
+:revdate: 2018-10-30
 :docdate: 2018-01-17
 :nofooter:
 :document_type: writing
@@ -23,7 +23,7 @@ Anton Podviaznikov <anton@podviaznikov.com>
 
 I often thought what would happen in my life in the next 5 years. 
 Previously I wanted to have a possibility to predict my future and plan for it accordingly. 
-But at some point, I realized that it’s almost impossible. 
+But at some point, I realized that it's almost impossible. 
 At the beginning of August 2010, I left Ukraine. 
 There is no way I could predict 5 years ago what would happen next.
 
@@ -62,6 +62,6 @@ After analyzing last 5 years, I have a very similar feeling about lots of events
 I feel that I have some control over events during next year, but that is not true for the 5 years period. 
 Life by nature is dynamic and unpredictable. It's easier just let it flow and enjoy the process.
 
-So what is coming in the next 5 years? Honestly, I don’t know. 
-But I’m excited about all new challenges and experiences. 
+So what is coming in the next 5 years? Honestly, I don't know. 
+But I'm excited about all new challenges and experiences. 
 My "circle" is getting bigger and there are much more things to learn than before.

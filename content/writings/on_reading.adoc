@@ -15,13 +15,13 @@ locations: ["San Francisco"]
 
 = On reading
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-17
+:revdate: 2018-10-30
 :docdate: 2018-01-17
 :nofooter:
 :document_type: writing
 :tags: "books, reading"
 
-In this post I’ll present my own relationships with reading, how it evolved over years, current challenges I’m facing with it and will think about possible solutions. 
+In this post I'll present my own relationships with reading, how it evolved over years, current challenges I'm facing with it and will think about possible solutions. 
 Here we go.
 
 ## Reading: first years
@@ -32,36 +32,36 @@ My reading speed was one of the worst in the class.
 I vaguely remember what happened but I think during the winter break I picked up a popular Soviet children adventure book _The Adventures of Dunno_. 
 I liked it a lot. 
 I read it very slowly but after finishing I was hooked (and my reading speed improved dramatically) and continued with two other books from the series. Dunno/Neznaika, in my opinion, was like Harry Potter for Soviet and some post-Soviet kids like myself. 
-I might have read at that time few more books in the same genre, like Gianni Rodari’s _Chipolino_ and some others. 
+I might have read at that time few more books in the same genre, like Gianni Rodari's _Chipolino_ and some others. 
 The point is that by the end of my first school year I enjoyed reading a lot and my reading speed was one of the best in my class.
 
 I think it is important to give a context to these first years. 
 I grew up in a small western town in post-Soviet Ukraine. 
-What was good about that world is that we didn’t have much of now traditional media entertainment. 
+What was good about that world is that we didn't have much of now traditional media entertainment. 
 We had only three TV channels, 
-they didn’t work during the day (so when I was back from school, there were not only no cartoons to watch but also no TV). 
-Every weekday evening we didn’t have electricity for two hours. 
+they didn't work during the day (so when I was back from school, there were not only no cartoons to watch but also no TV). 
+Every weekday evening we didn't have electricity for two hours. 
 So basically your TV entertainment was reduced to a tiny fraction of the time: we might watch either news or one TV show or one movie. 
-We didn’t have many cartoons either, 
+We didn't have many cartoons either, 
 it was usually 5–10 minutes cartoon during the evening program for the kids 
 and one hour of some Disney cartoons on Saturday mornings. That was it.
 
 Now imagine Ukrainian winter in the 90s. 
-You can’t go much outside (because of the weather) and the days are extremely short (it's getting dark around 4PM). 
+You can't go much outside (because of the weather) and the days are extremely short (it's getting dark around 4PM). 
 So you are spending a lot of time inventing your own entertainment. 
 Reading was usually the top choice. I also had few old video games on the Nintendo-like console.
 
 I would spend summers in a village with my grandparents. 
 My usual schedule was following: help grandma to look after chickens before the lunch (it is very boring activity so a book is a savior in that situation) 
-and then play soccer in the evening when it’s not that hot anymore. 
+and then play soccer in the evening when it's not that hot anymore. 
 That is it. 
 The rest of the time you have nothing to do. Once again you need to find your own entertainment, for me, it was cycling and reading. 
 Reading was my favorite activity.
 
 So during elementary school years, evenings without electricity, winters with short days and summers I read a lot. 
-If was mostly adventure books. I didn’t have any reading plan yet. I would pick up some books from local library. 
+If was mostly adventure books. I didn't have any reading plan yet. I would pick up some books from local library. 
 During this time I read about adventures of Hercules, _The Wonderfull Wizard of Oz_, _The Wonderful Adventures of Nils_, _Adventures of Tom Sawyer and Huckleberry Finn_, 
-_Timur and His Squad_, I’ve read also some fantasy back then and I’ve read more children adventurous literature of the Soviet era.
+_Timur and His Squad_, I've read also some fantasy back then and I've read more children adventurous literature of the Soviet era.
 
 Those were my first years reading. I think this stage was mostly about adventures 
 (I read some others more serious books at the time, but I think they were rarer at this period). 
@@ -78,25 +78,25 @@ The main theme during this stage was history (which I enjoyed a lot) and some ad
 
 ## First transition
 
-During my high school years I moved to the big city, it was the beginning of 00’s years, the country was very different. We had a lot of TV channels, radio stations, cinemas. There were a lot of things one could do after school. The environment changed dramatically. I also lost some personal interest in books. I still read most of the works for the school program, but it was rare that I would find a book that I would read with the joy for few hours per day. Basically, my taste and interests changed but I wasn’t able to find a replacement yet. School program was of no help. We read usually something I wasn’t interested that much at the moment. Topics were unappealing to me.
+During my high school years I moved to the big city, it was the beginning of 00's years, the country was very different. We had a lot of TV channels, radio stations, cinemas. There were a lot of things one could do after school. The environment changed dramatically. I also lost some personal interest in books. I still read most of the works for the school program, but it was rare that I would find a book that I would read with the joy for few hours per day. Basically, my taste and interests changed but I wasn't able to find a replacement yet. School program was of no help. We read usually something I wasn't interested that much at the moment. Topics were unappealing to me.
 
-I don’t remember exactly when and what happened but I think at the end of my high school during 
+I don't remember exactly when and what happened but I think at the end of my high school during 
 my university years I discovered works of Ernest Hemingway and Erich Maria Remarque. 
 I read at least 5 of books from each of them in those few years. 
-It was the literature of XX’s century, it was more familiar, easier to grasp and relate to. 
+It was the literature of XX's century, it was more familiar, easier to grasp and relate to. 
 I think in retrospective it was also interesting to me because those books were about 
 Lost Generation of Western Europeans who lived through and after the big shock of WWI. 
 And it seems to me know that theme is very appropriate to Ukraine I know.
 
 The collapse of Soviet Union probably had a similar effect on its' former citizens like that to Europeans who witnessed WWI. 
-Country collapsed. People didn’t know what to do in life anymore, they didn’t know what the world and life are becoming, 
+Country collapsed. People didn't know what to do in life anymore, they didn't know what the world and life are becoming, 
 some of their became were obsolete, other values were constantly attacked by the new order. 
 I lived in Ukraine among the lost generation. 
 Imagine growing up in one world for 30 years and then that world would disappear in one day. 
 Not everyone was able to successfully adapt to this world. 
 This transition is still in progress 25 years later.
 
-I’m not sure I realized these parallels reading Hemingway and Remarque back then, but it probably doesn’t matter. I was magnetized by these books anyway.
+I'm not sure I realized these parallels reading Hemingway and Remarque back then, but it probably doesn't matter. I was magnetized by these books anyway.
 
 ## Second transition
 
