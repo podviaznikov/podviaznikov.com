@@ -7,7 +7,7 @@ lastmod: 2018-05-01
 draft: false
 acknowledgement:
 categories: ["Haikus"]
-tags: ["poem", "poetry", "technology", "haiku", "phone"]
+tags: ["poem", "poetry", "technology", "haiku", "phone", "news"]
 people: []
 places: []
 locations: ["Frankfurt"]
