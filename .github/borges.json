@@ -1,4 +1,4 @@
 {
   "whitelist": ["Runnable"],
-  "ignored-files": ["themes/", "archetypes/", "content/rozmovy"]
+  "ignored-files": ["themes/", "archetypes/", "content/rozmovy/"]
 }
