@@ -17,4 +17,4 @@ locations: ["Frankfurt"]
 
 Phone. +
 News. +
-Anxsiousum and foolish.
+Anxsiousu and foolish.
