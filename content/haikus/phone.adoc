@@ -7,7 +7,7 @@ lastmod: 2018-05-01
 draft: false
 acknowledgement:
 categories: ["Haikus"]
-tags: ["poem", "poetry", "technology", "haiku"]
+tags: ["poem", "poetry", "technology", "haiku", "phone"]
 people: []
 places: []
 locations: ["Frankfurt"]
@@ -17,4 +17,4 @@ locations: ["Frankfurt"]
 
 Phone. +
 News. +
-Anxsious and foolish.
+Anxious and foolish.
