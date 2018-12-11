@@ -13,7 +13,7 @@ places: ["Kyiv", "Ukraine", "New York City"]
 locations: ["Kyiv"]
 ---
 
-= Ukraine: Nov 2017
+= Slavic Hospitality
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2018-10-30
 :docdate: 2018-08-12
@@ -46,7 +46,7 @@ At that moment I realized - this is just generalization - that is how Slavic hos
 You are grumpy and unwelcoming and uncaring towards strangers, and you are the most welcoming person 
 towards _people you know_.
 
-Since I became aware of this phenomena, it became more comfortable for me to travel to Eastern Europe myself.
+Since I became aware of this idea, it became more comfortable for me to travel to Eastern Europe myself.
 I see the same thing happening in Ukraine over and over again.
 As I said, my explanation is just a generalization, this thing happens not in all the cases.
 From my Ukrainian experience, I can say that maybe in 50% of coffee shops I might experience
