@@ -6,19 +6,19 @@ description: "Catching Truth"
 date: 2018-04-30
 draft: false
 acknowledgement: 
-categories: ["Writings"]
-tags: ["truth"]
+categories: ["Poems"]
+tags: ["truth", "poetry"]
 people: []
 places: []
 locations: ["Berlin"]
 ---
 
-= Ukraine: Nov 2017
+= Truth
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2018-10-30
 :docdate: 2018-10-30
 :nofooter:
-:document_type: writing
+:document_type: poem
 :tags: "truth"
 
 Foolish me. +

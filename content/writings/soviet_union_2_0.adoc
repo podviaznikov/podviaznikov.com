@@ -14,7 +14,7 @@ locations: ["San Francisco"]
 
 = Soviet Union 2.0
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2017-12-28
+:revdate: 2018-10-30
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
@@ -135,7 +135,7 @@ The real power belongs to the bankers, financiers, heads of corporations - peopl
 
 In my opinion, the lack of variability was one of the major critics of the Soviet Union.
 However, I can say the same thing about the modern world. 
-Sure, you can have variety, if you had enough financial resources, but the same was true in the Soviet Union, 
+Sure, you can have variety, if you have enough financial resources, but the same was true in the Soviet Union, 
 where the ruling class could get anything they wanted.
 
 I tried to draw some analogies between the Soviet Union 30-40 years ago and the modern world. 
