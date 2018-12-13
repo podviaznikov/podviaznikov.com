@@ -19,7 +19,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-17
 :nofooter:
 :document_type: writing
-:tags: "life, travelling"
 
 I often thought what would happen in my life in the next 5 years. 
 Previously I wanted to have a possibility to predict my future and plan for it accordingly. 

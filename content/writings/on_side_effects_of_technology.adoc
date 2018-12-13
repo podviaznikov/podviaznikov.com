@@ -18,7 +18,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
-:tags: "side-effects, Brave New World, technology"
 
 Every technology, solution, and tool are about tradeoffs. I yet to come up with any example that brought only positive change to the world and our lives. Opposite examples are too easy: dynamite, cars, TV, Internet, phones etc.
 

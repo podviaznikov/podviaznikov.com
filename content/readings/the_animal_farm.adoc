@@ -26,7 +26,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-03-16
 :nofooter:
 :document_type: reading
-:tags: ""
 
 A comprehensive history of Russian revolution in a short, simple book that anyone can understand. 
 I think in this fact lies the beauty of Orwell’s work. 

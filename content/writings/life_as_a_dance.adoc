@@ -19,7 +19,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-31
 :nofooter:
 :document_type: writing
-:tags: "dance, life, metaphor, childhood"
 
 Remember, when you were a kid, you could dance and enjoy it enormously even if you _didn't know how_ to dance?
 

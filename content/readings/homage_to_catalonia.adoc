@@ -26,7 +26,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-02-25
 :nofooter:
 :document_type: reading
-:tags: ""
 
 Personal account of Spanish war by George Orwell.
 

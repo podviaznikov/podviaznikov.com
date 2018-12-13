@@ -18,7 +18,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
-:tags: "modernity"
 
 The modern globalized world looks surprisingly similar to the Soviet Union in 1970-1980s.
 

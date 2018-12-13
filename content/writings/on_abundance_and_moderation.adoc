@@ -19,7 +19,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-09
 :nofooter:
 :document_type: writing
-:tags: "abundance, moderation, consumption, consumerism"
 
 Goethe wrote, "One should, each day, try to hear a little song, read a good poem, see a fine picture, and, if possible, speak a few reasonable words." 
 We can take few good points from this wisdom but let focus on one for now. 

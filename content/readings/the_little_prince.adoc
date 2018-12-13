@@ -27,7 +27,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-05-28
 :nofooter:
 :document_type: reading
-:tags: ""
 
 One of the most beautiful and simple books about life, love, death; 
 about being a child and being an adult; about friendship, people and happiness.

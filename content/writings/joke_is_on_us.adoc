@@ -20,7 +20,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-02-23
 :nofooter:
 :document_type: writing
-:tags: "comedy, politics, discourse, daily shows, modernity"
 
 Imagine two people. They are friends or colleagues or neighbors.
 One person starts telling jokes about another, only criticizes her. 

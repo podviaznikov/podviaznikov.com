@@ -27,7 +27,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-03-05
 :nofooter:
 :document_type: reading
-:tags: ""
 
 Outstanding analysis of American culture of 1980s dominated by entertainment.
 

@@ -27,7 +27,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-05-28
 :nofooter:
 :document_type: reading
-:tags: ""
 
 Very personal memoir by Haruki Murakami that covers 30 something years of his life: after he became a writer and started to run.
 

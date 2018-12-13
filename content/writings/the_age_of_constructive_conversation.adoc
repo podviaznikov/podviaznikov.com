@@ -20,7 +20,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-02-26
 :nofooter:
 :document_type: writing
-:tags: "post-mortems, reflections, failures, action items"
 
 A couple of weeks ago I was ill at home.
 As I had some spare time, I spent some of it reading Twitter.

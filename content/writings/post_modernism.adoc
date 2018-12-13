@@ -19,7 +19,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-16
 :nofooter:
 :document_type: writing
-:tags: "post-modern world"
 
 I can't define what "post-modernism" is, however I realized that I can try to describe it, that is, describe life and trends of post-modern world.
 

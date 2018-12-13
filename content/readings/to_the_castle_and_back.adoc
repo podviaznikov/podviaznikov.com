@@ -27,7 +27,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-05-28
 :nofooter:
 :document_type: reading
-:tags: ""
 
 Havel is role model for public figure, politician and citizen. 
 He is deinitely not afraid to think deeper and to express himself. 

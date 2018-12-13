@@ -19,7 +19,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-30
 :nofooter:
 :document_type: poem
-:tags: "love, anger, poem"
 
 In the City of Anger +
 I'll build City of Love, +

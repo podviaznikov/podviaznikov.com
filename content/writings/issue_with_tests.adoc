@@ -19,7 +19,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-09
 :nofooter:
 :document_type: writing
-:tags: "self-knowledge, tests, personality"
 
 I have this weird problem: I can't take personality tests. 
 When I'm trying to do such tests, my brain starts working extremely hard.

@@ -19,7 +19,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-17
 :nofooter:
 :document_type: writing
-:tags: "books, reading"
 
 In this post I'll present my own relationships with reading, how it evolved over years, current challenges I'm facing with it and will think about possible solutions. 
 Here we go.

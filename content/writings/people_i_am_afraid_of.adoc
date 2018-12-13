@@ -19,7 +19,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-09
 :nofooter:
 :document_type: writing
-:tags: "society, modernity"
 
 There are two types of people that I am afraid of: 
 

@@ -15,7 +15,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-09-29
 :nofooter:
 :document_type: page
-:tags: ""
 
 It has been over 4 years since I moved to San Francisco. 
 It's the longest stretch of time I've spent in a single city outside of my home country.

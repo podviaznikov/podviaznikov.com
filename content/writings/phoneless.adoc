@@ -18,7 +18,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
-:tags: "phones, consumerism, anxiety"
 
 I often get asked why I don't have a smartphone. 
 Interestingly, it's not that easy to answer this question in one sentence. 

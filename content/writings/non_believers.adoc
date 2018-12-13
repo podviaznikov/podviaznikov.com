@@ -18,7 +18,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
-:tags: "liquid modernity, Eastern Europe"
 
 Recently at work, we were discussing 401K - personal pension fund that you can contribute to during life and use after the age of 65. 
 I wanted to be persuaded to use it and listened to all the arguments made by my colleagues, but they didn't work for me.

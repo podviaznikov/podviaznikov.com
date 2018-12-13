@@ -19,7 +19,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-11-02
 :nofooter:
 :document_type: writing
-:tags: "smells, scents, Ukraine"
 
 On my recent trip to Ukraine I discovered how my senses can be 
 constantly bombarded with new stimuli.

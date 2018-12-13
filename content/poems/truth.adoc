@@ -19,7 +19,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-10-30
 :nofooter:
 :document_type: poem
-:tags: "truth"
 
 Foolish me. +
 I thought I knew a thing. +

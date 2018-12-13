@@ -19,7 +19,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-17
 :nofooter:
 :document_type: writing
-:tags: "Ukraine"
 
 ## Intro
 

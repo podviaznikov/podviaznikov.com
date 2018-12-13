@@ -20,8 +20,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-09-10
 :nofooter:
 :document_type: poem
-:tags: "poem"
-
 
 Woman, +
 Why did you do that? +

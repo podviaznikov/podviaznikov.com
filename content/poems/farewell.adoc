@@ -20,7 +20,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-02-10
 :nofooter:
 :document_type: poem
-:tags: "farewell"
 
 Hey, why did you do it that way? +
 Why did you have need to betray? +

@@ -19,7 +19,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-08-12
 :nofooter:
 :document_type: writing
-:tags: "generalization, Slavic, hospitality"
 
 One of my favorite restaurants in the New York City is a place close to East Village that 
 serves Balkan food. It is called _Kafana_.

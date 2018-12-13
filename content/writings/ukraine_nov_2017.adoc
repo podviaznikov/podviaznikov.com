@@ -19,7 +19,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-01-09
 :nofooter:
 :document_type: writing
-:tags: "Ukraine, travelling, technology"
 
 In July 2015 I wrote a https://podviaznikov.com/ukraine/[post about Ukraine] that defined two things 
 that made me optimistic about Ukrainian future.

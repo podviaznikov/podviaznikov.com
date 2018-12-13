@@ -20,7 +20,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2018-03-26
 :nofooter:
 :document_type: rozmovy
-:tags: "поезія, людино, розмови"
 
 Ти не гірше. +
 Ти не краще. +

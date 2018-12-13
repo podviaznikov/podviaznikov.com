@@ -18,7 +18,6 @@ Anton Podviaznikov <anton@podviaznikov.com>
 :docdate: 2017-12-28
 :nofooter:
 :document_type: writing
-:tags: "space, society, myths, narrative, Mars"
 
 A lot of people get excited about advances in the space exploration in recent years. SpaceX, Blue Origin, NASA missions are all over the news. Discussing the space is fashionable again, space companies get a lot of highly-motivated engineers who want to work for them. All this is obviously not bad, but, in my opinion, space exploration is not the most difficult problem humanity faces, and definitely not the most important one.
 
