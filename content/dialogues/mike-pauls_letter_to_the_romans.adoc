@@ -146,7 +146,8 @@ people: ["St. Paul", "Goethe"]
 
 *AP*: Oh, that is a good one.
 
-*M*: I started a new one this morning, but I don't remember a name of it. And I have a whole bunch of science books in physics, biology.
+*M*: I started a new one this morning, but I don't remember a name of it. 
+And I have a bunch of science books in physics, biology.
 
 *AP*: Is it your interest or somehow related to your profession?
 
@@ -170,12 +171,15 @@ people: ["St. Paul", "Goethe"]
 
 *AP*: Do you have the most life changeling book?
 
-*M*: My favorite book in college was _Faust_ by Goethe. That is a book I would recommend to anyone who is young.
-I never read a _Walden_, but I gave it to my son. For his 18th birthday, I gave him a _Book of Virtues_. It's famous. By William Bennett.
+*M*: My favorite book in college was _Faust_ by Goethe. 
+That is a book I would recommend to anyone who is young.
+I never read a _Walden_, but I gave it to my son. 
+For his 18th birthday, I gave him a _Book of Virtues_. It's famous. By William Bennett.
 
 '''
 
 ## Notes
 
-It was very interesting conversation for me. I had a chance to learn a but more about Western branch of Christianity.
+It was very interesting conversation for me. 
+I had a chance to learn a bit more about Western branch of Christianity.
 We talked a bit about connection of science and religion, Einstein and Bing Bang.
