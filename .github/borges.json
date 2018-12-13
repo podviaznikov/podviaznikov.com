@@ -1,4 +1,4 @@
 {
-  "whitelist": ["Runnable", "Kievan Rus"],
+  "whitelist": ["Runnable", "Kievan Rus", "ENFP"],
   "ignored-files": ["themes/", "archetypes/", "content/rozmovy/"]
 }

@@ -22,8 +22,7 @@ When I'm trying to do such tests, my brain starts working extremely hard.
 
 How should I answer the question like "You often get so lost in thoughts that you ignore or forget your surroundings."? 
 What do they mean by "often"? 
-If I don't have a definitive answer, 
-should I go through all my history and find in what percentage of cases I forgot about my surroundings? 
+If I don't have a definitive answer, should I go through all my history and find in what percentage of cases I forgot about my surroundings? 
 I find it impossible to give even a slightly precise answer to this question.
 
 Or take another one: "You try to respond to your e-mails as soon as possible and cannot stand a messy inbox." 
@@ -33,15 +32,20 @@ I'm fast with replies for some people and not so fast with others.
 My response depends on so many factors that I can't just provide any meaningful answer to the posted question at all.
 
 Whenever I tell someone I have this problem, they usually look at me with disbelief and say 
-"What do you mean? Taking a test is easy, just don't think about it hard and quickly pick the answer that first comes to your mind". I heard this advice time and time again. It just isn't so easy with me. What is even more strange for me personally is that I am still to meet a person who has the same issue.
+"What do you mean? Taking a test is easy, just don't think about it hard and quickly pick the answer that first comes to your mind". 
+I heard this advice time and time again. 
+It just isn't so easy with me. 
+What is even more strange for me personally is that I am still to meet a person who has the same issue.
 
 My mind couldn't accept the nature of the test: it's desire to reduce the complexity of our personalities to the numbers. 
 I want it to provide as accurate model of me as possible, but I don't think tests designed to do that. 
 They are designed to paint as broad picture as possible, and I have very little interest in that.
 
-Recently a situation occurred that triggered even more scepsis towards the tests from me. 
+Recently a situation occurred that triggered even more scepticism towards the tests from me. 
 A friend of mine asked a bunch of his and my friends to do Myers-Briggs personality test (there are 16 personality types). 
-All of the people besides him and me got ENFP personality type. So 6 people out of 8 got ENFP personality, but according to the global statistic, only 7% of the population has this personality type. Of course, 8 people is not enough to disprove global statistic, but it's enough to make one even more suspicious.
+All the people besides him and me got ENFP personality type. 
+So 6 people out of 8 got ENFP personality, but according to the global statistic, only 7% of the population has this personality type. 
+Of course, 8 people is not enough to disprove global statistic, but it's enough to make one even more suspicious.
 
 Here are the problems I see with personality tests:
 
@@ -60,11 +64,17 @@ You can't fit individual into the model. It will be always to some extent wrong.
 Everything changes, and we are not even aware of all changes that happen to us.
 
 - internalization. There is some desynchronized state between what we do and what we believe and know mentally. 
-So we might behave differently than before, but we don't know why. 
-And if someone asks you what do you do in the situation - you might provide an obsolete answer, just because your mind didn't fully catch up yet, and didn't internalize the situation.
 
-- asserting your personality through the tests reminds me of the scientists trying to build mathematical models for the climate change. The world is too complex to comprehend and build an even slightly realistic model. The same applies to our personalities. The complexities are so high that I can't imagine a test that would be able to provide semi-accurate models of us.
+So we might behave differently than before, but we don't know why. 
+And if someone asks you what do you do in the situation - you might provide an obsolete answer, 
+just because your mind didn't fully catch up yet, and didn't internalize the situation.
+
+- asserting your personality through the tests reminds me of the scientists trying to build mathematical models for the climate change. 
+The world is too complex to comprehend and build an even slightly realistic model. 
+The same applies to our personalities. 
+The complexities are so high that I can't imagine a test that would be able to provide semi-accurate models of us.
 
 Ok, so personality tests have a bunch of problems. Should you still take them? Absolutely. 
 They can provide ideas, insights or rather questions for you to think about play with. 
-They are just a tool to facilitate self-discovery, not to provide answers. So take them for what they are.
+They are just a tool to facilitate self-discovery, not to provide answers. 
+So take them for what they are.
