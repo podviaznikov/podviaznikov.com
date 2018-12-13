@@ -4,6 +4,7 @@ url: "/sensless_smells"
 aliases: []
 description: "Smells of Ukraine"
 date: 2018-05-01
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -15,8 +16,6 @@ locations: ["Berlin-San Francisco"]
 
 = Sensless smeels
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-11-02
-:docdate: 2018-11-02
 
 On my recent trip to Ukraine I discovered how my senses can be 
 constantly bombarded with new stimuli.

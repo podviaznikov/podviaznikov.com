@@ -4,6 +4,7 @@ url: "/reduction"
 aliases: []
 description: "Reducing ourselves"
 date: 2017-12-29
+lastmod: 2018-12-13
 draft: false
 acknowledgement: "Thanks to Natalya Stepanova for helping me discover this lesson"
 categories: ["Writings"]
@@ -15,8 +16,6 @@ locations: ["San Francisco"]
 
 = Reduction
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-07
-:docdate: 2018-01-07
 
 We reduce people around us.
 How often do we forget _all_ the good things about someone and focus on their "faults" at worst or few "positive" things at best?

@@ -4,6 +4,7 @@ url: "/on_obsession_with_numbers"
 aliases: ["/on-obsession-with-numbers-61o54k8lljm"]
 description: "We live in a world driven by numbers"
 date: 2016-10-14
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 tags: ["technology", "numbers"]
@@ -14,8 +15,6 @@ locations: ["San Francisco"]
 
 = On obsession with numbers
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-10-01
-:docdate: 2017-12-28
 
 We live in a world obsessed with numbers. 
 They are everywhere, from Google Analytics, which is installed on the https://en.wikipedia.org/wiki/Google_Analytics#Popularity[majority of popular sites], 

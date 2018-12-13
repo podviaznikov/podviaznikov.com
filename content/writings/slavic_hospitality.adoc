@@ -4,6 +4,7 @@ url: "/slavic_hospitality"
 aliases: []
 description: "Explaining Slavic Hospitality"
 date: 2018-08-12
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -15,8 +16,6 @@ locations: ["Kyiv"]
 
 = Slavic Hospitality
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-10-30
-:docdate: 2018-08-12
 
 One of my favorite restaurants in the New York City is a place close to East Village that 
 serves Balkan food. It is called _Kafana_.

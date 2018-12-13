@@ -4,6 +4,7 @@ url: "/on_side_effects_of_technology"
 aliases: ["/on-side-effects-of-technology-x2x17wymmdo"]
 description: "Evaluate new problems created by software technology"
 date: 2016-10-13
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 tags: ["side-effects", "Brave New World", "technology"]
@@ -14,8 +15,6 @@ locations: ["San Francisco"]
 
 = On side effects of technology
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2017-12-28
-:docdate: 2017-12-28
 
 Every technology, solution, and tool are about tradeoffs. 
 I yet to come up with any example that brought only positive change to the world and our lives. 

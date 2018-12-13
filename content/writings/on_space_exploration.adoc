@@ -4,6 +4,7 @@ url: "/on_space_exploration"
 aliases: ["/on-space-exploration-yj74lwymmg9"]
 description: "Exploring space exploration"
 date: 2016-12-26
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 tags: ["space", "society", "myths", "narrative", "Mars"]
@@ -14,8 +15,6 @@ locations: ["San Francisco"]
 
 = On space exploration
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2017-12-28
-:docdate: 2017-12-28
 
 A lot of people get excited about advances in the space exploration in recent years. SpaceX, Blue Origin, NASA missions are all over the news. Discussing the space is fashionable again, space companies get a lot of highly-motivated engineers who want to work for them. All this is obviously not bad, but, in my opinion, space exploration is not the most difficult problem humanity faces, and definitely not the most important one.
 

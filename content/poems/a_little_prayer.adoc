@@ -16,8 +16,6 @@ locations: ["San Francisco"]
 
 = A Little Prayer
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-02-23
-:docdate: 2018-02-23
 
 In the senseless world +
 of bigotry and desire +

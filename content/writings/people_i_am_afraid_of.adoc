@@ -4,6 +4,7 @@ url: "/people_i_am_afraid_of"
 aliases: []
 description: "On people that on my opinion are the most dangerous for the society"
 date: 2016-02-24
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -15,8 +16,6 @@ locations: ["San Francisco"]
 
 = People I am afraid of
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-09
-:docdate: 2018-01-09
 
 There are two types of people that I am afraid of: 
 
@@ -52,7 +51,8 @@ Those people can look smart but to be honest, I wouldn't call any person without
 Again, there is no real danger until such person achieves some "success" and gets some money and some power. 
 After that happens real problems arise. Recently I saw a lot of people who _have all the answers to all the problems). 
 I noticed a lot of arrogance and unwillingness to listen, to explain, to discuss, to communicate and to find solutions together. 
-Journalists are "experts" on every topic, politicians are "experts," regular people are "experts," "entrepreneurs" are experts on the politics, peace, economy, happiness, etc. 
+Journalists are "experts" on every topic, politicians are "experts," 
+regular people are "experts," "entrepreneurs" are experts on the politics, peace, economy, happiness, etc. 
 The list goes on and on. A lot of people right now have opinions that hard to change.
 
 

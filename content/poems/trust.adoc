@@ -16,8 +16,6 @@ locations: ["San Francisco"]
 
 = Trust
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-10-02
-:docdate: 2018-10-01
 
 Why don’t you trust me? +
 Why your default assumption is a betrayal? +

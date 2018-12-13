@@ -4,6 +4,7 @@ url: "/ukraine_nov_2017"
 aliases: []
 description: "Looking through the new eyes"
 date: 2017-12-29
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -15,8 +16,6 @@ locations: ["San Francisco"]
 
 = Ukraine: Nov 2017
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-10-30
-:docdate: 2018-01-09
 
 In July 2015 I wrote a https://podviaznikov.com/ukraine/[post about Ukraine] that defined two things 
 that made me optimistic about Ukrainian future.

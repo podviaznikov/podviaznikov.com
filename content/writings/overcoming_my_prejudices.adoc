@@ -4,6 +4,7 @@ url: "/overcoming_my_prejudices"
 aliases: []
 description: "Learning my lessons. One lesson at a time"
 date: 2018-01-17
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -15,8 +16,6 @@ locations: ["San Francisco"]
 
 = Overcoming my prejudices
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-17
-:docdate: 2018-01-17
 
 November 2017. I'm in the JFK airport, boarding a plane to Ukraine.
 My place is in the last row; I notice my neighbor well in advance. 

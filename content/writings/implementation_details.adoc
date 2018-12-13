@@ -4,6 +4,7 @@ url: "/implementation_details"
 aliases: ["/implementation-details-46jk9l8xx15"]
 description: "Working on the wrong level of abstraction"
 date: 2016-11-12
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 tags: ["post-modern world", "future", "politics", "capitalism"]
@@ -14,8 +15,6 @@ locations: ["San Francisco"]
 
 = Implementation details
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2017-12-28
-:docdate: 2017-12-28
 
 We live in a post-modern world driven by the discussion of the wrong issues. 
 It's an obvious thing to say when the year 2016 comes to an end.

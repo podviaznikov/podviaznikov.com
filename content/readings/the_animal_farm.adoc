@@ -22,8 +22,6 @@ locations: ["San Francisco"]
 
 = The Animal Farm
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-03-16
-:docdate: 2018-03-16
 
 A comprehensive history of Russian revolution in a short, simple book that anyone can understand. 
 I think in this fact lies the beauty of Orwell’s work. 

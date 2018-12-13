@@ -4,6 +4,7 @@ url: "/soviet_union_2_0"
 aliases: ["/soviet-union-20-012lo0g230n"]
 description: "On similarities between modern world and Soviet Union 30-40 years ago"
 date: 2017-03-05
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 tags: ["modernity"]
@@ -14,8 +15,6 @@ locations: ["San Francisco"]
 
 = Soviet Union 2.0
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-10-30
-:docdate: 2017-12-28
 
 The modern globalized world looks surprisingly similar to the Soviet Union in 1970-1980s.
 
@@ -37,7 +36,8 @@ The culture is mostly English-speaking nowadays, and people across continents
 can relate to each other because of the same content they consume.
 
 In the Soviet Union, all the _shops_ looked the same across the country. 
-E.x. all the malls looked similar and were selling same goods, restaurants and cafes looked the same and had a similar menu, 
+E.x. all the malls looked similar and were selling same goods, 
+restaurants and cafes looked the same and had a similar menu, 
 press kiosks looked the same and were selling the same newspapers and magazines across the country. 
 The same thing is happening right now. 
 You can find starbucks, mccdonalds, h&ms, zaras in the majority of the countries on this planet. 
@@ -71,14 +71,16 @@ that was promised in the 1960s.
 The dream became unreal and people saw that it's not achievable. I think, our modern world stuck with the same problem now. What is our current dream as a society or as a species? Do we have some common goal or story?
 
 _Useless media_. Media was useless and untrustworthy in the Soviet Union, especially regarding international matters. 
-However, the same is true regarding mainstream media in the modern world. You can't trust media because they represent private economic and political interests.
+However, the same is true regarding mainstream media in the modern world. 
+You can't trust media because they represent private economic and political interests.
 
 _Inequality_. The Soviet Union had two classes of people: the ruling class - nomenklatura, and the working class - ordinary people. 
 The difference in quality of life between those two classes was incredible. 
 However, in the modern world this problem even more visible. 
 The elites are getting unproportionally better of every day.
 
-_National inequality_. The Soviet Union had the title nation, few "second-sort" nations and the rest was "third-sort" nations. 
+_National inequality_. The Soviet Union had the title nation, 
+few "second-sort" nations and the rest was "third-sort" nations. 
 The same is true for the globalized world. 
 Some countries that are getting better in the existing system and countries that get exploited.
 
@@ -118,7 +120,8 @@ or they would be in a defensive mode to "protect" their preconceived ideas.
 Exploration mode is very rare these days.
 
 _Incarceration_. The Soviet Union was famous for having prisons and putting large numbers of people there. 
-However the same applies to some modern Western countries. Now almost 1% of US population is in the prisons.
+However the same applies to some modern Western countries. 
+Now almost 1% of US population is in the prisons.
 
 _Antidemocracy_. Elections in the Soviet Union didn't depend on the popular vote in reality. 
 People did vote, but results were predefined, because only one party were eligible for election. 
@@ -132,11 +135,12 @@ The real power belongs to the bankers, financiers, heads of corporations - peopl
 
 In my opinion, the lack of variability was one of the major critics of the Soviet Union.
 However, I can say the same thing about the modern world. 
-Sure, you can have variety, if you have enough financial resources, but the same was true in the Soviet Union, 
+Sure, you can have variety, if you have enough financial resources, 
+but the same was true in the Soviet Union, 
 where the ruling class could get anything they wanted.
 
 I tried to draw some analogies between the Soviet Union 30-40 years ago and the modern world. 
-Maybe I made some factual mistakes, maybe my analogies are too stretched out, but it's up to you to decide. 
-Anyway, I think it's a useful exercise to think what did happen to the world in the last 30-40 years, 
-what changes were positive and what were negative.
+Maybe I made some factual mistakes, maybe my analogies are too stretched out, 
+but it's up to you to decide. 
+Anyway, I think it's a useful exercise to think what did happen to the world in the last 30-40 years, what changes were positive and what were negative.
 

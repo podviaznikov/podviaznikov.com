@@ -23,8 +23,6 @@ locations: ["San Francisco"]
 
 = Amusing Ourselves to Death
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-09-29
-:docdate: 2017-03-05
 
 Outstanding analysis of American culture of 1980s dominated by entertainment.
 

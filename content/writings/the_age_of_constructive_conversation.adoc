@@ -4,7 +4,7 @@ url: "/the_age_of_constructive_conversation"
 aliases: []
 description: "On the style of communication that is yet to come"
 date: 2018-02-25
-lastmod: 2018-02-26
+lastmod: 2018-12-13
 draft: false
 acknowledgement:
 categories: ["Writings"]
@@ -16,8 +16,6 @@ locations: ["San Francisco"]
 
 = The Age of Constructive Conversation
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-02-26
-:docdate: 2018-02-26
 
 A couple of weeks ago I was ill at home.
 As I had some spare time, I spent some of it reading Twitter.
@@ -38,8 +36,9 @@ There are different functions that conversation perform.
 Informational exchange, emotional exchange, probing of what our peers think and into our "normality."
 What lacks nowadays is the function of knowledge seeking. Engaging in the conversation to not exchange information but to seek knowledge and to generate it.
 
-Wouldn't it be great if we approach conversation willing to learn something new, change our opinions,
-find underlying reasons for issues, find underlying relationships between different notions and at the end generate some ideas how to solve the problem.
+Wouldn't it be great if we approach conversation willing to learn something new, 
+change our opinions, find underlying reasons for issues, 
+find underlying relationships between different notions and at the end generate some ideas how to solve the problem.
 
 Let's go back to the Aziz-Grace story.
 Do we need really to blame _one person_ in the story?

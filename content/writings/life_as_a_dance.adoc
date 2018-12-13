@@ -4,6 +4,7 @@ url: "/life_as_a_dance"
 aliases: ["/dance_as_a_metaphor_of_life"]
 description: "Dance as a metaphor of life"
 date: 2018-01-13
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -15,8 +16,6 @@ locations: ["San Francisco"]
 
 = Life as a Dance
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-31
-:docdate: 2018-01-31
 
 Remember, when you were a kid, you could dance and enjoy it enormously even if you _didn't know how_ to dance?
 

@@ -4,6 +4,7 @@ url: "/5_years"
 aliases: []
 description: "5 years. Self-reflections and planning the future"
 date: 2015-08-27
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -15,8 +16,6 @@ locations: ["Istanbul"]
 
 = 5 years
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-10-30
-:docdate: 2018-01-17
 
 I often thought what would happen in my life in the next 5 years. 
 Previously I wanted to have a possibility to predict my future and plan for it accordingly. 

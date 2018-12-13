@@ -4,6 +4,7 @@ url: "/on_reading"
 aliases: ["/on-reading-q85yqjgrrrm"]
 description: "My relationships with reading"
 date: 2016-10-12
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -15,8 +16,6 @@ locations: ["San Francisco"]
 
 = On reading
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-10-30
-:docdate: 2018-01-17
 
 In this post I'll present my own relationships with reading, how it evolved over years, current challenges I'm facing with it and will think about possible solutions. 
 Here we go.

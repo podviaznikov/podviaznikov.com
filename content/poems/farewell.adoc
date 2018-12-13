@@ -16,8 +16,6 @@ locations: ["San Francisco"]
 
 = A Little Prayer
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-03-14
-:docdate: 2018-02-10
 
 Hey, why did you do it that way? +
 Why did you have need to betray? +

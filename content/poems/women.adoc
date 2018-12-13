@@ -16,8 +16,6 @@ locations: ["San Francisco"]
 
 = Women
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-09-29
-:docdate: 2018-09-10
 
 Woman, +
 Why did you do that? +

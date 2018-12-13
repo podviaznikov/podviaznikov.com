@@ -16,8 +16,6 @@ locations: ["Berlin-San Francisco"]
 
 = Where are you?
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-05-01
-:docdate: 2018-05-01
 
 Where are you Neil? +
 Where are you Vaclav? +

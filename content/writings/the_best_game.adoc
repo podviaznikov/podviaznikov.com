@@ -4,7 +4,7 @@ url: "/the_best_game"
 aliases: []
 description: "Thinking about the nature of games"
 date: 2018-02-09
-lastmod: 2018-02-23
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -16,8 +16,6 @@ locations: ["San Diego"]
 
 = The Best Game
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-02-23
-:docdate: 2018-02-23
 
 In January 2013 I was staying for a month in São Paulo, Brazil.
 It was during my "digital nomad" stage of life where I traveled slowly and lightly.
@@ -33,8 +31,10 @@ Quite often you are together on the team with the guy who thinks he is much bett
 That would work one or two times per game, but that strategy is not reliable if the opposing team is any good. 
 The well-organized side has much higher chances to beat a group of individuals who play all by themselves, even if individually each player on that team is better.
 
-Brazilians played like a unit. A lot of them could easily beat opponents. But that is now what they chose. 
-They understood the game on a deeper level. They knew that it's about collaboration. 
+Brazilians played like a unit. A lot of them could easily beat opponents. 
+But that is now what they chose. 
+They understood the game on a deeper level. 
+They knew that it's about collaboration. 
 Scoring a goal because of the team effort is also remarkably fulfilling because it connects you with your team-mates.
 Suddenly everyone becomes very important to the team. 
 Everyone has a role to play and responsibility towards teammates. 
@@ -45,12 +45,15 @@ They will be on their toes each minute, and they will try to play even better to
 Usually, if less skillful people make one or two mistakes, no one would pass a ball to them until the end of the game. 
 It is a terrible strategy that I saw too often during my life. 
 When you make a mistake, and no one believes in you, then you lose confidence, and you lose motivation, and you more likely to make more mistakes. 
-You lose sense and meaning of the game and the time. The best way to overcome that is by passing to the person who just made a mistake. 
-They will feel trusted. And also since you involve them in the game they can improve their skills and make fewer mistakes. 
+You lose sense and meaning of the game and the time. 
+The best way to overcome that is by passing to the person who just made a mistake. 
+They will feel trusted. 
+And also since you involve them in the game they can improve their skills and make fewer mistakes. 
 If you don't play with them - they would never become better. 
 So the good teams have mechanisms for developing _all the players_, not just the best ones. 
 
-In just a couple of weeks playing with those guys, I became much better player than I ever was. In addition to having more amount fun than ever.
+In just a couple of weeks playing with those guys, 
+I became much better player than I ever was. In addition to having more amount fun than ever.
 
 What I learned from this is that:
 - ego is a problem. People who play by themselves usually have a massive ego, and it's not fun to have them around.

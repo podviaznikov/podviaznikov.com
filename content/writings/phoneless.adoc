@@ -4,6 +4,7 @@ url: "/phoneless"
 aliases: ["/phoneless-m48kmx3778k"]
 description: "On living a life without a smart phone in the modern society"
 date: 2015-09-27
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 tags: ["phones", "consumerism", "anxiety"]
@@ -14,8 +15,6 @@ locations: ["St. Louis, USA"]
 
 = Phoneless
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-10-01
-:docdate: 2017-12-28
 
 I often get asked why I don't have a smartphone. 
 Interestingly, it's not that easy to answer this question in one sentence. 

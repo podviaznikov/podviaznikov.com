@@ -4,6 +4,7 @@ url: "/post_modernism"
 aliases: ["/postmodernism-9793lx1rnj8"]
 description: "Thinking about defining features of the modern world"
 date: 2017-05-19
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -15,10 +16,9 @@ locations: ["San Francisco"]
 
 = Post-modernism
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-16
-:docdate: 2018-01-16
 
-I can't define what "post-modernism" is, however I realized that I can try to describe it, that is, describe life and trends of post-modern world.
+I can't define what "post-modernism" is, however I realized that I can try to describe it, 
+that is, describe life and trends of post-modern world.
 
 Music of post-modern world is music without _meaning_, which means usually without words at all. It can be said about art probably too.
 
@@ -27,10 +27,12 @@ Movies about existing reality and present times and present problems are not pop
 
 Virtual Reality will become more and more popular for the same reasons as fantasy movies.
 
-_No dream_. John Lennon famously sang "The dream is over". That might be true in the context of individual but it's also true in the context of society. 
+_No dream_. John Lennon famously sang "The dream is over". 
+That might be true in the context of individual but it's also true in the context of society. 
 Society in the post-modern world has no shared communal dream (myth, narrative).
 
-Political discourse either doesn't exist or exist in the form of the _comedy_. The most popular and famous political critics are comedians nowaday. 
+Political discourse either doesn't exist or exist in the form of the _comedy_. 
+The most popular and famous political critics are comedians nowaday. 
 This trend is true for various countries, from USA to Ukraine.
 
 _Trivialization_ of everything: politics, environement, sex, media.
@@ -53,15 +55,18 @@ _Abundance of information_ - everyone can access information on the very complic
 However, that changes nothing. Knowlegde and wisdom is still as inaccessible as they were. All the available information provides no tips, no hope, no ideas.
 
 _Communal schizophrenia_, by this I mean that we live in a world that doesn't seem real, but more like "Alice in Wonderland". 
-E.g. chritistian conservative parties promote anti-Christian values, liberal politicians deploy drone attacks. 
+E.g. chritistian conservative parties promote anti-Christian values, 
+liberal politicians deploy drone attacks. 
 Laws and legal acts get beautiful names that actually do opposite thing.
 
 Continuing _globalization_ - archetypes of issues and politicians that we we in one country are very similar to the other countries.
 
 _Unseriousness_ - people are not keen to talk on serious topics in larger groups (either politics, mental health or other topic). 
-You are supposed to look happy and talk on fun topics in a group. When serious discussion, unpleasant news are brought up in a group - people look scared.
+You are supposed to look happy and talk on fun topics in a group. 
+When serious discussion, unpleasant news are brought up in a group - people look scared.
 
-_Aging_ - aging seems like a scary thing for a lot of people. They will continue search for looking younger. 
+_Aging_ - aging seems like a scary thing for a lot of people. 
+They will continue search for looking younger. 
 20-35 years range is where majority of population is trying to visually remain as long as possible.
 
 _Growing conservatism_ on both right and left, and general tendency for even bigger consolidation of right and left.

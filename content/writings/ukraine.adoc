@@ -4,6 +4,7 @@ url: "/ukraine"
 aliases: []
 description: "My take on changes in Ukraine in the last 5 years (2010-2015) and it's future"
 date: 2015-07-31
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -15,8 +16,6 @@ locations: ["San Francisco"]
 
 = Ukraine
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-17
-:docdate: 2018-01-17
 
 ## Intro
 
@@ -38,7 +37,8 @@ I have some ideas though about my expectations, and you can read them below.
 
 ## Events
 
-A lot of things happened in Ukraine in the past 5 years. First we had Victor Yanukovych regime, 
+A lot of things happened in Ukraine in the past 5 years. 
+First we had Victor Yanukovych regime, 
 then we had the Revolution of Dignity connected with tragedy but huge hopes. 
 Now we have a war against Russia. 
 My country has a lot of problems now: war, corruption, slow speed of reforms, economic crises etc.
@@ -68,7 +68,8 @@ Ukraine used to be for quite a few centuries Russian colony.
 
 I definitely like it. 
 It enables people around the world to make a difference, 
-do what they love and feel that they are working on something important. Priorities changed. 
+do what they love and feel that they are working on something important. 
+Priorities changed. 
 If you are an artist, you don't need to be globally successful to be able to pay your bills. 
 What you can do is be successful in a small niche. 
 Previously it was difficult to deliver your work to that niche because of the geographic restrictions. 
@@ -76,7 +77,8 @@ That is not the case anymore.
 If you're a band from Ukraine making music in some specific genre/style, 
 your fans/listeners no longer need to be in the same city, or even country, they can be around the world.
 
-In the last 50 years for a lot of Ukrainian artists' success meant going to Moscow (which was a center of the bigger market for Soviet and post-Soviet countries). The focus changed completely recently. Currently, a lot of young Ukrainian bands do high-quality music oriented on the Western and global market.
+In the last 50 years for a lot of Ukrainian artists' success meant going to Moscow (which was a center of the bigger market for Soviet and post-Soviet countries). 
+The focus changed completely recently. Currently, a lot of young Ukrainian bands do high-quality music oriented on the Western and global market.
 
 This is the thing that excites me the most. 
 I feel that culture/art and music is an extremely important indicator of change. 
@@ -91,9 +93,11 @@ if I am not afraid to try and do what we love - you can and should too.
 ## New class
 
 In the 90s, most of the population in Ukraine became suddenly extremely poor after the collapse of Soviet Union. 
-Early days of capitalism in my country were pretty wild. Some people became rich quickly. 
+Early days of capitalism in my country were pretty wild. 
+Some people became rich quickly. 
 Most people who achieved high status and "success" were not good people. 
-The majority earned their money doing some illegal things. Most of our rich people also became corrupt politicians, 
+The majority earned their money doing some illegal things. 
+Most of our rich people also became corrupt politicians, 
 they don't have proper education and more importantly good moral values by any means. 
 What even worth that several generations didn't have good roles models. 
 "Bad guys" had better chances of success, which created negative dynamics in the society and probably some hopelessness.
@@ -115,7 +119,8 @@ it's becoming fashionable again to be smart and kind.
 
 ## Conclusion
 
-You can be pessimistic or optimistic about Ukrainian future. It's hard to predict what would happen next. 
+You can be pessimistic or optimistic about Ukrainian future. 
+It's hard to predict what would happen next. 
 There are great potential and a lot of opportunities, some are described in https://www.youtube.com/watch?v=jdSQuanI8Z8[Ukraine is open for U video].
 
 But I think that reforms from our government are not as important as two things I talked about above. 

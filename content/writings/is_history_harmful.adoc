@@ -4,6 +4,7 @@ url: "/is_history_harmful"
 aliases: []
 description: "Is history harmful and teaching it causes some serious problems in the long run?"
 date: 2014-05-11
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -15,8 +16,6 @@ locations: ["Ohrid, Macedonia"]
 
 = Is History Harmful?
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-04
-:docdate: 2018-01-04
 
 I love history, it’s fun, it’s interesting, it has a lot of "answers" to a lot of questions. 
 You can pick any today's problem, find something similar in history and propose solution or explanation or even predict the future. 

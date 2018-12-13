@@ -16,8 +16,6 @@ locations: ["San Francisco"]
 
 = Людино, вір
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-03-26
-:docdate: 2018-03-26
 
 Людино, вір. +
 	Щастя в тобі. +

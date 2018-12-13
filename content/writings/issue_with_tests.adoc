@@ -4,6 +4,7 @@ url: "/issue_with_tests"
 aliases: ["/issue-with-tests-j6q20n8qmpq"]
 description: "Issues I have with personality tests"
 date: 2017-05-29
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -15,8 +16,6 @@ locations: ["San Francisco"]
 
 = Issue with Tests
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-01-09
-:docdate: 2018-01-09
 
 I have this weird problem: I can't take personality tests. 
 When I'm trying to do such tests, my brain starts working extremely hard.

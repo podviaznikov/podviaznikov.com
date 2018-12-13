@@ -4,7 +4,7 @@ url: "/managers_and_ministers"
 aliases: ["/managers_and_pms"]
 description: "Ministers are managers"
 date: 2018-01-08
-lastmod: 2018-01-31
+lastmod: 2018-12-13
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -16,8 +16,6 @@ locations: ["San Francisco"]
 
 = Managers and Ministers
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-10-01
-:docdate: 2018-01-31
 
 In 2013 - before the revolution in Ukraine - I had this idea, 
 that Prime Ministers and CEOs of large multinational corporation share mostly the same skills.

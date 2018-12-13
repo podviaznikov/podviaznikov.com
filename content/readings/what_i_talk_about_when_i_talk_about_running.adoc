@@ -23,8 +23,6 @@ locations: ["San Francisco"]
 
 = What I Talk About When I Talk About Running
 Anton Podviaznikov <anton@podviaznikov.com>
-:revdate: 2018-09-29
-:docdate: 2017-05-28
 
 Very personal memoir by Haruki Murakami that covers 30 something years of his life: after he became a writer and started to run.
 
