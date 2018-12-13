@@ -25,8 +25,6 @@ locations: ["San Francisco"]
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2018-09-29
 :docdate: 2017-03-05
-:nofooter:
-:document_type: reading
 
 Outstanding analysis of American culture of 1980s dominated by entertainment.
 

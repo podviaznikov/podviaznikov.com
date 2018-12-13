@@ -17,8 +17,6 @@ locations: ["San Francisco"]
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2018-01-17
 :docdate: 2018-01-17
-:nofooter:
-:document_type: writing
 
 November 2017. I'm in the JFK airport, boarding a plane to Ukraine.
 My place is in the last row; I notice my neighbor well in advance. 

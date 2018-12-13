@@ -18,8 +18,6 @@ locations: ["San Francisco"]
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2018-02-26
 :docdate: 2018-02-26
-:nofooter:
-:document_type: writing
 
 A couple of weeks ago I was ill at home.
 As I had some spare time, I spent some of it reading Twitter.

@@ -17,8 +17,6 @@ locations: ["San Francisco"]
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2018-01-31
 :docdate: 2018-01-31
-:nofooter:
-:document_type: writing
 
 Remember, when you were a kid, you could dance and enjoy it enormously even if you _didn't know how_ to dance?
 

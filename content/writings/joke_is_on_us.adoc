@@ -18,8 +18,6 @@ locations: ["San Francisco"]
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2018-02-23
 :docdate: 2018-02-23
-:nofooter:
-:document_type: writing
 
 Imagine two people. They are friends or colleagues or neighbors.
 One person starts telling jokes about another, only criticizes her. 

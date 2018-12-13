@@ -16,8 +16,6 @@ locations: ["St. Louis, USA"]
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2018-10-01
 :docdate: 2017-12-28
-:nofooter:
-:document_type: writing
 
 I often get asked why I don't have a smartphone. 
 Interestingly, it's not that easy to answer this question in one sentence. 

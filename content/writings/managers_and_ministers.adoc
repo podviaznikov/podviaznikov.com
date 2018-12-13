@@ -18,8 +18,6 @@ locations: ["San Francisco"]
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2018-10-01
 :docdate: 2018-01-31
-:nofooter:
-:document_type: writing
 
 In 2013 - before the revolution in Ukraine - I had this idea, 
 that Prime Ministers and CEOs of large multinational corporation share mostly the same skills.

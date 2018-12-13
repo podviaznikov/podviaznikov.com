@@ -18,8 +18,6 @@ locations: ["San Diego"]
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2018-02-23
 :docdate: 2018-02-23
-:nofooter:
-:document_type: writing
 
 In January 2013 I was staying for a month in São Paulo, Brazil.
 It was during my "digital nomad" stage of life where I traveled slowly and lightly.

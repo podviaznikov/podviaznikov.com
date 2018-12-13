@@ -16,8 +16,6 @@ locations: ["San Francisco"]
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2017-12-28
 :docdate: 2017-12-28
-:nofooter:
-:document_type: writing
 
 Every technology, solution, and tool are about tradeoffs. I yet to come up with any example that brought only positive change to the world and our lives. Opposite examples are too easy: dynamite, cars, TV, Internet, phones etc.
 

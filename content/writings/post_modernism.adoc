@@ -17,8 +17,6 @@ locations: ["San Francisco"]
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2018-01-16
 :docdate: 2018-01-16
-:nofooter:
-:document_type: writing
 
 I can't define what "post-modernism" is, however I realized that I can try to describe it, that is, describe life and trends of post-modern world.
 

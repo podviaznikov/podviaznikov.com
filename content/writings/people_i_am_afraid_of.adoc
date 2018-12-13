@@ -17,8 +17,6 @@ locations: ["San Francisco"]
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2018-01-09
 :docdate: 2018-01-09
-:nofooter:
-:document_type: writing
 
 There are two types of people that I am afraid of: 
 

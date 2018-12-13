@@ -16,8 +16,6 @@ locations: ["San Francisco"]
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2018-10-01
 :docdate: 2017-12-28
-:nofooter:
-:document_type: writing
 
 We live in a world obsessed with numbers. They are everywhere, from Google Analytics, which is installed on the https://en.wikipedia.org/wiki/Google_Analytics#Popularity[majority of popular sites], to numbers of followers, likes, tweets etc.
 

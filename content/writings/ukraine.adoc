@@ -17,8 +17,6 @@ locations: ["San Francisco"]
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2018-01-17
 :docdate: 2018-01-17
-:nofooter:
-:document_type: writing
 
 ## Intro
 

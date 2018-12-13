@@ -17,8 +17,6 @@ locations: ["Hong Kong"]
 Anton Podviaznikov <anton@podviaznikov.com>
 :revdate: 2018-01-09
 :docdate: 2018-01-09
-:nofooter:
-:document_type: writing
 
 Goethe wrote, "One should, each day, try to hear a little song, read a good poem, see a fine picture, and, if possible, speak a few reasonable words." 
 We can take few good points from this wisdom but let focus on one for now. 
