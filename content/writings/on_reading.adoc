@@ -74,7 +74,7 @@ The main theme during this stage was history (which I enjoyed a lot) and some ad
 
 ## First transition
 
-During my high school years I moved to the big city, it was the beginning of 00's years, the country was very different. We had a lot of TV channels, radio stations, cinemas. There were a lot of things one could do after school. The environment changed dramatically. I also lost some personal interest in books. I still read most of the works for the school program, but it was rare that I would find a book that I would read with the joy for few hours per day. Basically, my taste and interests changed but I wasn't able to find a replacement yet. School program was of no help. We read usually something I wasn't interested that much at the moment. Topics were unappealing to me.
+During my high school years I moved to the big city, it was the beginning of 00s years, the country was very different. We had a lot of TV channels, radio stations, cinemas. There were a lot of things one could do after school. The environment changed dramatically. I also lost some personal interest in books. I still read most of the works for the school program, but it was rare that I would find a book that I would read with the joy for few hours per day. Basically, my taste and interests changed but I wasn't able to find a replacement yet. School program was of no help. We read usually something I wasn't interested that much at the moment. Topics were unappealing to me.
 
 I don't remember exactly when and what happened but I think at the end of my high school during 
 my university years I discovered works of Ernest Hemingway and Erich Maria Remarque. 
@@ -84,8 +84,10 @@ I think in retrospective it was also interesting to me because those books were 
 Lost Generation of Western Europeans who lived through and after the big shock of WWI. 
 And it seems to me know that theme is very appropriate to Ukraine I know.
 
-The collapse of Soviet Union probably had a similar effect on its' former citizens like that to Europeans who witnessed WWI. 
-Country collapsed. People didn't know what to do in life anymore, they didn't know what the world and life are becoming, 
+The collapse of Soviet Union probably had a similar effect on its former citizens like that to Europeans who witnessed WWI. 
+Country collapsed. 
+People didn't know what to do in life anymore, 
+they didn't know what the world and life are becoming, 
 some of their became were obsolete, other values were constantly attacked by the new order. 
 I lived in Ukraine among the lost generation. 
 Imagine growing up in one world for 30 years and then that world would disappear in one day. 
@@ -166,7 +168,7 @@ In order to remember such book later, you need to understand it very well.
 In order to understand non-fiction book you've need to build mental model of this book in your head. 
 Non-fiction authors have a mental model of the world in their heads when they write a book. 
 Your goal is to rebuild that model in your head, to make it physical. 
-Non-fiction sounds a little bit like programming. 
+Non-fiction sounds a little like programming. 
 The code is an abstract expression of author ideas about the world. 
 Your goal is to grasp it now and make it possible to recall in the future.
 

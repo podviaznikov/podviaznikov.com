@@ -83,7 +83,8 @@ I'll give you one more example that might be relevant.
 Paul Graham's website doesn't have any number of views, visitors or Google Analytics snippet installed. 
 And that makes sense because a lot of his essays you can read years later.
 
-As Neil Postman expressed in Amusing Ourselves to Death in the modern times we are focused on the current moment which is dictated by our mediums. 
+As Neil Postman expressed in Amusing Ourselves to Death, 
+in the modern times we are focused on the current moment which is dictated by our mediums. 
 And our mediums are all about feeds nowadays. And feeds are about numbers. 
 How many new items do you have today in your feed, how many unread items are there and so on. 
 But again, those numbers are mostly focused on entertainment, not on a value that content provides. 
@@ -103,11 +104,12 @@ Why do we need to have a system that prioritizes described distribution of the r
 Instead of spending time on value creation we are spending it on marketing in the bad sense of the word.
 
 And final problem with the new mediums and our reliance on numbers is that they discriminate old content. 
-Mozart doesn't have online identity, he has no Instagram, no Twitter and he doesn't have authentic music videos on YouTube and can't even remotely be compared to Kanye West in the context of the current way of thinking (centered around numbers).
+Mozart doesn't have online identity, he has no Instagram, no Twitter, 
+and he doesn't have authentic music videos on YouTube and can't even remotely be compared to Kanye West in the context of the current way of thinking (centered around numbers).
 
 The extreme rise in the quantity of information and content in the last century led to the abundance of it. 
 We feel lost now because there is a huge amount of books, songs, movies, articles etc. 
-The time is limited and we need to be careful while choosing what to consume next.
+The time is a limited resources, and we need to be careful while choosing what to consume next.
 
 How was this problem solved? 
 It was solved with the help of the top/hot lists. We have top lists for everything now: Billboard Top 100, 40 before 40, Forbes 500, top stories on Medium, trending songs on Soundcloud, most popular tweets and Twitter Moments, most liked Facebook posts. 
