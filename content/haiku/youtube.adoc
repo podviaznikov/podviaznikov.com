@@ -1,12 +1,12 @@
 ---
-title: "Tinder"
-url: "/tinder"
+title: "Youtube"
+url: "/youtube"
 aliases: []
 date: 2018-04-30
 lastmod: 2018-04-30
 draft: false
 acknowledgement:
-categories: ["Haikus"]
+categories: ["Haiku"]
 tags: ["poem", "poetry", "technology", "haiku"]
 people: []
 places: []

@@ -6,7 +6,7 @@ date: 2018-05-01
 lastmod: 2018-05-01
 draft: false
 acknowledgement:
-categories: ["Haikus"]
+categories: ["Haiku"]
 tags: ["poem", "questions"]
 people: []
 places: []

@@ -1,20 +1,20 @@
 ---
-title: "Youtube"
-url: "/youtube"
+title: "Skype"
+url: "/skype"
 aliases: []
 date: 2018-04-30
 lastmod: 2018-04-30
 draft: false
 acknowledgement:
-categories: ["Haikus"]
+categories: ["Haiku"]
 tags: ["poem", "poetry", "technology", "haiku"]
 people: []
 places: []
 locations: ["Berlin"]
 ---
 
-= Youtube
+= Skype
 
-Lonely. +
-Tinder. +
-Swipe.
+Skype. +
+Mom and dad. +
+Complaints.

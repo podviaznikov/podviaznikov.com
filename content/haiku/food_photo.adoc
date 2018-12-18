@@ -1,20 +1,20 @@
 ---
-title: "Skype"
-url: "/skype"
+title: "Food photo"
+url: "/food_photo"
 aliases: []
 date: 2018-04-30
 lastmod: 2018-04-30
 draft: false
 acknowledgement:
-categories: ["Haikus"]
+categories: ["Haiku"]
 tags: ["poem", "poetry", "technology", "haiku"]
 people: []
 places: []
 locations: ["Berlin"]
 ---
 
-= Skype
+= Food photo
 
-Skype. +
-Mom and dad. +
-Complaints.
+Date. +
+Restaurant. +
+Food photo.

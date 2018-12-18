@@ -31,8 +31,8 @@ identifier = "poems"
 url = "/poems"
 name = "Experiments with poetry"
 [[menu.main]]
-identifier = "haikus"
-url = "/haikus"
+identifier = "haiku"
+url = "/haiku"
 name = "Writing haiku"
 [[menu.main]]
 identifier = "dialogues"
