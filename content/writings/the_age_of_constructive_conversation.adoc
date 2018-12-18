@@ -85,7 +85,7 @@ Sometimes we had some significant incidents with our software when our customers
 In this case, we had following procedures in place.
 First, fix immediate problem and unblock customers.
 Only after that call a post-mortem meeting where you try to analyze what happened on a broader level.
-That meeting was never about who's personal mistake caused the outage.
+That meeting was never about whose personal mistake caused the outage.
 We had blame-free culture, where we did recognize that outage is never the fault of one individual.
 Someone might indeed push the wrong code. But that code was also reviewed by some else, and tested by tests (that were also reviewed) and several people. So in some sense, the fault was usually in the process we had.
 And we tried to identify as a team what went wrong and came up with several action items that we could fix immediately.
