@@ -1,10 +1,10 @@
 ---
-title: "sensless_smells"
-url: "/sensless_smells"
+title: "senseless_smells"
+url: "/senseless_smells"
 aliases: []
 description: "Smells of Ukraine"
 date: 2018-05-01
-lastmod: 2018-12-13
+lastmod: 2018-12-18
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -14,13 +14,13 @@ places: ["Ukraine"]
 locations: ["Berlin-San Francisco"]
 ---
 
-= Sensless smeels
+= Senseless smeels
 Anton Podviaznikov <anton@podviaznikov.com>
 
 On my recent trip to Ukraine I discovered how my senses can be 
 constantly bombarded with new stimuli.
 Stimuli distract us, take us from inside ourselves into the outer world.
-Sometimes they also bring memories, make us more aware of surrondings.
+Sometimes they also bring memories, make us more aware of surroundings.
 
 
 *cigarettes*
@@ -29,13 +29,13 @@ or whom I hug.
 
 *toilet air purifiers* 
 Being in a restaurant I would go to a bathroom and have a
-flashback from the past. Still the same, highly checmical, direct, powerfull, non-organic, unpleasant smell. 
+flashback from the past. Still the same, highly chemical, direct, powerful, non-organic, unpleasant smell. 
 Smell that is forever associated in my mind with Ukrainian toilets.
 
 *petroleum*
 I am in the taxi, making my way through the traffic. I open the window in the car.
-Smell of the pretroleum. It's my face. It's everywhere. It comes inside my cra.
-Everyone still have this old non-environmental friendly car.
+Smell of the petroleum. It's my face. It's everywhere. It comes inside my cra.
+Everyone still has this old non-environmental friendly car.
 It's a smell of a poor country I grow up 20 years ago.
 
 *laundry detergent*
