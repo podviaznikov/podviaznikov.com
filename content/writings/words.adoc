@@ -1,0 +1,92 @@
+---
+title: "Words"
+url: "/words"
+aliases: []
+description: "My take on changes in Ukraine in the last 5 years (2010-2015) and it's future"
+date: 2018-12-21
+lastmod: 2018-12-21
+draft: false
+acknowledgement: 
+categories: ["Writings"]
+tags: ["Ukrainian", "words", "language", "personal"]
+people: []
+places: []
+locations: ["Buenos Aires"]
+---
+
+= Ukraine
+Anton Podviaznikov <anton@podviaznikov.com>
+
+
+I like words. I usually pay attention to what other people are saying.
+Sometimes it would be _easier_ if I didn't.
+But easier doesn't mean better of course.
+
+I know three different languages. And I know bits from few more.
+I like to reflect on the nature of words.
+
+I had a personal example of language misuse that haunted me for at least a year.
+
+Once my ex-partner called me a _evil_ person. 
+It was said in clear mind and repeated a lot of times during different occurrences.
+
+That shocked me profoundly. I did know what _evil_ means.
+I started to question myself a lot. Don't I know something about myself?
+Am I lying to myself? Do other people see something in me that I can't see?
+It was a lot of soul-searching.
+I started to pay attention to all the references of _good_ and _evil_ in the literature.
+
+I grew up with these concepts. They were everywhere: fairy tails, cartoons, myths, films.
+I shivered every time I remembered this accusation.
+
+Wikipedia gives this definition of _evil_:
+
+> Evil, in a general sense, is the opposite or absence of good. It can be an extremely broad concept, > though in everyday usage is often used more narrowly to denote profound wickedness.
+
+For me, the simplest definition of _evil_ is "premeditatedly do something wrong."
+
+And I was reading through definitions and reflecting time and time again.
+One day I confronted my ex-partner and explained what _evil_ means according to other people.
+I asked if knowing this definition her accusation still holds true.
+She switched it to another term. Which ironically was also incorrect, but that is for another story.
+
+I was a bit relieved after this. But I still didn't understand how did that happen in the first place.
+Why was I called _that_ in the first place? What was the thing person _really_ wanted to say?
+
+In the last year, I believe I found answers to both of these questions.
+
+I'll share the answer to the first one here.
+
+The problem was that all that communication happened in the Ukrainian language.
+
+In Ukrainian, the noun `evil` is `зло`. And the adjective `evil` is `злий`.
+So I was called _злий_ meaning _evil person_. However, the problem that _angry_ in Ukrainian
+is also _злий_. Ukrainian language simply doesn't have a separate word for _angry_.
+So _feeling angry_ in Ukrainian is _being evil_. Those are two different things!
+
+Ukrainian language doesn't have a separate word for one of the emotions or feelings
+(however we define it nowadays).
+
+What is even more distrubing that this word has such a negative spin to it in my native language.
+When you have something that has negative connotation you want to get rid of it and dissociate yourself from it.
+Which is the wrong way to view anger altogether. 
+It has it's own function and is quite important. And if you reflect on your anger you would 
+understand a lot about yourself.
+
+Anyway, it was an Aha moment when I realized that all that happened just because Ukrainian language lacked one word in it.
+
+Two lessons that I learned from this situation. 
+
+Listen to people, but make sure that you and they understand some basic words in the same way. 
+A lot of miscommunication happens because people understand things differently.
+Read common definitions. That is precisely why we have vocabularies - to establish common meanings.
+
+Cross check words from different languages. Cross check definitions.
+
+
+
+
+
+
+
+
