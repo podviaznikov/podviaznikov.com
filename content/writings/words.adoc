@@ -2,7 +2,7 @@
 title: "Words"
 url: "/words"
 aliases: []
-description: "My take on changes in Ukraine in the last 5 years (2010-2015) and it's future"
+description: "Personal story on how words can be misused"
 date: 2018-12-21
 lastmod: 2018-12-21
 draft: false
@@ -14,7 +14,7 @@ places: []
 locations: ["Buenos Aires"]
 ---
 
-= Ukraine
+= Words
 Anton Podviaznikov <anton@podviaznikov.com>
 
 
@@ -37,13 +37,14 @@ It was a lot of soul-searching.
 I started to pay attention to all the references of _good_ and _evil_ in the literature.
 
 I grew up with these concepts. They were everywhere: fairy tails, cartoons, myths, films.
-I shivered every time I remembered this accusation.
+I shivered every time I remembered this accusation. 
+It was the opposite of what I belived in and valued.
 
 Wikipedia gives this definition of _evil_:
 
-> Evil, in a general sense, is the opposite or absence of good. It can be an extremely broad concept, > though in everyday usage is often used more narrowly to denote profound wickedness.
+> Evil, in a general sense, is the opposite or absence of good. It can be an extremely broad concept,    though in everyday usage is often used more narrowly to denote profound wickedness.
 
-For me, the simplest definition of _evil_ is "premeditatedly do something wrong."
+For me, the simplest definition of _evil_ is "premeditated act of doing something wrong."
 
 And I was reading through definitions and reflecting time and time again.
 One day I confronted my ex-partner and explained what _evil_ means according to other people.
@@ -51,15 +52,13 @@ I asked if knowing this definition her accusation still holds true.
 She switched it to another term. Which ironically was also incorrect, but that is for another story.
 
 I was a bit relieved after this. But I still didn't understand how did that happen in the first place.
-Why was I called _that_ in the first place? What was the thing person _really_ wanted to say?
+Why was I called _that_ initially? What was the thing person _really_ wanted to say?
 
 In the last year, I believe I found answers to both of these questions.
 
-I'll share the answer to the first one here.
-
 The problem was that all that communication happened in the Ukrainian language.
 
-In Ukrainian, the noun `evil` is `зло`. And the adjective `evil` is `злий`.
+In Ukrainian, the noun "evil" is "зло". And the adjective "evil" is "злий".
 So I was called _злий_ meaning _evil person_. However, the problem that _angry_ in Ukrainian
 is also _злий_. Ukrainian language simply doesn't have a separate word for _angry_.
 So _feeling angry_ in Ukrainian is _being evil_. Those are two different things!
@@ -67,11 +66,11 @@ So _feeling angry_ in Ukrainian is _being evil_. Those are two different things!
 Ukrainian language doesn't have a separate word for one of the emotions or feelings
 (however we define it nowadays).
 
-What is even more distrubing that this word has such a negative spin to it in my native language.
+What is even more disturbing that "злий" word (meaning angry) has a very negative spin to it in my native language.
 When you have something that has negative connotation you want to get rid of it and dissociate yourself from it.
 Which is the wrong way to view anger altogether. 
-It has it's own function and is quite important. And if you reflect on your anger you would 
-understand a lot about yourself.
+It has its own function and is quite important. 
+And if you reflect on your anger you would understand a lot about yourself.
 
 Anyway, it was an Aha moment when I realized that all that happened just because Ukrainian language lacked one word in it.
 
@@ -81,12 +80,7 @@ Listen to people, but make sure that you and they understand some basic words in
 A lot of miscommunication happens because people understand things differently.
 Read common definitions. That is precisely why we have vocabularies - to establish common meanings.
 
-Cross check words from different languages. Cross check definitions.
-
-
-
-
-
-
-
-
+Cross check words from different languages. Cross check definitions. 
+Some words are extremely outdated. We can create new words if needed too. Without past baggage.
+An environment in which we operate matters. 
+Culture and language in which we are surrounded set defaults and context.
