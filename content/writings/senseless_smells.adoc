@@ -1,10 +1,10 @@
 ---
-title: "senseless_smells"
+title: "Senseless smells"
 url: "/senseless_smells"
 aliases: []
 description: "Smells of Ukraine"
 date: 2018-05-01
-lastmod: 2018-12-18
+lastmod: 2018-12-21
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -14,7 +14,7 @@ places: ["Ukraine"]
 locations: ["Berlin-San Francisco"]
 ---
 
-= Senseless smeels
+= Senseless smells
 Anton Podviaznikov <anton@podviaznikov.com>
 
 On my recent trip to Ukraine I discovered how my senses can be 
@@ -24,21 +24,25 @@ Sometimes they also bring memories, make us more aware of surroundings.
 
 
 *cigarettes*
+
 I can smell them on the streets. Either from people I don't know 
 or whom I hug.
 
-*toilet air purifiers* 
+*toilet air purifiers*
+
 Being in a restaurant I would go to a bathroom and have a
 flashback from the past. Still the same, highly chemical, direct, powerful, non-organic, unpleasant smell. 
 Smell that is forever associated in my mind with Ukrainian toilets.
 
 *petroleum*
+
 I am in the taxi, making my way through the traffic. I open the window in the car.
 Smell of the petroleum. It's my face. It's everywhere. It comes inside my cra.
 Everyone still has this old non-environmental friendly car.
 It's a smell of a poor country I grow up 20 years ago.
 
 *laundry detergent*
+
 I am staying at the city for a few days now. I want to do my laundry.
 I buy local detergent. My clothes are clean now. But there is a problem.
 They smell now. They covered with unpleasant, not natural artificial smell.
@@ -47,6 +51,7 @@ It's impossible. It's stuck. Same scent as 2 decades ago.
 Now I'm bound to wear it for the rest of my stay. I wear my memories now on me.
 
 *beer*
+
 Ukrainian beer is different. Bad taste, bad smell. I inhale it, it brought me back in time.
 I remember now again why I don't like it and didn't miss it.
 
