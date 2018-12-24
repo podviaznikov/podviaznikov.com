@@ -14,7 +14,7 @@ places: []
 locations: ["San Francisco"]
 ---
 
-= A Little Prayer
+= Farewell
 Anton Podviaznikov <anton@podviaznikov.com>
 
 Hey, why did you do it that way? +

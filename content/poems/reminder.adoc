@@ -1,0 +1,46 @@
+---
+title: "reminder"
+url: "/reminder"
+aliases: []
+description: "A short reminderx"
+date: 2018-12-23
+lastmod: 2018-12-24
+draft: false
+acknowledgement:
+categories: ["Poems"]
+tags: ["poem", "poetry"]
+people: []
+places: []
+locations: ["Buenos Aires-Paris"]
+---
+
+= Reminder
+Anton Podviaznikov <anton@podviaznikov.com>
+
+Neither a rich person, +
+  nor a poor. +
+Neither an artist, +
+  nor an engineer. +
+Neither a mother of a child, +
+  nor a single man. +
+Neither a senior adult, +
+  nor a teenager. +
+Neither a party girl, +
+  nor a bookworn. +
+Neither a people person, +
+  nor a hermited introvert. +
+Neither a successful business owner, +
+  nor a homeless hippie. +
+Neither a professor, +
+  nor a thug. +
+Neither a casanova, +
+  nor a virgin. +
+Neither a monk, +
+  nor a city lover. +
+Neither a globe trotter, +
+  nor a villager. +    
+Neither a President, +
+  nor a cleaner.
+
+No one really knows.    
+        
