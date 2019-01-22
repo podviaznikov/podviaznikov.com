@@ -1,10 +1,10 @@
 ---
 title: "5 years"
-url: "/5_years"
-aliases: []
+url: "/five_years"
+aliases: ["/5_years"]
 description: "5 years. Self-reflections and planning the future"
 date: 2015-08-27
-lastmod: 2018-12-13
+lastmod: 2019-01-21
 draft: false
 acknowledgement: 
 categories: ["Writings"]

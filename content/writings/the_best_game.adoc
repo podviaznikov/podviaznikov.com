@@ -4,7 +4,7 @@ url: "/the_best_game"
 aliases: []
 description: "Thinking about the nature of games"
 date: 2018-02-09
-lastmod: 2018-12-13
+lastmod: 2019-01-21
 draft: false
 acknowledgement: 
 categories: ["Writings"]
@@ -56,11 +56,12 @@ In just a couple of weeks playing with those guys,
 I became much better player than I ever was. In addition to having more amount fun than ever.
 
 What I learned from this is that:
-- ego is a problem. People who play by themselves usually have a massive ego, and it's not fun to have them around.
-- trust and responsibility are essential. Believe in your teammates and make them responsible for something. It's a win-win.
-- victory as a result of collaboration (or team work) is much more satisfactory than any individual achievement
-- there are different ways to play a game (or live life for that matter), not all of them are equal
-- if fun and happiness are distributed - everyone wins 
+
+ - ego is a problem. People who play by themselves usually have a massive ego, and it's not fun to have them around.
+ - trust and responsibility are essential. Believe in your teammates and make them responsible for something. It's a win-win.
+ - victory as a result of collaboration (or team work) is much more satisfactory than any individual achievement
+ - there are different ways to play a game (or live life for that matter), not all of them are equal
+ - if fun and happiness are distributed - everyone wins 
 
 
 
