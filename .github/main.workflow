@@ -13,5 +13,5 @@ action "update cloudfront" {
   uses = "actions/aws/cli@51b5c9b60da75d1d3f97ff91ed2e4efc19dd5474"
   needs = ["upload to s3"]
   secrets = ["AWS_ACCESS_KEY_ID", "AWS_SECRET_ACCESS_KEY"]
-  args = "cloudfront update-distribution --id E1TRGMU2X297HL --default-root-object $GITHUB_SHA/index.html"
+  args = "cloudfront update-distribution --id E1TRGMU2X297HL --default-root-object $GITHUB_SHA/"
 }
