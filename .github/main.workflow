@@ -5,6 +5,6 @@ workflow "Build and Push" {
 
 action "GitHub Action for AWS" {
   uses = "actions/aws/cli@51b5c9b60da75d1d3f97ff91ed2e4efc19dd5474"
-  runs = "s3 ls s3://mybucket"
+  args = "s3 ls s3://cyclic.io"
   secrets = ["AWS_ACCESS_KEY_ID", "AWS_SECRET_ACCESS_KEY"]
 }
