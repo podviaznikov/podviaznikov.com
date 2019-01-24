@@ -1,6 +1,6 @@
 workflow "Build and Push" {
   on = "push"
-  resolves = ["temp"]
+  resolves = ["update cloudfront"]
 }
 
 action "upload to s3" {
