@@ -13,7 +13,7 @@ action "update cloudfront" {
   uses = "actions/aws/cli@51b5c9b60da75d1d3f97ff91ed2e4efc19dd5474"
   needs = ["upload to s3"]
   secrets = ["AWS_ACCESS_KEY_ID", "AWS_SECRET_ACCESS_KEY"]
-  args = "cloudfront get-distribution-config --id E1TRGMU2X297HL --distribution-config file:///tmp/distconfig.json > /tmp/distconfig_result.json"
+  args = "cloudfront get-distribution-config --id E1TRGMU2X297HL > /tmp/distconfig_result.json"
 }
 
 action "temp" {
