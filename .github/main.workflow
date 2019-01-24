@@ -13,5 +13,5 @@ action "update cloudfront" {
   uses = "actions/aws/cli@51b5c9b60da75d1d3f97ff91ed2e4efc19dd5474"
   needs = ["upload to s3"]
   secrets = ["AWS_ACCESS_KEY_ID", "AWS_SECRET_ACCESS_KEY"]
-  args = "SLASH='/'; cloudfront get-distribution-config --id E1TRGMU2X297HL > /tmp/distconfig_result.json; sed 's/OriginPath\": \".*\"/OriginPath\": \"$SLASH$GITHUB_SHA\"/g' /tmp/distconfig_result.json > /tmp/updated_distconfig.json; cat /tmp/updated_distconfig.json"
+  args = "cloudfront get-distribution-config --id E1TRGMU2X297HL > /tmp/distconfig_result.json; SLASH='/'; sed 's/OriginPath\": \".*\"/OriginPath\": \"$SLASH$GITHUB_SHA\"/g' /tmp/distconfig_result.json > /tmp/updated_distconfig.json; cat /tmp/updated_distconfig.json"
 }
