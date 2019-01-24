@@ -1,6 +1,6 @@
 workflow "Build and Push" {
   on = "push"
-  resolves = ["GitHub Action for AWS"]
+  resolves = ["wait cloudfront deployed"]
 }
 
 action "upload to s3" {
@@ -16,7 +16,7 @@ action "update cloudfront" {
   args = "cloudfront get-distribution-config --id E1TRGMU2X297HL > distconfig_result.json; SLASH='/'; ORIGIN_PATH=$SLASH$GITHUB_SHA;sed 's,OriginPath\": \".*\",OriginPath\": \"'$ORIGIN_PATH'\",g' distconfig_result.json > temp_config.json; jq .DistributionConfig temp_config.json > updated_config.json; cat updated_config.json; aws cloudfront update-distribution --if-match $(jq .ETag --raw-output distconfig_result.json) --id E1TRGMU2X297HL --distribution-config file://updated_config.json"
 }
 
-action "GitHub Action for AWS" {
+action "wait cloudfront deployed" {
   uses = "actions/aws/cli@aba0951d3bb681880614bbf0daa29b4a0c9d77b8"
   needs = ["update cloudfront"]
   args = "wait distribution-deployed --id E1TRGMU2X297HL"
