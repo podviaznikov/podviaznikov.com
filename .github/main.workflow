@@ -1,6 +1,6 @@
 workflow "Build and Push" {
   on = "push"
-  resolves = ["update cloudfront"]
+  resolves = ["temp"]
 }
 
 action "upload to s3" {
@@ -13,5 +13,11 @@ action "update cloudfront" {
   uses = "actions/aws/cli@51b5c9b60da75d1d3f97ff91ed2e4efc19dd5474"
   needs = ["upload to s3"]
   secrets = ["AWS_ACCESS_KEY_ID", "AWS_SECRET_ACCESS_KEY"]
-  args = "cloudfront update-distribution --id E1TRGMU2X297HL --default-root-object $GITHUB_SHA/"
+  args = "cloudfront get-distribution-config --distribution-config file:///tmp/distconfig.json > /tmp/distconfig_result.json; cloudfront update-distribution --id E1TRGMU2X297HL --default-root-object $GITHUB_SHA/"
+}
+
+action "temp" {
+  uses = "actions/aws/cli@51b5c9b60da75d1d3f97ff91ed2e4efc19dd5474"
+  needs = ["update cloudfront"]
+  args = "cat /tmp/distconfig_result.json"
 }
