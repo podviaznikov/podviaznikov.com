@@ -19,5 +19,5 @@ action "update cloudfront" {
 action "wait cloudfront deployed" {
   uses = "actions/aws/cli@aba0951d3bb681880614bbf0daa29b4a0c9d77b8"
   needs = ["update cloudfront"]
-  args = "wait distribution-deployed --id E1TRGMU2X297HL"
+  args = "cloudfront wait distribution-deployed --id E1TRGMU2X297HL"
 }
