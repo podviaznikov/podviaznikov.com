@@ -1,6 +1,9 @@
 workflow "Build and Push" {
   on = "push"
-  resolves = ["wait cloudfront deployed"]
+  resolves = [
+    "wait cloudfront deployed",
+    "shell 2",
+  ]
 }
 
 action "upload to s3" {
@@ -24,7 +27,19 @@ action "wait cloudfront deployed" {
   needs = ["update cloudfront"]
   secrets = ["AWS_ACCESS_KEY_ID", "AWS_SECRET_ACCESS_KEY"]
   args = "cloudfront wait distribution-deployed --id $CF_ZONE_ID"
-    env = {
+  env = {
     CF_ZONE_ID = "E1TRGMU2X297HL"
   }
+}
+
+action "shell 1" {
+  uses = "actions/bin/sh@master"
+  needs = ["upload to s3"]
+  args = ["echo 'hello' > ${HOME}/hello.txt"]
+}
+
+action "shell 2" {
+  uses = "actions/bin/sh@master"
+  needs = ["shell 1"]
+  args = ["cat ${HOME}/hello.txt"]
 }
