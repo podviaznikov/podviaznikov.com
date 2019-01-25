@@ -1,3 +1,3 @@
 # podviaznikov.com
 
-Personal site.
+Personal site. Always work in progress.
