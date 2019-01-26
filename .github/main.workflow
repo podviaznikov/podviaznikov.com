@@ -13,5 +13,5 @@ action "cycliccc/hugo" {
 action "shell 2" {
   uses = "actions/bin/sh@master"
   needs = ["cycliccc/hugo"]
-  args = ["ls ${HOME}/"]
+  args = ["find ${HOME}/ -name '*'"]
 }
