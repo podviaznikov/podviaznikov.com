@@ -40,7 +40,7 @@ url = "/dialogues"
 name = "Dialogues with people about books and not only"
 [[menu.main]]
 identifier = "розмови"
-url = "/rozmovy"
+url = "/talks"
 name = "Розмови з людиною"
 
 
