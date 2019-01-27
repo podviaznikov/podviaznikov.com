@@ -2,19 +2,19 @@ workflow "Build and Push" {
   on = "push"
   resolves = [
     "wait cloudfront deployed",
-    "repetitive/actions/hugo",
+    "build_site",
   ]
 }
 
-action "repetitive/actions/hugo" {
+action "build_site" {
   uses = "repetitive/actions/hugo@master"
 }
 
 action "upload to s3" {
   uses = "actions/aws/cli@51b5c9b60da75d1d3f97ff91ed2e4efc19dd5474"
-  args = "s3 cp ${HOME}/cycliccc/hugo/ s3://cyclic.cc/$GITHUB_SHA --recursive"
+  args = "s3 cp ${HOME}/build_site/ s3://cyclic.cc/$GITHUB_SHA --recursive"
   secrets = ["AWS_ACCESS_KEY_ID", "AWS_SECRET_ACCESS_KEY"]
-  needs = ["repetitive/actions/hugo"]
+  needs = ["build_site"]
 }
 
 action "update cloudfront" {
