@@ -12,7 +12,7 @@ action "build_site" {
 
 action "upload to s3" {
   uses = "actions/aws/cli@51b5c9b60da75d1d3f97ff91ed2e4efc19dd5474"
-  args = "s3 cp ${HOME}/build_site/ s3://cyclic.cc/$GITHUB_SHA --recursive"
+  args = "s3 cp ${HOME}/build_site/ s3://cyclic.cc/$GITHUB_SHA --recursive --acl public-read"
   secrets = ["AWS_ACCESS_KEY_ID", "AWS_SECRET_ACCESS_KEY"]
   needs = ["build_site"]
 }
