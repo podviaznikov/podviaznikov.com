@@ -11,7 +11,6 @@ locations: ["San Francisco"]
 ---
 
 = Now
-Anton Podviaznikov <anton@podviaznikov.com>
 
 It has been over 4 years since I moved to San Francisco. 
 It's the longest stretch of time I've spent in a single city outside of my home country.

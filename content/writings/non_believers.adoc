@@ -14,7 +14,6 @@ locations: ["San Francisco"]
 ---
 
 = Non-believers
-Anton Podviaznikov <anton@podviaznikov.com>
 
 Recently at work, we were discussing 401K - personal pension fund that you can contribute to during life and use after the age of 65. 
 I wanted to be persuaded to use it and listened to all the arguments made by my colleagues, 

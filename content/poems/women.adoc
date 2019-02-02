@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = Women
-Anton Podviaznikov <anton@podviaznikov.com>
 
 Woman, +
 Why did you do that? +
@@ -67,7 +66,7 @@ You numbed us. +
 And only deep understanding of life itself can help to revitalize me. +
 
 Woman, I know what life is. I'll revive my heart and show you real love. +
-Love that comes from knowing what is the pain. The love that is non-judgmental and unconditional. +
+Love that comes from knowing what is pain. The love that is non-judgmental and unconditional. +
 Woman, you'll see. Past is the fuel for the love. The one who was really hurt can't hurt no one. +
 
 Woman, you are like Mother Nature. +

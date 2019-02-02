@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = Ми
-Anton Podviaznikov <anton@podviaznikov.com>
 
 Ти не гірше. +
 Ти не краще. +

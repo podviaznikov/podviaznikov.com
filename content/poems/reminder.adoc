@@ -15,7 +15,6 @@ locations: ["Buenos Aires-Paris"]
 ---
 
 = Reminder
-Anton Podviaznikov <anton@podviaznikov.com>
 
 Neither a rich person, +
   nor a poor. +

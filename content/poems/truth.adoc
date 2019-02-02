@@ -15,7 +15,6 @@ locations: ["Berlin"]
 ---
 
 = Truth
-Anton Podviaznikov <anton@podviaznikov.com>
 
 Foolish me. +
 I thought I knew a thing. +

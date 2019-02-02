@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = Ukraine: Nov 2017
-Anton Podviaznikov <anton@podviaznikov.com>
 
 In July 2015 I wrote a https://podviaznikov.com/ukraine/[post about Ukraine] that defined two things 
 that made me optimistic about Ukrainian future.

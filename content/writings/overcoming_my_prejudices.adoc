@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = Overcoming my prejudices
-Anton Podviaznikov <anton@podviaznikov.com>
 
 November 2017. I'm in the JFK airport, boarding a plane to Ukraine.
 My place is in the last row; I notice my neighbor well in advance. 

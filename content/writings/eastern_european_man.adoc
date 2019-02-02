@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = Eastern European Man
-Anton Podviaznikov <anton@podviaznikov.com>
 
 Warning, unfair generalization and reversed sexism ahead.
 This is just an exercise to describe one of the archetypes, don't take it too seriously.

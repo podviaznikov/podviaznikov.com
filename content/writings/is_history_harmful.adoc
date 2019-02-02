@@ -15,7 +15,6 @@ locations: ["Ohrid, Macedonia"]
 ---
 
 = Is History Harmful?
-Anton Podviaznikov <anton@podviaznikov.com>
 
 I love history, it’s fun, it’s interesting, it has a lot of "answers" to a lot of questions. 
 You can pick any today's problem, find something similar in history and propose solution or explanation or even predict the future. 

@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = Managers and Ministers
-Anton Podviaznikov <anton@podviaznikov.com>
 
 In 2013 - before the revolution in Ukraine - I had this idea, 
 that Prime Ministers and CEOs of large multinational corporation share mostly the same skills.

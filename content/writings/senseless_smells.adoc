@@ -15,7 +15,6 @@ locations: ["Berlin-San Francisco"]
 ---
 
 = Senseless smells
-Anton Podviaznikov <anton@podviaznikov.com>
 
 On my recent trip to Ukraine I discovered how my senses can be 
 constantly bombarded with new stimuli.

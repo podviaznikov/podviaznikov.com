@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = Post-modernism
-Anton Podviaznikov <anton@podviaznikov.com>
 
 I can't define what "post-modernism" is, however I realized that I can try to describe it, 
 that is, describe life and trends of post-modern world.

@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = On reading
-Anton Podviaznikov <anton@podviaznikov.com>
 
 In this post I'll present my own relationships with reading, how it evolved over years, current challenges I'm facing with it and will think about possible solutions. 
 Here we go.

@@ -15,7 +15,6 @@ locations: ["Hong Kong"]
 ---
 
 = On abundance and moderation
-Anton Podviaznikov <anton@podviaznikov.com>
 
 Goethe wrote, "One should, each day, try to hear a little song, read a good poem, see a fine picture, and, if possible, speak a few reasonable words." 
 We can take few good points from this wisdom but let focus on one for now. 

@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = Farewell
-Anton Podviaznikov <anton@podviaznikov.com>
 
 Hey, why did you do it that way? +
 Why did you have need to betray? +

@@ -22,7 +22,6 @@ locations: ["San Francisco"]
 ---
 
 = To the Castle and Back
-Anton Podviaznikov <anton@podviaznikov.com>
 
 Havel is role model for public figure, politician and citizen. 
 He is definitely not afraid to think deeper and to express himself. 

@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = The City
-Anton Podviaznikov <anton@podviaznikov.com>
 
 In the City of Anger +
 I'll build City of Love, +

@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = Issue with Tests
-Anton Podviaznikov <anton@podviaznikov.com>
 
 I have this weird problem: I can't take personality tests. 
 When I'm trying to do such tests, my brain starts working extremely hard.

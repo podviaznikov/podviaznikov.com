@@ -15,8 +15,6 @@ locations: ["Buenos Aires"]
 ---
 
 = Words
-Anton Podviaznikov <anton@podviaznikov.com>
-
 
 I like words. I usually pay attention to what other people are saying.
 Sometimes it would be _easier_ if I didn't.

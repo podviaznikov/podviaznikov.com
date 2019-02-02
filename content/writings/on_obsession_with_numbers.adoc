@@ -14,7 +14,6 @@ locations: ["San Francisco"]
 ---
 
 = On obsession with numbers
-Anton Podviaznikov <anton@podviaznikov.com>
 
 We live in a world obsessed with numbers. 
 They are everywhere, from Google Analytics, which is installed on the https://en.wikipedia.org/wiki/Google_Analytics#Popularity[majority of popular sites], 

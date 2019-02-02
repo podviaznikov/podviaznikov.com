@@ -21,7 +21,6 @@ locations: ["San Francisco"]
 ---
 
 = Homage to Catalonia
-Anton Podviaznikov <anton@podviaznikov.com>
 
 Personal account of Spanish war by George Orwell.
 

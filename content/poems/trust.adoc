@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = Trust
-Anton Podviaznikov <anton@podviaznikov.com>
 
 Why don’t you trust me? +
 Why your default assumption is a betrayal? +

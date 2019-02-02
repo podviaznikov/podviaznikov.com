@@ -22,7 +22,6 @@ locations: ["San Francisco"]
 ---
 
 = The Little Prince
-Anton Podviaznikov <anton@podviaznikov.com>
 
 One of the most beautiful and simple books about life, love, death; 
 about being a child and being an adult; about friendship, people and happiness.

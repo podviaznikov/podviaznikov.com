@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = Reduction
-Anton Podviaznikov <anton@podviaznikov.com>
 
 We reduce people around us.
 How often do we forget _all_ the good things about someone and focus on their "faults" at worst or few "positive" things at best?

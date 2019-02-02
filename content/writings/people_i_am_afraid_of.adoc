@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = People I am afraid of
-Anton Podviaznikov <anton@podviaznikov.com>
 
 There are two types of people that I am afraid of: 
 

@@ -16,7 +16,6 @@ locations: ["San Francisco"]
 ---
 
 = Joke is on Us
-Anton Podviaznikov <anton@podviaznikov.com>
 
 Imagine two people. They are friends or colleagues or neighbors.
 One person starts telling jokes about another, only criticizes her. 

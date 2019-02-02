@@ -14,7 +14,6 @@ locations: ["San Francisco"]
 ---
 
 = On side effects of technology
-Anton Podviaznikov <anton@podviaznikov.com>
 
 Every technology, solution, and tool are about tradeoffs. 
 I yet to come up with any example that brought only positive change to the world and our lives. 

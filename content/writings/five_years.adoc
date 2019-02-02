@@ -15,7 +15,6 @@ locations: ["Istanbul"]
 ---
 
 = 5 years
-Anton Podviaznikov <anton@podviaznikov.com>
 
 I often thought what would happen in my life in the next 5 years. 
 Previously I wanted to have a possibility to predict my future and plan for it accordingly. 

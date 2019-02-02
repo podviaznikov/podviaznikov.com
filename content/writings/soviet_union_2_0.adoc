@@ -14,7 +14,6 @@ locations: ["San Francisco"]
 ---
 
 = Soviet Union 2.0
-Anton Podviaznikov <anton@podviaznikov.com>
 
 The modern globalized world looks surprisingly similar to the Soviet Union in 1970-1980s.
 

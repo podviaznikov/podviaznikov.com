@@ -15,7 +15,6 @@ locations: ["Kyiv"]
 ---
 
 = Slavic Hospitality
-Anton Podviaznikov <anton@podviaznikov.com>
 
 One of my favorite restaurants in the New York City is a place close to East Village that 
 serves Balkan food. It is called _Kafana_.

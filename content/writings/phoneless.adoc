@@ -14,7 +14,6 @@ locations: ["St. Louis, USA"]
 ---
 
 = Phoneless
-Anton Podviaznikov <anton@podviaznikov.com>
 
 I often get asked why I don't have a smartphone. 
 Interestingly, it's not that easy to answer this question in one sentence. 

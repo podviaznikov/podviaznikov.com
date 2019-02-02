@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = The Age of Constructive Conversation
-Anton Podviaznikov <anton@podviaznikov.com>
 
 A couple of weeks ago I was ill at home.
 As I had some spare time, I spent some of it reading Twitter.

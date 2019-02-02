@@ -15,7 +15,6 @@ locations: ["San Francisco"]
 ---
 
 = Life as a Dance
-Anton Podviaznikov <anton@podviaznikov.com>
 
 Remember, when you were a kid, you could dance and enjoy it enormously even if you _didn't know how_ to dance?
 

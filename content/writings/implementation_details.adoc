@@ -14,7 +14,6 @@ locations: ["San Francisco"]
 ---
 
 = Implementation details
-Anton Podviaznikov <anton@podviaznikov.com>
 
 We live in a post-modern world driven by the discussion of the wrong issues. 
 It's an obvious thing to say when the year 2016 comes to an end.

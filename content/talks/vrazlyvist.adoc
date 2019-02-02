@@ -15,7 +15,6 @@ locations: ["Kyiv-Lviv, Ukraine"]
 ---
 
 = Вразливість
-Anton Podviaznikov <anton@podviaznikov.com>
 
 Будь вразливим. +
 Виглядати сильним може кожен. +
