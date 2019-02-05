@@ -15,6 +15,6 @@ locations: ["Berlin"]
 
 = Society
 
-Traditional boring villages.+
+Traditional boring villages. +
 Drunken liberal cities. +
 No one is happy.
