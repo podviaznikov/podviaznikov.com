@@ -10,7 +10,7 @@ acknowledgement:
 categories: ["Writings"]
 tags: ["generalization", "Slavic", "hospitality"]
 people: []
-places: ["Kyiv", "Ukraine", "New York City"]
+places: ["Kyiv", "Ukraine", "New York City", "Montenegro"]
 locations: ["Kyiv"]
 ---
 
