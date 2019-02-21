@@ -17,7 +17,7 @@ locations: ["San Francisco"]
 = Trust
 
 Why don’t you trust me? +
-Why your default assumption is a betrayal? +
+Why is your default assumption betrayal? +
 If someone betrayed you doesn’t mean you should stop trusting the world or people. +
 Distrust blocks power and possibility connection and closeness. +
 It’s a border that should be crossed. +
