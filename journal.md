@@ -21,7 +21,7 @@ description: Personal site, journal, wiki
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
         [:div {:class "dtc v-mid ph3"}
@@ -93,7 +93,7 @@ description: My essays
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
         [:div {:class "dtc v-mid ph3"}
@@ -142,7 +142,7 @@ description: My essays
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
       ]
@@ -1801,7 +1801,9 @@ Only around 2014, I was comfortable enough with reading books in English.
 And only in 2016 I discovered a lot of books that I was excited to read.
 
 In January 2016 I listened to 4 podcasts (2 with Naval Ravikant and 2 with Derek Sivers) on Tim Ferriss show that provided me with 
-1) some ideas how I can change my reading habits, 2) list of books that were interesting to me.
+
+1) some ideas how I can change my reading habits
+2) list of books that were interesting to me
 
 Ideas
 -----
@@ -2358,7 +2360,7 @@ description: My poems
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
         [:div {:class "dtc v-mid ph3"}
@@ -2407,7 +2409,7 @@ description: My poems
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
       ]
@@ -2909,7 +2911,7 @@ description: Розмови з людиною
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
         [:div {:class "dtc v-mid ph3"}
@@ -2958,7 +2960,7 @@ description: Розмови з людиною
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
       ]
@@ -3282,7 +3284,7 @@ description: My haiku
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
         [:div {:class "dtc v-mid ph3"}
@@ -3328,7 +3330,7 @@ description: My haiku
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
       ]
@@ -3504,7 +3506,7 @@ description: Books I've read
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
         [:div {:class "dtc v-mid ph3"}
@@ -3562,7 +3564,7 @@ description: Books I've read
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
       ]
@@ -5616,7 +5618,7 @@ description: My trips
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
         [:div {:class "dtc v-mid ph3"}
@@ -5796,7 +5798,7 @@ description: My trips
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}]
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}]
           ]
         ]
       ]
@@ -6387,7 +6389,7 @@ description: My collection of quotes
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
         [:div {:class "dtc v-mid ph3"}
@@ -6427,7 +6429,7 @@ description: My collection of quotes
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
       ]
@@ -6531,7 +6533,7 @@ description: What am I'm doing now
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
         [:div {:class "dtc v-mid ph3"}
@@ -6576,7 +6578,7 @@ description: What am I'm doing now
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
       ]
@@ -6657,7 +6659,7 @@ description: Log of my activities
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
         [:div {:class "dtc v-mid ph3"}
@@ -6704,7 +6706,7 @@ description: Log of my activities
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https:/podviaznikov.com/img/logo.svg"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
           ]
         ]]
       ]
