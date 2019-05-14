@@ -9,9 +9,9 @@ description: Personal site, journal, wiki
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
-      [:title (:name %)]
+      [:title (str %author)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/img/logo.svg" :type "image/svg+xml"}]
       (if (not (nil? (->> % :description :value)))
@@ -22,8 +22,7 @@ description: Personal site, journal, wiki
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
             [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
-          ]
-        ]]
+          ]]]
         [:div {:class "dtc v-mid ph3"}
           [:h1 {:class "mt0 mb0 baskerville fw1 f4"} "Anton Podviaznikov"]
           [:h2 {:class "gray mt1 mb0 fw4 f6"} "observer; no answers, only questions"]]
@@ -81,7 +80,7 @@ description: My essays
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %coll)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -130,7 +129,7 @@ description: My essays
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -162,6 +161,56 @@ description: My essays
       ]
     ]])
 ```
+
+## Ukraine: May 2019
+
+description: Update on Ukraine, May 2019  
+date: 2019-05-13  
+lastmod: 2019-05-13  
+tags: Ukraine
+locations: San Francisco  
+
+### content
+
+On May 10 2019, I attended The Future of Ukrainian Democracy after Elections conference 
+at Stanford. It was a small event, but a decent amount of public figures participated: 
+Francis Fukuyama, Mustafa Nayyem, Steven Pifer, Oleksandr Saienko, Hanna Hopko, 
+Sevgil Musaeva, Myroslava, Gongadze, Artur Geraysmov, Oleksandr Danchenko, Maksym Nefiodov, 
+Michael Carpenter, Michael McFaul, Olexiy Ryabchyn. 
+
+So the list included a lot of active Ukrainian MPs, some members of government, journalist, former US State Department officials.
+
+It was the first time in my life that I observed so many high-profile figures from such a close distance.
+The one significant conclusion after the event was following: Ukrainian MPs were the least impressive people in the whole crowd including the audience. 
+It was bizarre to observe them on stage, during the breaks and the afterparty.
+
+Here is the list of the things that surprised me:
+
+- Inability to answer a question. MPs were able to talk a lot without answering a basic simple question.
+- Constant complains. MPs rhethoric was very unbalanced. It was almost constant complaining about some problems and mistakes by other people. The conference started with th simple question "What are the good things that happened in Ukraine in the last 5 years?". None of them were able to answer that, they started to enumerate problems immediately.
+- It felt like they were campaigning. It felt like MPs were getting ready for the next election. Campaigning and simple conversation are very different things
+- Arguing and fighting - some of the MPs were arguing with each other on stage. That was inapropriate for that time and place.
+- Non-seriousness and secrecy - some of the MPs were always laughing on stage (but in a very weird way), some were very secretive
+
+
+I didn't get a good idea about intellectual capabilities of MPs due to the reasons stated above. 
+However I had feeling that most of them were a bit conservative and outdated. Scary thing is that 
+those MPs belong to the "new generation" of Ukrainian politicians. I didn't see lot of progressive global ideas.
+
+Before the event ended, I was shocked to see how one of the most famous MPs were asking if he can start drinking wine before the reception. He just went for the bottle himself before the event even finished.
+
+After the reception, some of the MPs went to the afterparty. It was interesting to observe them in a more relaxed environment. One had debates with wine behind the table, another was telling to Myroslava Gongadze a lot of exciting but a bit crazy stories on every topic possible.
+
+In general, I became a bit tired and upset after observing MPs. I do not have high hopes for the upcoming parliamentary elections, because even this "progressive" and "new politicians" are uninspiring to me.
+
+However, I'm still very optimistic about the Ukrainian future. 
+In the last months (during my trip to Ukraine) and even during this event I've met a lot of 
+smart and active Ukrainians. So I do stand by the [statement](https://podviaznikov.com/ukraine_nov_2017) I made 4 years ago:
+
+> I think that reforms from our government are not as important as two things I talked about above. There is a big demand among progressive young people for living (and building) modern Western state. There are artists who can show to the rest of us what we want and need and there is middle-class that would be able to execute these changes. None of these people is going to ask for the permissions from our government or from other countries.
+
+I've met a lot of people who are intellectually curious, energetic and more than capable to push the country forward. They might not always be in the parliament or government yet.
+
 
 ## Words
 
@@ -2264,7 +2313,7 @@ But I think that reforms from our government are not as important as two things 
 There is a big demand among progressive young people for living (and building) modern Western state. 
 There are artists who can show to the rest of us what we want and need and there is middle-class 
 that would be able to execute these changes. 
-None of this people is going to ask for the permissions from our government or from other countries. 
+None of these people is going to ask for the permissions from our government or from other countries. 
 And that is the most significant fundamental change that happened. 
 People did realize that they are in charge of everything and there is a way to achieve what they want.
 
@@ -2348,7 +2397,7 @@ description: My poems
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %coll)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -2397,7 +2446,7 @@ description: My poems
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -2899,7 +2948,7 @@ description: Розмови з людиною
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %coll)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -2948,7 +2997,7 @@ description: Розмови з людиною
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -3272,7 +3321,7 @@ description: My haiku
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %coll)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -3318,7 +3367,7 @@ description: My haiku
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -3494,7 +3543,7 @@ description: Books I've read
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %coll)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -3552,7 +3601,7 @@ description: Books I've read
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -5602,7 +5651,7 @@ description: My trips
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %coll)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -5650,22 +5699,22 @@ description: My trips
                         (:countries row))]
                     ])
                 (->> %coll :tripssummary :value)
-                )]]]
+                )]]
 
 
-        [:ul {:class "ph0 pv4 mt0 list measure"}
-        (map 
-          (fn [entity]
-            [:li.mb3
-              [:a.link.f6.b.mb1 {:href (str "/" (->> entity :id :value))} (:name entity)]
-              [:div.mt1.mb0.mh0
-                [:span.f7.ml0.mb0.mr0 "from " (->> entity :started :value) " to " (->> entity :finished :value)]
-                [:span.f7.ml0.mb0.mr0 "; days " (->> entity :days :value)]
-                [:span.f7.ml0.mb0.mr0 "; travelled " (->> entity :distance :value) " km"]
-                [:span.f7.ml0.mb0.mr0 "; emission " (montaigne.fns/format-float  (->> entity :carbon :value) 2) " tons of CO" [:sub "2"]]
-              ]
-              ])
-          %)]
+          [:ul {:class "ph0 pv4 mt0 list measure"}
+          (map 
+            (fn [entity]
+              [:li.mb3
+                [:a.link.f6.b.mb1 {:href (str "/" (->> entity :id :value))} (:name entity)]
+                [:div.mt1.mb0.mh0
+                  [:span.f7.ml0.mb0.mr0 "from " (->> entity :started :value) " to " (->> entity :finished :value)]
+                  [:span.f7.ml0.mb0.mr0 "; days " (->> entity :days :value)]
+                  [:span.f7.ml0.mb0.mr0 "; travelled " (->> entity :distance :value) " km"]
+                  [:span.f7.ml0.mb0.mr0 "; emission " (montaigne.fns/format-float  (->> entity :carbon :value) 2) " tons of CO" [:sub "2"]]
+                ]
+                ])
+            %)]]
         [:div#map {:class "w-50-ns w-40 h-100 dib ma0" :style "position:fixed;top:0;right:0;"}]  
       ]
       [:script
@@ -5786,7 +5835,7 @@ description: My trips
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -5824,7 +5873,7 @@ description: My trips
             ]
             [:dl {:class "f6 lh-title mv2"}
               [:dt {:class "dib gray"} "Carbon:"]
-              [:dd {:class "dib ml1"} (montaigne.fns/format-float (->> % :carbon :value) 2) " tons of CO2"]
+              [:dd {:class "dib ml1"} (montaigne.fns/format-float (->> % :carbon :value) 2) " tons of CO" [:sub "2"]]
             ]]]
         [:section
           [:h2.f6 "visited cities"]
@@ -5834,9 +5883,7 @@ description: My trips
                   [:dt {:class "dib gray"} (:city row) ", " (:country row)]
                   [:dd {:class "dib ml1"} (:days row) " days; from " (:date-from row) " to " (:date-to row)]
                 ]
-            )(->> % :visited-cities :value))
-]
-
+            )(->> % :visited-cities :value))]
         ]
         [:section
           [:h2.f6 "itinerary"]
@@ -5851,7 +5898,6 @@ description: My trips
                   [:th {:class "fw6 bb b--black-20 tl pb3 pr3 bg-white"} "distance"]
                   [:th {:class "fw6 bb b--black-20 tl pb3 pr3 bg-white"} "carbon"]
                   [:th {:class "fw6 bb b--black-20 tl pb3 pr3 bg-white"} "data"]
-
                   [:th {:class "fw6 bb b--black-20 tl pb3 pr3 bg-white"} "layover"]]
               ]
               [:tbody {:class "lh-copy"}
@@ -6088,14 +6134,10 @@ JFK  | SFO | 2017-05-11 | flight | DL426, A320
 
 type: tourism  
 
-### summary
-
-Add boat ride to Gili
-
 ### itinerary
 
 from                | to                  | date       | type   | data            | layover 
-------------------- | ------------------- | ---------- | ------ | --------------- | -------------- 
+------------------- | ------------------- | ---------- | ------ | --------------- | ------- 
 SFO                 | SIN                 | 2017-03-24 | flight | SQ1, 777-300    | 
 SIN                 | DPS                 | 2017-03-25 | flight | SQ946, A330-300 | ✓
 Denpasar, Indonesia | Gili, Indonesia     | 2017-03-26 | boat   |                 | 
@@ -6218,35 +6260,37 @@ Playa del Carmen, Mexico | Cancun, Mexico           | 2014-12-07 | bus    |     
 CUN                      | SFO                      | 2014-12-07 | flight | UA1118, 737-900 | ✓
 
 
-### summary
-
-Add Playa del Carmen bus
-
-
 ## Istanbul and Macedonia 2014
 
 type: tourism  
 
 ### itinerary
 
-from              | to                | date       | type   | data 
------------------ | ----------------- | ---------- | ------ | ------ 
-HRK               | SAW               | 2014-01-26 | flight | PC751 
-SAW               | SKP               | 2014-03-23 | flight | PC711  
-Skopje, Macedonia | Ohrid, Macedonia  | 2014-04-23 | bus    | 
-Ohrid, Macedonia  | Skopje, Macedonia | 2014-04-30 | bus    | 
+from              | to                | date       | type   | data   | layover
+----------------- | ----------------- | ---------- | ------ | ------ | -------
+HRK               | SAW               | 2014-01-26 | flight | PC751  |  
+SAW               | SKP               | 2014-03-23 | flight | PC711  |    
+Skopje, Macedonia | Ohrid, Macedonia  | 2014-04-23 | bus    |        | 
+Ohrid, Macedonia  | Skopje, Macedonia | 2014-04-30 | bus    |        | 
+SKP               | SAW               | 2014-05-26 | flight | PC712  | 
+IST               | FRA               | 2014-05-28 | flight | LH1305 | 
+FRA               | SFP               | 2014-05-28 | flight | LH454  | ✓
 
 
-## Washington DC First Trip 2013
+## Study in NYC 2013
 
-purpose: Clojure/conj  
+purpose: Hacker School and Clojure/conj  
 
 ### itinerary
 
-from                         | to                           | date       | type  
----------------------------- | -----------------------------| ---------- | ------
-New York, United States      | Washington DC, United States | 2013-11-13 | bus   
-Washington DC, United States | New York, United States      | 2013-11-17 | bus   
+from                         | to                           | date       | type   | data   | layover
+---------------------------- | -----------------------------| ---------- | ------ | ------ | -------
+PTY                          | JFK                          | 2013-09-27 | flight | CM830  | 
+New York, United States      | Washington DC, United States | 2013-11-13 | bus    |        |  
+Washington DC, United States | New York, United States      | 2013-11-17 | bus    |        | 
+JFK                          | FRA                          | 2013-12-27 | flight |        | 
+FRA                          | KBP                          | 2013-12-28 | flight |        | 
+Kyiv, Ukraine                | Kharkiv, Ukraine             | 2013-12-28 | train  |        | ✓ 
 
 
 ## South America 2012-2013
@@ -6257,6 +6301,7 @@ type: tourism
 
 from                      | to                        | date       | type   | data   | layover
 ------------------------- | ------------------------- | ---------- | ------ | ------ | -----
+Kharkiv, Ukraine          | Kyiv, Ukraine             | 2012-11-16 | train  |        |  
 KBP                       | FRA                       | 2012-11-17 | flight | LH1493 | 
 FRA                       | GIG                       | 2012-11-17 | flight | DE6080 | ✓
 Rio de Janeiro, Brazil    | Sao Paulo, Brazil         | 2012-12-14 | bus    |        | 
@@ -6264,18 +6309,23 @@ GRU                       | PTY                       | 2013-01-30 | flight | CM
 PTY                       | MEX                       | 2013-01-30 | flight | CM136  | 
 MEX                       | CUN                       | 2013-02-06 | flight | VOI712 | 
 Cancun, Mexico            | Playa del Carmen, Mexico  | 2013-02-06 | bus    |        | ✓
-Playa del Carmen, Mexico   | Cancun, Mexico           | 2013-05-04 | bus    |        | 
+Playa del Carmen, Mexico  | Cancun, Mexico            | 2013-05-04 | bus    |        | 
 CUN                       | MEX                       | 2013-05-04 | flight | 4O2317 | ✓
 MEX                       | GUA                       | 2013-05-04 | flight | 4O2912 | ✓
 Guatemala City, Guatemala | San Salvador, El Salvador | 2013-06-11 | bus    |        | 
 San Salvador, El Salvador | Tegucigalpa, Honduras     | 2013-06-22 | bus    |        | 
-Tegucigalpa, Honduras     | León, Honduras            | 2013-07-07 | bus    |        | 
-León, Honduras            | San Jose, Costa Rica      | 2013-07-21 | bus    |        | 
-San Jose, Costa Rica      | Panama City, Panama       | 2013-07-22 | bus    |        | 
+Tegucigalpa, Honduras     | León, Nicaragua           | 2013-07-07 | bus    |        | 
+León, Nicaragua           | Managua, Nicaragua        | 2013-07-20 | bus    |        | 
+Managua, Nicaragua        | San Jose, Costa Rica      | 2013-07-23 | bus    |        | 
+San Jose, Costa Rica      | Panama City, Panama       | 2013-07-25 | bus    |        | 
 PTY                       | GYE                       | 2013-08-05 | flight | EQ505  | 
 GYE                       | UIO                       | 2013-08-05 | flight | EQ314  | ✓ 
 Quito, Ecuador            | Baños, Ecuador            | 2013-08-25 | bus    | DL2340 |  
 Baños, Ecuador            | Quito, Ecuador            | 2013-09-01 | bus    | DL2340 | 
+UIO                       | GYE                       | 2013-09-02 | flight | LA1441 | 
+GYE                       | SCL                       | 2013-09-02 | flight | LA1447 | ✓
+SCL                       | EZE                       | 2013-09-02 | flight | LA443  | ✓ 
+EZE                       | GRU                       | 2013-09-26 | flight |        | 
 GRU                       | PTY                       | 2013-09-27 | flight | CM758  | 
 PTY                       | JFK                       | 2013-09-27 | flight | CM830  | ✓
 
@@ -6284,16 +6334,16 @@ PTY                       | JFK                       | 2013-09-27 | flight | CM
 
 type: tourism  
 
-### summary
-
-October 14-Nov5
-
 ### itinerary
 
 from                     | to                       | date       | type   | data   | layover
 ------------------------ | ------------------------ | ---------- | ------ | ------ | -----
-KBP      | TXL           | 2012-10-14 | flight |  | 
-TXL      | KBP           | 2012-11-05 | flight |  | 
+Kharkiv, Ukraine         | Kyiv, Ukraine            | 2012-10-14 | train  |        |  
+KBP                      | FRA                      | 2012-10-14 | flight | LH1491 | ✓
+FRA                      | TXL                      | 2012-10-14 | flight | LH190  | 
+TXL                      | MUC                      | 2012-11-05 | flight | LH2035 | 
+MUC                      | KBP                      | 2012-11-05 | flight | LH2544 | ✓
+Kyiv, Ukraine            | Kharkiv, Ukraine         | 2012-10-14 | train  |        |  
 
 
 ## Balkans 2012
@@ -6304,22 +6354,30 @@ type: tourism
 
 from                     | to                       | date       | type   | data   | layover
 ------------------------ | ------------------------ | ---------- | ------ | ------ | -----
-Zagreb, Croatia      | Zadar, Croatia           | 2012-08-03 | bus |  | 
-Zadar, Croatia      | Split, Croatia           | 2012-08-06 | bus |  | 
-Split, Croatia      | Zagreb, Croatia           | 2012-08-14 | train |  | 
-Zagreb, Croatia      | Sarajevo, Bosnia           | 2012-08-20 | bus |  | 
-Sarajevo, Bosnia      | Podgorica, Montenegro           | 2012-09-03 | bus |  | 
+FRA                      | BEG                      | 2012-06-22 | flight | LH1406 | ✓ 
+Zagreb, Croatia          | Zadar, Croatia           | 2012-08-03 | bus    |        | 
+Zadar, Croatia           | Split, Croatia           | 2012-08-06 | bus    |        | 
+Split, Croatia           | Zagreb, Croatia          | 2012-08-14 | train  |        | 
+Zagreb, Croatia          | Sarajevo, Bosnia         | 2012-08-20 | bus    |        | 
+Sarajevo, Bosnia         | Podgorica, Montenegro    | 2012-09-05 | bus    |        | 
+Podgorica, Montenegro    | Belgrade, Serbia         | 2012-09-05 | bus    |        | 
+BEG                      | VIE                      | 2012-09-06 | flight | OS738  | 
+VIE                      | KBP                      | 2012-09-06 | flight | OS663  | ✓
 
 
-## New York City First Trip 2012
+## US First Trip 2012
 
 type: tourism  
 
 ### itinerary
 
-from | to  | date       | type   | data 
----- | --- | ---------- | ------ | ------ 
-SFO  | JFK | 2012-06-15 | flight | DL2340    
+from | to  | date       | type   | data   | layover
+---- | --- | ---------- | ------ | ------ | -------
+KBP  | FRA | 2012-01-09 | flight | LH1493 | 
+FRA  | SFO | 2012-01-09 | flight | LH454  | ✓
+SFO  | JFK | 2012-06-15 | flight | DL2340 |   
+JFK  | FRA | 2012-06-21 | flight | LH401  |   
+FRA  | BEG | 2012-06-22 | flight | LH1406 | ✓  
 
 
 ## Leaving Montenegro
@@ -6334,6 +6392,18 @@ TGD  | BUD | 2011-12-28 | flight | MA495, 737-600 |
 BUD  | KBP | 2011-12-29 | flight | MA110, 737-800 | ✓
 
 
+## Belgrade US Visa Trip 2011
+
+purpose: Interview in the US Embassy  
+
+### itinerary
+
+from                  | to                    | date       | type   | data  | layover
+--------------------- | --------------------- | ---------- | ------ | ----- | --------
+Podgorica, Montenegro | Belgrade, Serbia      | 2011-12-20 | bus    |       | 
+Belgrade, Serbia      | Podgorica, Montenegro | 2011-12-24 | bus    |       | 
+
+
 ## Berlin First Trip 2011
 
 purpose: Google Dev Conf  
@@ -6342,12 +6412,12 @@ purpose: Google Dev Conf
 
 from                  | to                    | date       | type   | data  | layover
 --------------------- | --------------------- | ---------- | ------ | ----- | --------
-Podgorica, Montenegro | Belgrade, Serbia      | 2011-11-11 | bus    |       | 
+Podgorica, Montenegro | Belgrade, Serbia      | 2011-11-10 | bus    |       | 
 BEG                   | VIE                   | 2011-11-11 | flight | OS772 | ✓
 VIE                   | TXL                   | 2011-11-11 | flight | OS291 | ✓ 
 TXL                   | VIE                   | 2011-11-20 | flight | OS272 |   
 VIE                   | BEG                   | 2011-11-20 | flight | OS735 | ✓ 
-Belgrade, Serbia      | Podgorica, Montenegro | 2011-11-20 | bus    |       | ✓
+Belgrade, Serbia      | Podgorica, Montenegro | 2011-11-22 | bus    |       | 
 
 
 ## Munich and Prague 2011
@@ -6358,12 +6428,61 @@ type: tourism
 
 from                   | to                     | date       | type   | data   | layover 
 ---------------------- | ---------------------- | ---------- | ------ | ------ | ---------
-Podgorica, Montenegro  | Belgrade, Serbia       | 2011-08-22  | bus   |        | ✓
+Podgorica, Montenegro  | Belgrade, Serbia       | 2011-08-22 | bus    |        | ✓
 BEG                    | FMM                    | 2011-08-23 | flight | W64105 | ✓
 Munich, Germany        | Prague, Czech Republic | 2011-08-24 | bus    |        | 
 Prague, Czech Republic | Munich, Germany        | 2011-08-27 | bus    |        | 
 FMM                    | BEG                    | 2011-08-30 | flight | W64106 | ✓
 Belgrade, Serbia       | Podgorica, Montenegro  | 2011-08-30 | bus    |        | ✓
+
+
+## Sweden and Poland 2011
+
+type: tourism  
+
+### itinerary
+
+from                   | to                     | date       | type   | data   | layover 
+---------------------- | ---------------------- | ---------- | ------ | ------ | ---------
+Podgorica, Montenegro  | Belgrade, Serbia       | 2011-05-16 | bus    |        | 
+BEG                    | NYO                    | 2011-05-16 | flight |        | ✓
+NYO                    | WAW                    | 2011-05-17 | flight |        | 
+WAW                    | NYO                    | 2011-05-21 | flight |        | 
+NYO                    | BEG                    | 2011-05-23 | flight |        | 
+Belgrade, Serbia       | Podgorica, Montenegro  | 2011-05-25 | bus    |        | 
+
+
+## Montenegro Move 2010
+
+type: tourism  
+
+### itinerary
+
+from                   | to                     | date       | type   | data   | layover 
+---------------------- | ---------------------- | ---------- | ------ | ------ | ---------
+Kharkiv, Ukraine       | Zaporizhzhia, Ukraine  | 2010-08-08 | bus    |        | 
+OZH                    | TVT                    | 2010-08-08 | flight |        | ✓
+Tivat, Montenegro      | Podgorica, Montenegro  | 2010-08-08 | bus    |        | 
+Podgorica, Montenegro  | Hani i Hotit, Albania  | 2010-09-01 | car    |        | 
+Hani i Hotit, Albania  | Podgorica, Montenegro  | 2010-09-01 | car    |        |  
+Podgorica, Montenegro  | Tirana, Albania        | 2010-10-30 | bus    |        | 
+Tirana, Albania        | Podgorica, Montenegro  | 2010-10-30 | bus    |        |  
+
+
+## Montenegro First Trip 2010
+
+type: tourism  
+
+### itinerary
+
+from                   | to                     | date       | type   | data   | layover 
+---------------------- | ---------------------- | ---------- | ------ | ------ | ---------
+HRK                    | TIV                    | 2010-05-21 | flight |        | 
+Tivat, Montenegro      | Budva, Montenegro      | 2010-05-21 | bus    |        | ✓
+Budva, Montenegro      | Dubrovnik, Croatia     | 2010-05-24 | bus    |        | 
+Dubrovnik, Croatia     | Budva, Montenegro      | 2010-05-24 | bus    |        | 
+Budva, Montenegro      | Tivat, Montenegro      | 2010-05-28 | bus    |        | 
+TIV                    | HRK                    | 2010-05-28 | flight |        | ✓
 
 
 # quotes
@@ -6377,7 +6496,7 @@ description: My collection of quotes
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %coll)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -6417,7 +6536,7 @@ description: My collection of quotes
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -6521,7 +6640,7 @@ description: What am I'm doing now
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %coll)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -6565,7 +6684,7 @@ description: What am I'm doing now
  [:html {:itemscope "" :itemtype "http://schema.org/WebPage"}
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %)]
       [:meta {:itemprop "author" :name "author" :content %author}]
@@ -6578,10 +6697,7 @@ description: What am I'm doing now
       [:header {:class "ph3 ph5-ns pt1 dt"}
         [:div {:class "dtc v-mid pt0"}
           [:a.link {:href "/"}
-            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
-          ]
-        ]]
-      ]
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}]]]]
       [:main {:class "ph3 pb3 pt2 ph5-ns pb5-ns pt2-ns"
               :itemscope ""
               :itemprop "mainEntity"
@@ -6647,7 +6763,7 @@ description: Log of my activities
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %coll)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -6694,7 +6810,7 @@ description: Log of my activities
  [:html
     [:head
       [:meta {:charset "UTF-8"}]
-      [:meta {:width "device-width, initial-scale=1.0, user-scalable=no" :name "viewport"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
       [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
       [:title (:name %)]
       [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
@@ -7088,12 +7204,12 @@ Activity   | Sun | Mon | Tue | Wed | Thu | Fri | Sat
 -----------|-----|-----|-----|-----|-----|-----|-----
 dance      |     |     |     |     |     |     |    
 football   |     |     |     |     |     |     |    
-reading    |  ✓  |     |     |     |     |     |    
+reading    |  ✓  |  ✓  |     |     |     |     |    
 spanish    |     |     |     |     |     |     |    
 pushups    |     |     |     |     |     |     |    
 edu event  |     |     |     |     |     |     |    
 ent event  |     |     |     |     |     |     |    
-cul event  |  ✓  |     |     |     |     |     |    
+cul event  |  ✓  |  ✓  |     |     |     |     |    
 cycling    |     |     |     |     |     |     |    
 tennis     |     |     |     |     |     |     |    
 ping-pong  |     |     |     |     |     |     |    
