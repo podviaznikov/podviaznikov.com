@@ -57,7 +57,59 @@ description: Personal site, journal, wiki
           [:li.mb3  
             [:a.link.f6.b.mb1 {:href "/now"} "Now"]
             [:p.pa0.ma0 "Some information about me"]]
+          [:li.mb3  
+            [:a.link.f6.b.mb1 {:href "/contact"} "Contact"]
+            [:p.pa0.ma0 "Contact me"]]
             ]
+      ]
+    ]])
+```
+
+
+# @contact
+
+description: My contact
+
+### template
+
+```clojure
+(montaigne.fns/html 
+ [:html
+    [:head
+      [:meta {:charset "UTF-8"}]
+      [:meta {:content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" :name "viewport"}]
+      [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
+      [:title (str %author)]
+      [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/favicon.png" :type "image/png"}]
+      [:link {:rel "icon" :role "shortcut icon" :href "https://podviaznikov.com/img/logo.svg" :type "image/svg+xml"}]
+      (if (not (nil? (->> % :description :value)))
+        [:meta {:name "description" :content (->> % :description :value)}])
+      [:link {:rel "stylesheet" :type "text/css" :href "https://npmcdn.com/tachyons@4.11.1/css/tachyons.min.css"}]]
+    [:body
+      [:header {:class "ph3 ph5-ns pt1 dt"}
+        [:div {:class "dtc v-mid pt0"}
+          [:a.link {:href "/"}
+            [:img {:width "44px" :height "44px" :src "https://podviaznikov.com/img/logo.svg"}
+          ]]]
+        [:div {:class "dtc v-mid ph3"}
+          [:h1 {:class "mt0 mb0 baskerville fw1 f4"} "Anton Podviaznikov"]
+          [:h2 {:class "gray mt1 mb0 fw4 f6"} "observer; no answers, only questions"]]
+      ]
+      [:main {:class "ph3 pb3 pt2 ph5-ns pb5-ns pt2-ns"}
+        [:h1.lh-title.f3.athelas (:name %)]
+        [:p.lh-copy.measure
+          "I'm located in the San Francisco. If you are in the city and want to meet for coffee, tea 
+          or a walk, just reach out to me."
+        ]
+        [:dl.f6.lh-title.mv2
+          [:dt.dib.b "Email:"]
+          [:dd.dib.ml1.gray [:a {:href "mailto:anton@podviaznikov.com"} "anton@podviaznikov.com"]]]
+        [:dl.f6.lh-title.mv2
+          [:dt.dib.b "Twitter:"]
+          [:dd.dib.ml1.gray [:a {:href "https://twitter.com/podviaznikov"} "twitter.com/podviaznikov"]]]
+        [:dl.f6.lh-title.mv2
+          [:dt.dib.b "GitHub:"]
+          [:dd.dib.ml1.gray [:a {:href "https://github.com/podviaznikov"} "github.com/podviaznikov"]]]
       ]
     ]])
 ```
@@ -929,7 +981,7 @@ For some reason, he thinks that other people can read his mind and read his feel
 
 description: Reducing ourselves
 date: 2017-12-29
-lastmod: 2018-12-13
+lastmod: 2019-05-15
 draft: false
 tags: reduction, happiness, emotions, support  
 people:   
@@ -945,8 +997,7 @@ When we forget to acknowledge good things about other people we create problems 
 What kind of problems, you ask?
 
 When you tell someone for long period (your child, your friend, your partner) 
-that they are good at this _one_ thing they might start to doubt their wholeness 
-- they might doubt that they have other "good" traits or even doubt that they are able to 
+that they are good at this _one_ thing they might start to doubt their wholeness - they might doubt that they have other "good" traits or even doubt that they are able to 
 have them in the future.
 
 When parents tell to their kid that she is good at e.g. "math" it will be engraved in the child's mind. 
@@ -5676,7 +5727,7 @@ description: My trips
       ]
       [:main {:class "ph3 pb3 pt2 ph5-ns pb5-ns pt2-ns"}
         [:h1.lh-title.f3.athelas (:name %coll)]
-        [:article.lh-copy.measure
+        [:article.lh-copy.measure.w-100.w-50-ns
           [:table {:class "f6 w-100 mw8 center" :cellspacing "0"}
             [:thead
               [:tr
@@ -5695,13 +5746,11 @@ description: My trips
                     [:td.nowrap 
                       (map 
                         (fn [country]
-                          [:span {:title (:country country)} (:flag country)])
+                          [:span.pointer {:title (:country country)} (:flag country)])
                         (:countries row))]
                     ])
                 (->> %coll :tripssummary :value)
                 )]]
-
-
           [:ul {:class "ph0 pv4 mt0 list measure"}
           (map 
             (fn [entity]
@@ -5709,13 +5758,25 @@ description: My trips
                 [:a.link.f6.b.mb1 {:href (str "/" (->> entity :id :value))} (:name entity)]
                 [:div.mt1.mb0.mh0
                   [:span.f7.ml0.mb0.mr0 "from " (->> entity :started :value) " to " (->> entity :finished :value)]
-                  [:span.f7.ml0.mb0.mr0 "; days " (->> entity :days :value)]
-                  [:span.f7.ml0.mb0.mr0 "; travelled " (->> entity :distance :value) " km"]
-                  [:span.f7.ml0.mb0.mr0 "; emission " (montaigne.fns/format-float  (->> entity :carbon :value) 2) " tons of CO" [:sub "2"]]
+                  [:span.f7.ml0.mb0.mr0 "; "(->> entity :days :value) " days" ]
+                  [:span.f7.ml0.mb0.mr0 "; " (->> entity :distance :value) " km"]
+                  [:span.f7.ml0.mb0.mr0 "; " (montaigne.fns/format-float  (->> entity :carbon :value) 2) " tons of CO" [:sub "2"]]
                 ]
                 ])
             %)]]
-        [:div#map {:class "w-50-ns w-40 h-100 dib ma0" :style "position:fixed;top:0;right:0;"}]  
+        [:div#map {:class "w-100 w-50-ns h-100 dib ma0 fixed-ns" :style "top:0;right:0;"}]  
+      ]
+      [:style 
+      "
+      .mapboxgl-map {
+        position: relative;
+      }
+      @media screen and (min-width: 30em) {
+        .mapboxgl-map {
+          position: fixed;
+        }
+      }
+      "
       ]
       [:script
         (str 
@@ -6289,7 +6350,7 @@ PTY                          | JFK                          | 2013-09-27 | fligh
 New York, United States      | Washington DC, United States | 2013-11-13 | bus    |        |  
 Washington DC, United States | New York, United States      | 2013-11-17 | bus    |        | 
 JFK                          | FRA                          | 2013-12-27 | flight |        | 
-FRA                          | KBP                          | 2013-12-28 | flight |        | 
+FRA                          | KBP                          | 2013-12-28 | flight |        | ✓
 Kyiv, Ukraine                | Kharkiv, Ukraine             | 2013-12-28 | train  |        | ✓ 
 
 
@@ -6483,6 +6544,37 @@ Budva, Montenegro      | Dubrovnik, Croatia     | 2010-05-24 | bus    |        |
 Dubrovnik, Croatia     | Budva, Montenegro      | 2010-05-24 | bus    |        | 
 Budva, Montenegro      | Tivat, Montenegro      | 2010-05-28 | bus    |        | 
 TIV                    | HRK                    | 2010-05-28 | flight |        | ✓
+
+
+## First Trip Carpathian Mountains 2010
+
+type: tourism  
+
+### itinerary
+
+from                         | to                           | date       | type   | data
+---------------------------- | ---------------------------- | ---------- | ------ | ------ 
+Kharkiv, Ukraine             | Ivano-Frankivsk, Ukraine     | 2010-02-23 | train  |  
+Ivano-Frankivsk, Ukraine     | Vorokhta, Ukraine            | 2010-02-23 | bus    |  
+Vorokhta, Ukraine            | Ivano-Frankivsk, Ukraine     | 2010-03-01 | bus    |  
+Ivano-Frankivsk, Ukraine     | Kharkiv, Ukraine             | 2010-03-02 | train  |  
+
+
+## First Trip Abroad 2008
+
+type: tourism  
+
+### itinerary
+
+from                         | to                           | date       | type   | data
+---------------------------- | ---------------------------- | ---------- | ------ | ------ 
+Kharkiv, Ukraine             | Lviv, Ukraine                | 2008-10-31 | train  |  
+Lviv, Ukraine                | Prague, Czech Republic       | 2008-11-02 | bus    |  
+Prague, Czech Republic       | Karlovy Vary, Czech Republic | 2008-11-06 | bus    |  
+Karlovy Vary, Czech Republic | Prague, Czech Republic       | 2008-11-06 | bus    |  
+Prague, Czech Republic       | Dresden, Germany             | 2008-11-07 | bus    |  
+Dresden, Germany             | Lviv, Ukraine                | 2008-11-07 | bus    |       
+Lviv, Ukraine                | Kharkiv, Ukraine             | 2008-11-07 | train  | 
 
 
 # quotes
@@ -7218,7 +7310,7 @@ ping-pong  |     |     |     |     |     |     |
 
 Activity   | Sun | Mon | Tue | Wed | Thu | Fri | Sat
 -----------|-----|-----|-----|-----|-----|-----|-----
-no alcohol |  ✓  |     |     |     |     |     |    
+no alcohol |  ✓  |  ✓  |  ✓  |     |     |     |    
 no coffee  |     |     |     |     |     |     |    
 no sugar   |     |     |     |     |     |     |    
 
