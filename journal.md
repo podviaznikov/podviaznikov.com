@@ -98,7 +98,7 @@ description: My contact
       [:main {:class "ph3 pb3 pt2 ph5-ns pb5-ns pt2-ns"}
         [:h1.lh-title.f3.athelas (:name %)]
         [:p.lh-copy.measure
-          "I'm located in the San Francisco. If you are in the city and want to meet for coffee, tea 
+          "I'm located in San Francisco. If you are in the city and want to meet for coffee, tea 
           or a walk, just reach out to me."
         ]
         [:dl.f6.lh-title.mv2
@@ -2367,6 +2367,49 @@ that would be able to execute these changes.
 None of these people is going to ask for the permissions from our government or from other countries. 
 And that is the most significant fundamental change that happened. 
 People did realize that they are in charge of everything and there is a way to achieve what they want.
+
+
+## Travelling and Diversity
+
+description: Traveling and diversity  
+date: 2015-05-25  
+lastmod: 2019-05-16  
+tags: travelling, education
+people: []
+places: []
+locations: Los Angeles, United States
+
+### content
+
+One of the best parts of traveling for me was meeting people from different cultures, ethnicities, backgrounds, professions. In this post, through my various hosts I've met between 2012-2015, I'll try to reflect on the diversity of people and lives.
+
+In June 2012, I was staying in Zagreb in a beautiful apartment owned and decorated by two extremely talented local architects. I've met their friends who were also architects, and I believe to this day Croatia has the highest ratio of architects per country that I know. This couple was unbelievable, they told me about architecture in Zagreb, about Serbian-Croatian war in the 1990s, about sailing and Croatian islands, about differences between coastal Croatia and northern parts of the country. I've learned about local coffee traditions, discussed Croatian football, pastries, local food markets, Croatian language, trips to Italy, Venetian Biennale, and many more.
+
+In Sarajevo, I've stayed in the apartment owned by the famous local radio journalist. He was in the city during the Siege of Sarajevo. He traveled a lot, been and worked in many different countries. What I liked the most was the love he had for his country, his city, his religion, and culture.
+
+When I came to Rio, I've stayed in the place rented out by Irish couple who moved to Brazil and was working in the travel industry. They were renting out their apartment while making 2-weeks tourist trips to the Bahia.
+
+I came to São Paulo at the end of 2012. I've stayed at the apartment with a fantastic view to Praça Roosevelt. The place was rented out by the Brazilian designer who moved years ago to Amsterdam. The place was small but gorgeous. I think it remains an apartment with the best interior design I ever saw. I never saw the owner in person but I feel I was able to connect and understand a lot about our host through the design.
+
+In January 2013, I arrived in Mexico City from Brazil. I've stayed in the family home with a family of 3 people: grandma, our host and her kid. It was a huge surprise for me to discover that the family moved here a lot of years ago from Brazil! I still don't know how common it is for people to leave Brazil and come to Mexico or the Netherlands. But two of my hosts did just that.
+
+In El Salvador, I've stayed in a small family house that belonged to the super kind and friendly person. Single Salvadorian young mom, with lovely boy, was working as a graphic designer (making designs for the drug's packaging) in the local company. I've met her family: mother and brother were respected doctors in the local hospital. I've visited this hospital and spent one day shopping together on the local market and next day relaxing together on the seaside.
+
+In Tegucigalpa, I've stayed in a tiny hotel with ten rooms. I got acquainted with the hotel owner who was working on the site with all tourist rentals for Honduras.
+
+My hosts in Leon Nicaragua were a couple in the late 30s from France. They visited this beautiful country years ago, liked the place and moved to run their small mini-hotel.
+
+I've stayed in Panama with well-off young Colombian couple who left their home country and moved their family business to Panama. Guy had Belgian roots and girl was from the Arabic family in Cartagena. Brother of my host became a quite famous comedian using Vine to post his short funny videos about Latin culture.
+
+In Ecuador, I've stayed with the Ecuadorian/Catalan guy. It was very tough for him to identify himself with one of the ethnicities. At the time he was remodeling his mom's home in the Quito's downtown to become a small hotel. He told me about the diversity of Ecuador, his travel to India, and dreams to learn shamans' craft.
+
+In Washington, I stayed with a young American couple who were working for White house and dreamed of improving their country.
+
+In Istanbul, I've rented a place together with a local fashion photographer. What I remember about him was his frustration with local government (which is an internationaly common topic among the majority of countries I visited).
+
+In Macedonia, I've rented a place from the local couple (wife was a manager in the local branch of big bank and husband was taking care of the house, kids and Airbnb property). I mostly interacted with a husband who was officially unemployed by his own choice (which is still uncommon today for some reason). This allowed us to have multiple interesting discussions.
+
+I wanted to analyze diversity that travel can provide: ethnicities, cultures, food, languages, etc. It allows you to learn about different professions, hear different opinions, views, conclusions. There are a lot of opportunities just in travel, you can find friends, you can find jobs, you can find connections. If you experienced all of this you can create something new. You can become a fusion of different cultures, ideas and form or create something unique on top of that.
 
 
 ## Is History Harmful?
@@ -6139,11 +6182,11 @@ type: tourism
 
 ### itinerary
 
-from            | to                       | date       | type   | data           | ✓ 
+from            | to                       | date       | type   | data           | layover 
 --------------- | ------------------------ | ---------- | ------ | -------------- | --------
 SFO             | MEX                      | 2018-10-05 | flight | UA412, A320    | 
 MEX             | TIJ                      | 2018-10-08 | flight | Y4813, A320    | 
-Tijuana, Mexico | San Diego, United States | 2018-10-09 | car    |                | true
+Tijuana, Mexico | San Diego, United States | 2018-10-09 | car    |                | ✓
 SAN             | SFO                      | 2018-10-09 | flight | UA662, 737-800 | 
 
 
@@ -6193,10 +6236,12 @@ type: friends and work
 
 ### itinerary
 
-from | to  | date       | type   | data 
----- | --- | ---------- | ------ | ------------  
-SFO  | SAN | 2018-02-02 | flight | VX1958, A320  
-SAN  | SFO | 2018-02-10 | flight | VX1979, A320  
+from                     | to                       | date       | type   | data         | layover
+------------------------ | ------------------------ | ---------- | ------ | ------------ | -------- 
+SFO                      | SAN                      | 2018-02-02 | flight | VX1958, A320 |  
+San Diego, United States | Tijuana, Mexico          | 2018-02-02 | train  |              | ✓
+Tijuana, Mexico          | San Diego, United States | 2018-02-04 | train  |              | 
+SAN                      | SFO                      | 2018-02-10 | flight | VX1979, A320 |    
 
 
 ## Hong Kong Birthday Trip
@@ -6322,6 +6367,18 @@ from | to  | date       | type   | data
 ---- | --- | ---------- | ------ | ------ 
 SFO  | IST | 2015-08-15 | flight | TK0080 
 IST  | SFO | 2015-09-01 | flight | TK0079  
+
+
+## LA Second Trip 2015
+
+purpose: tourism  
+
+### itinerary
+
+from                         | to                           | date       | type | data 
+---------------------------- | ---------------------------- | ---------- | ---- | -----
+San Francisco, United States | Los Angeles, United States   | 2015-05-22 | bus  | 
+Los Angeles, United States   | San Francisco, United States | 2015-05-25 | bus  | 
 
 
 ## Portland First Trip 2015
@@ -6488,13 +6545,14 @@ type: tourism
 
 ### itinerary
 
-from | to  | date       | type   | data   | layover
----- | --- | ---------- | ------ | ------ | -------
-KBP  | FRA | 2012-01-09 | flight | LH1493 | 
-FRA  | SFO | 2012-01-09 | flight | LH454  | ✓
-SFO  | JFK | 2012-06-15 | flight | DL2340 |   
-JFK  | FRA | 2012-06-21 | flight | LH401  |   
-FRA  | BEG | 2012-06-22 | flight | LH1406 | ✓  
+from                       | to                         | date       | type   | data   | layover
+-------------------------- | -------------------------- | ---------- | ------ | ------ | -------
+KBP                        | FRA                        | 2012-01-09 | flight | LH1493 | 
+FRA                        | SFO                        | 2012-01-09 | flight | LH454  | ✓
+San Jose, United States    | Los Angeles, United States | 2012-04-19 | car    |        | 
+Los Angeles, United States | San Jose, United States    | 2012-04-19 | car    |        | 
+SFO                        | JFK                        | 2012-06-15 | flight | DL2340 |   
+JFK                        | FRA                        | 2012-06-21 | flight | LH401  |   
 
 
 ## Leaving Montenegro
