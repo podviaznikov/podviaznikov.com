@@ -449,7 +449,7 @@ from this particular moment.
 
 description: On the style of communication that is yet to come
 date: 2018-02-25
-lastmod: 2018-12-13
+lastmod: 2019-05-18
 tags: post-mortems, reflections, failures, action items  
 people: Kahil Gibran, Woody Allen, Aziz Ansari  
 places:   
@@ -467,10 +467,10 @@ Later I had the same type of conversation replicated in the offline setting.
 
 Few things disturb me in what I've noticed:
 
-- as I said, there are always _two_ camps. And discussed issue  used for polarization and delaminating line of the conflict
-- the discussion is mostly emotional and not rational. It's usually about expressing emotions and fears, but not understanding what happened
-- the discussion is mostly about individual people and blame. The blame would be assigned to the discussed individuals, and no effort would be made to identify underlying structural real reasons for the discussed situation
-- the discussion is usually about past and not the future. I've heard a lot of arguments about why some person was wrong. But I never heard ideas or what _to do_ about the issue. What actions each one and all of us should take to solve the problem
+- As I said, there are always _two_ camps. And discussed issue  used for polarization and delaminating line of the conflict.
+- The discussion is mostly emotional and not rational. It's usually about expressing emotions and fears, but not understanding what happened.
+- The discussion is mostly about individual people and blame. The blame would be assigned to the discussed individuals, and no effort would be made to identify underlying structural real reasons for the discussed situation.
+- The discussion is usually about past and not the future. I've heard a lot of arguments about why some person was wrong. But I never heard ideas or what _to do_ about the issue. What actions each one and all of us should take to solve the problem.
 
 There are different functions that conversation perform.
 Informational exchange, emotional exchange, probing of what our peers think and into our "normality."
@@ -509,9 +509,9 @@ if you did recognize, that both suffered,
 if you did recognize that this failure was also systematic and cultural failure more than an individual one.
 
 Then you might come up with a list of ideas/directions to work on:
-- how about teaching kids of both sexes to communicate their boundaries better (and maybe even adults)
-- how about teaching some skills of emotional intelligence, like body language
-- how about improving how we teach sexual education
+- how about teaching kids of both sexes to communicate their boundaries better (and maybe even adults).
+- how about teaching some skills of emotional intelligence, like body language.
+- how about improving how we teach sexual education.
 - how about making pop culture Hollywood movies on such topics, showing what is appropriate and what is not.
  Why do we have so many movies focusing on having sex on the first date, but no movies that show us how to communicate "no".
 
@@ -538,7 +538,7 @@ Acknowledge the problem, identify several root causes, create action items to fi
 
 description: Thinking about the nature of games  
 date: 2018-02-09  
-lastmod: 2019-01-21  
+lastmod: 2019-05-18  
 tags: games, football, competition, collaboration  
 people: []  
 places: São Paulo  
@@ -586,11 +586,11 @@ I became much better player than I ever was. In addition to having more amount f
 
 What I learned from this is that:
 
-- ego is a problem. People who play by themselves usually have a massive ego, and it's not fun to have them around.
-- trust and responsibility are essential. Believe in your teammates and make them responsible for something. It's a win-win.
-- victory as a result of collaboration (or team work) is much more satisfactory than any individual achievement
-- there are different ways to play a game (or live life for that matter), not all of them are equal
-- if fun and happiness are distributed - everyone wins 
+- Ego is a problem. People who play by themselves usually have a massive ego, and it's not fun to have them around.
+- Trust and responsibility are essential. Believe in your teammates and make them responsible for something. It's a win-win.
+- Victory as a result of collaboration (or team work) is much more satisfactory than any individual achievement.
+- There are different ways to play a game (or live life for that matter), not all of them are equal.
+- If fun and happiness are distributed - everyone wins. 
 
 
 ## Joke is on Us
@@ -7410,11 +7410,11 @@ Activity   | Sun | Mon | Tue | Wed | Thu | Fri | Sat
 -----------|-----|-----|-----|-----|-----|-----|-----
 dance      |     |     |     |     |     |     |    
 football   |     |     |     |     |     |     |    
-reading    |  ✓  |  ✓  |     |     |     |     |    
-spanish    |     |     |     |     |     |     |    
+reading    |  ✓  |  ✓  |     |     | ✓   |     |    
+spanish    |     |     |     |     | ✓   |     |    
 pushups    |     |     |     |     |     |     |    
 edu event  |     |     |     |     |     |     |    
-ent event  |     |     |     |     |     |     |    
+ent event  |     |     |     |     |     |  ✓  |  ✓  
 cul event  |  ✓  |  ✓  |     |     |     |     |    
 cycling    |     |     |     |     |     |     |    
 tennis     |     |     |     |     |     |     |    
@@ -7424,7 +7424,7 @@ ping-pong  |     |     |     |     |     |     |
 
 Activity   | Sun | Mon | Tue | Wed | Thu | Fri | Sat
 -----------|-----|-----|-----|-----|-----|-----|-----
-no alcohol |  ✓  |  ✓  |  ✓  |     |     |     |    
+no alcohol |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |     |  ✓ 
 no coffee  |     |     |     |     |     |     |    
 no sugar   |     |     |     |     |     |     |    
 
@@ -7457,3 +7457,34 @@ Activity   | Sun | Mon | Tue | Wed | Thu | Fri | Sat
 no alcohol |     |     |     |     |     |     |    
 no coffee  |     |     |     |     |     |     |    
 no sugar   |     |     |     |     |     |     |    
+
+
+## week 13
+
+start: 2019-05-26  
+end: 2019-06-01  
+
+### activities
+
+Activity   | Sun | Mon | Tue | Wed | Thu | Fri | Sat
+-----------|-----|-----|-----|-----|-----|-----|-----
+dance      |     |     |     |     |     |     |    
+football   |     |     |     |     |     |     |    
+reading    |     |     |     |     |     |     |    
+spanish    |     |     |     |     |     |     |    
+pushups    |     |     |     |     |     |     |    
+edu event  |     |     |     |     |     |     |    
+ent event  |     |     |     |     |     |     |    
+cul event  |     |     |     |     |     |     |    
+cycling    |     |     |     |     |     |     |    
+tennis     |     |     |     |     |     |     |    
+ping-pong  |     |     |     |     |     |     |    
+
+### intake
+
+Activity   | Sun | Mon | Tue | Wed | Thu | Fri | Sat
+-----------|-----|-----|-----|-----|-----|-----|-----
+no alcohol |     |     |     |     |     |     |    
+no coffee  |     |     |     |     |     |     |    
+no sugar   |     |     |     |     |     |     |    
+
