@@ -2852,7 +2852,7 @@ date: 2018-04-30
 lastmod: 2018-10-30
 locations: Berlin
 
-## poem
+### poem
 
 Foolish me.  
 I thought I knew a thing.  
@@ -2876,13 +2876,13 @@ It hides from you,
 And you always try to seek it.  
 It’s a phantom,  
 It’s a ghost that can’t bee seen.  
-The moment you grab it evaporates.  
+The moment you grab it it evaporates.  
 And you need to start from scratch.
 
 The Truth can’t be described,  
 It can’t be said in words.  
 It’s bigger than that.  
-It’s like a God, or better like water  
+It’s like a God, or better, like water  
 That you want to take with your bare hands.  
 You feel it, you are on the grasp of it,  
 And then it’s gone.  
@@ -6040,7 +6040,8 @@ description: My trips
           [:article.lh-copy.measure
             (map (fn [row]
               [:dl {:class "f6 lh-title mv2"}
-                  [:dt {:class "dib gray"} (:city row) ", " (:country row)]
+                  [:dt {:class "dib gray"} (:city row) 
+                    [:span.pointer {:title (:country row)} (:country-flag row)]]
                   [:dd {:class "dib ml1"} (:days row) " days; from " (:date-from row) " to " (:date-to row)]
                 ]
             )(->> % :visited-cities :value))]
@@ -6459,7 +6460,7 @@ purpose: Hacker School and Clojure/conj
 
 from                         | to                           | date       | type   | data   | layover
 ---------------------------- | -----------------------------| ---------- | ------ | ------ | -------
-PTY                          | JFK                          | 2013-09-27 | flight | CM830  | 
+PTY                          | JFK                          | 2013-09-27 | flight | CM830  | ✓
 New York, United States      | Washington DC, United States | 2013-11-13 | bus    |        |  
 Washington DC, United States | New York, United States      | 2013-11-17 | bus    |        | 
 JFK                          | FRA                          | 2013-12-27 | flight |        | 
@@ -6467,7 +6468,7 @@ FRA                          | KBP                          | 2013-12-28 | fligh
 Kyiv, Ukraine                | Kharkiv, Ukraine             | 2013-12-28 | train  |        | ✓ 
 
 
-## South America 2012-2013
+## Ecuador and Argentina 2013
 
 type: tourism  
 
@@ -6475,12 +6476,25 @@ type: tourism
 
 from                      | to                        | date       | type   | data   | layover
 ------------------------- | ------------------------- | ---------- | ------ | ------ | -----
-Kharkiv, Ukraine          | Kyiv, Ukraine             | 2012-11-16 | train  |        |  
-KBP                       | FRA                       | 2012-11-17 | flight | LH1493 | 
-FRA                       | GIG                       | 2012-11-17 | flight | DE6080 | ✓
-Rio de Janeiro, Brazil    | Sao Paulo, Brazil         | 2012-12-14 | bus    |        | 
-GRU                       | PTY                       | 2013-01-30 | flight | CM724  | 
-PTY                       | MEX                       | 2013-01-30 | flight | CM136  | 
+GYE                       | UIO                       | 2013-08-05 | flight | EQ314  | ✓ 
+Quito, Ecuador            | Baños, Ecuador            | 2013-08-25 | bus    | DL2340 |  
+Baños, Ecuador            | Quito, Ecuador            | 2013-09-01 | bus    | DL2340 | 
+UIO                       | GYE                       | 2013-09-02 | flight | LA1441 | 
+GYE                       | SCL                       | 2013-09-02 | flight | LA1447 | ✓
+SCL                       | EZE                       | 2013-09-02 | flight | LA443  | ✓ 
+EZE                       | GRU                       | 2013-09-26 | flight |        | 
+GRU                       | PTY                       | 2013-09-27 | flight | CM758  | 
+
+
+## Central America 2013
+
+type: tourism  
+
+### itinerary
+
+from                      | to                        | date       | type   | data   | layover
+------------------------- | ------------------------- | ---------- | ------ | ------ | -----
+PTY                       | MEX                       | 2013-01-30 | flight | CM136  | ✓
 MEX                       | CUN                       | 2013-02-06 | flight | VOI712 | 
 Cancun, Mexico            | Playa del Carmen, Mexico  | 2013-02-06 | bus    |        | ✓
 Playa del Carmen, Mexico  | Cancun, Mexico            | 2013-05-04 | bus    |        | 
@@ -6493,15 +6507,21 @@ León, Nicaragua           | Managua, Nicaragua        | 2013-07-20 | bus    |  
 Managua, Nicaragua        | San Jose, Costa Rica      | 2013-07-23 | bus    |        | 
 San Jose, Costa Rica      | Panama City, Panama       | 2013-07-25 | bus    |        | 
 PTY                       | GYE                       | 2013-08-05 | flight | EQ505  | 
-GYE                       | UIO                       | 2013-08-05 | flight | EQ314  | ✓ 
-Quito, Ecuador            | Baños, Ecuador            | 2013-08-25 | bus    | DL2340 |  
-Baños, Ecuador            | Quito, Ecuador            | 2013-09-01 | bus    | DL2340 | 
-UIO                       | GYE                       | 2013-09-02 | flight | LA1441 | 
-GYE                       | SCL                       | 2013-09-02 | flight | LA1447 | ✓
-SCL                       | EZE                       | 2013-09-02 | flight | LA443  | ✓ 
-EZE                       | GRU                       | 2013-09-26 | flight |        | 
-GRU                       | PTY                       | 2013-09-27 | flight | CM758  | 
-PTY                       | JFK                       | 2013-09-27 | flight | CM830  | ✓
+
+
+## Brazil 2012-2013
+
+type: tourism  
+
+### itinerary
+
+from                      | to                        | date       | type   | data   | layover
+------------------------- | ------------------------- | ---------- | ------ | ------ | -----
+Kharkiv, Ukraine          | Kyiv, Ukraine             | 2012-11-16 | train  |        |  
+KBP                       | FRA                       | 2012-11-17 | flight | LH1493 | 
+FRA                       | GIG                       | 2012-11-17 | flight | DE6080 | ✓
+Rio de Janeiro, Brazil    | Sao Paulo, Brazil         | 2012-12-14 | bus    |        | 
+GRU                       | PTY                       | 2013-01-30 | flight | CM724  | 
 
 
 ## Berlin 2012
@@ -6512,17 +6532,22 @@ type: tourism
 
 from                     | to                       | date       | type   | data   | layover
 ------------------------ | ------------------------ | ---------- | ------ | ------ | -----
-Kharkiv, Ukraine         | Kyiv, Ukraine            | 2012-10-14 | train  |        |  
+Kharkiv, Ukraine         | Kyiv, Ukraine            | 2012-10-14 | train  |        | ✓ 
 KBP                      | FRA                      | 2012-10-14 | flight | LH1491 | ✓
-FRA                      | TXL                      | 2012-10-14 | flight | LH190  | 
+FRA                      | TXL                      | 2012-10-14 | flight | LH190  | ✓
 TXL                      | MUC                      | 2012-11-05 | flight | LH2035 | 
 MUC                      | KBP                      | 2012-11-05 | flight | LH2544 | ✓
-Kyiv, Ukraine            | Kharkiv, Ukraine         | 2012-10-14 | train  |        |  
+Kyiv, Ukraine            | Kharkiv, Ukraine         | 2012-11-05 | train  |        | ✓ 
 
 
 ## Balkans 2012
 
 type: tourism  
+
+### summary
+
+Add stay on the island. Also find the date of Belgrade/Zagreb trip.
+
 
 ### itinerary
 
@@ -7440,11 +7465,11 @@ Activity   | Sun | Mon | Tue | Wed | Thu | Fri | Sat
 -----------|-----|-----|-----|-----|-----|-----|-----
 dance      |     |     |     |     |     |     |    
 football   |     |     |     |     |     |     |    
-reading    |     |     |     |     |     |     |    
+reading    |  ✓  |  ✓  |     |     |     |     |    
 spanish    |     |     |     |     |     |     |    
 pushups    |     |     |     |     |     |     |    
 edu event  |     |     |     |     |     |     |    
-ent event  |     |     |     |     |     |     |    
+ent event  |  ✓  |     |     |     |     |     |    
 cul event  |     |     |     |     |     |     |    
 cycling    |     |     |     |     |     |     |    
 tennis     |     |     |     |     |     |     |    
