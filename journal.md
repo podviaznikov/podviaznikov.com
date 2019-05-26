@@ -2084,7 +2084,7 @@ Are we even aware of changes in those areas?
 
 description: On people that on my opinion are the most dangerous for the society
 date: 2016-02-24  
-lastmod: 2018-12-13  
+lastmod: 2019-05-21  
 tags: society, modernity  
 people: []
 places: []
@@ -2100,8 +2100,8 @@ There are two types of people that I am afraid of:
 There is an intersection between those two categories which we should be aware of. 
 Let me explain whom I consider being such people categories and why I am afraid of them.
 
-In the last couple of years, I met a decent amount of people that lead me to write this post. 
-For me, those were usually "entrepreneurs" (from various countries) that had 1 goal (become rich and powerful). 
+In the last couple of years, I've met a decent amount of people that lead me to write this post. 
+For me, those were usually "entrepreneurs" (from various countries) that had one single goal (become rich and powerful). 
 Usually, they also do some projects that bring either ~0 value to people and societies or in some cases creates harm 
 (e.x. products that play on weaknesses of people, products that make people worth and not better human beings).
 
@@ -2124,7 +2124,7 @@ I like when a person is opinionated, I think it's a good trait, it means to me t
 What I don't like when a person has an opinion but has basically no mechanism to change that opinion though communication with another person. 
 Those people can look smart but to be honest, I wouldn't call any person without feedback mechanism smart (hence the quotes "smart" above). 
 Again, there is no real danger until such person achieves some "success" and gets some money and some power. 
-After that happens real problems arise. Recently I saw a lot of people who _have all the answers to all the problems). 
+After that happens real problems arise. Recently I saw a lot of people who _have all the answers_ to all the problems). 
 I noticed a lot of arrogance and unwillingness to listen, to explain, to discuss, to communicate and to find solutions together. 
 Journalists are "experts" on every topic, politicians are "experts," 
 regular people are "experts," "entrepreneurs" are experts on the politics, peace, economy, happiness, etc. 
@@ -3458,6 +3458,62 @@ locations: San Francisco
 Відчуй свою шкіру і відчуй мою  
 Відчуй свої емоції і відчуй мої  
 Доторкнись
+
+
+## Dytynstvo
+
+title: Дитинство  
+description: Розмова про дитинство  
+date: 2019-05-25  
+lastmod: 2019-05-25  
+locations: Kihei  
+
+### poem
+
+Твоє дитинство пояснює все  
+Всі таємниці та загадки ведуть туди.
+
+Я бачу в твоєму тілі багато напруги,  
+тебе недостатньо обмімали дитиною?
+
+Я бачу ти читаєш багато.  
+Намагалася втікти з реальності у вигадані світи?  
+Врятуватися, тому що все було занадто важко для десятирічної дитини?
+
+Я бачу як швидко та якісно працює твій мозок.  
+Як чудово він вміє аналізувати та знаходити рішення.  
+Твоє оточення було беспомічним, чи не так?
+
+Я бачу, тобі важко даються спогади.  
+Нічого згадати за перші 16 років життя,  
+чи твоя підсвідомість блокує думки про ті події та те оточення?
+
+О, я бачу яка чиста твоя мова!  
+Ти - протилежність свого дитячого середовища.  
+Ти хочеш бути інакшою, кращою.  
+Тому що ти бачила, що старі моделі не працюють.  
+Там немає щирості, розуміння чи любові.  
+Тому ти пробувала робити все інакше, часто навпаки.  
+Я дякую тобі за це.
+
+Ти не любиш повертатися туди де ти виросла?  
+А як могло бути інакше, ти хотіла вирватись.  
+Нічого не виросте на тій землі, коріння давно прогнило.  
+Ти шукаєш нового місця для себе.  
+Місце з твоїми ідеалами, з мріями, з підтримкою,  
+з чесністю, з оптимізмом, з емоціями, з якістю, з турботою,  
+з бажаннями та прагненнями, з цікавістю та відкритістю, 
+з різноманітністю та з повагою.  
+Але повернутися доведеться також, хоча б тимчасово.  
+Для примирення і прийняття, для кращого розуміння себе.  
+Але це буде пізніше, не хвилюйся про це.
+
+Розкажи мені свої історії.  
+Я поділюся своїми. Це допомагає.  
+Все стає легше, ці історії стануть смішними, повір.  
+Ми не будемо розуміти як таке могло відбутися насправді.  
+Скоро прийде легкість. Але спочатку трохи сліз та злості.  
+Це нормально, відпусти
 
 
 # haiku
@@ -5730,8 +5786,8 @@ started    | finished   | locations
 ### review
 
 Engaging book. Learned a lot about region I knew so little. 
-The book laid out the history of the region and history scientific inqury into it. 
-I've read it just in few days and couldn't stop reading.
+The book laid out the history of the Polynesia and the history of scientific inqury into it. 
+I've read it just in few days because was very engaged.
 
 
 ## Daring Greatly
@@ -6083,6 +6139,18 @@ description: My trips
     ]
   ])
 ```
+
+
+## Mammoth 2019
+
+type: pleasure, hiking  
+
+### itinerary
+
+from                         | to                           | date       | type   
+---------------------------- | ---------------------------- | ---------- | -----
+San Francisco, United States | Mammoth, United States       | 2019-05-17 | car
+Mammoth, United States       | San Francisco, United States | 2019-05-19 | car
 
 
 ## Volunteering in Ukraine 2019
@@ -7464,22 +7532,22 @@ end: 2019-05-25
 Activity   | Sun | Mon | Tue | Wed | Thu | Fri | Sat
 -----------|-----|-----|-----|-----|-----|-----|-----
 dance      |     |     |     |     |     |     |    
-football   |     |     |     |     |     |     |    
-reading    |  ✓  |  ✓  |     |     |     |     |    
-spanish    |     |     |     |     |     |     |    
+football   |     |     |     |     |  ✓  |     |    
+reading    |  ✓  |  ✓  |     |     |  ✓  |  ✓  |  ✓  
+spanish    |     |     |     |     |  ✓  |     |    
 pushups    |     |     |     |     |     |     |    
 edu event  |     |     |     |     |     |     |    
-ent event  |  ✓  |     |     |     |     |     |    
+ent event  |  ✓  |     |     |  ✓  |     |     |    
 cul event  |     |     |     |     |     |     |    
 cycling    |     |     |     |     |     |     |    
-tennis     |     |     |     |     |     |     |    
+tennis     |     |     |     |  ✓  |     |     |    
 ping-pong  |     |     |     |     |     |     |    
 
 ### intake
 
 Activity   | Sun | Mon | Tue | Wed | Thu | Fri | Sat
 -----------|-----|-----|-----|-----|-----|-----|-----
-no alcohol |     |     |     |     |     |     |    
+no alcohol |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  | ✓  
 no coffee  |     |     |     |     |     |     |    
 no sugar   |     |     |     |     |     |     |    
 
@@ -7513,3 +7581,32 @@ no alcohol |     |     |     |     |     |     |
 no coffee  |     |     |     |     |     |     |    
 no sugar   |     |     |     |     |     |     |    
 
+
+## week 14
+
+start: 2019-06-02  
+end: 2019-06-08  
+
+### activities
+
+Activity   | Sun | Mon | Tue | Wed | Thu | Fri | Sat
+-----------|-----|-----|-----|-----|-----|-----|-----
+dance      |     |     |     |     |     |     |    
+football   |     |     |     |     |     |     |    
+reading    |     |     |     |     |     |     |    
+spanish    |     |     |     |     |     |     |    
+pushups    |     |     |     |     |     |     |    
+edu event  |     |     |     |     |     |     |    
+ent event  |     |     |     |     |     |     |    
+cul event  |     |     |     |     |     |     |    
+cycling    |     |     |     |     |     |     |    
+tennis     |     |     |     |     |     |     |    
+ping-pong  |     |     |     |     |     |     |    
+
+### intake
+
+Activity   | Sun | Mon | Tue | Wed | Thu | Fri | Sat
+-----------|-----|-----|-----|-----|-----|-----|-----
+no alcohol |     |     |     |     |     |     |    
+no coffee  |     |     |     |     |     |     |    
+no sugar   |     |     |     |     |     |     |    
